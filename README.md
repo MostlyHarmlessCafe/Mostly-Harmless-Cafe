@@ -4,7 +4,6 @@ The goal of this website is to have a community-written cookbook that people can
 When contributing please use the sample provided in /recipes. Pictures for the recipes are fine but please make them as professional as possible without PII. Please no stories or epiphanies.
 
 ## How to test
-
 	1. Clone the repo
 	`git clone https://github.com/LizardForth/MostlyHarmless`
 	2. Change into the cloned directory and host a server.
