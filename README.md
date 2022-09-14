@@ -20,3 +20,7 @@ python3 -m http.server
 	- Reminder to use recipes/sample.html as a template. Standard for this is going to be to name the file after the recipe, so if your recipe is Drunken Chicken you'd have the following values:
 		- Filename: `drunken-chicken.html`
 		- Title: `Cookbook | Drunken Chicken`
+
+## Todo:
+- [ ] Optimize pictures so the page loads smoother.
+- [ ] Add more recipes, right now it looks like the menu of a restaurant for minimal hipsters
