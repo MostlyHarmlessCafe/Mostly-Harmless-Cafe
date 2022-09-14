@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "jost 300 light";
-	src: url("/fonts/Jost-300-Light.ttf")
+	src: url("/fonts/jost/Jost-300-Light.ttf")
 }
 @font-face {
 	font-family: "drafting mono";
- 	src: url("/fonts/DraftingMono-Regular.ttf")
+ 	src: url("/fonts/drafting_mono/DraftingMono-Regular.ttf")
 }
 h1 {
 	font-size: 20px;
