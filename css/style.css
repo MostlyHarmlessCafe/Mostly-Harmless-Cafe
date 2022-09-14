@@ -57,7 +57,12 @@ p {
 .foot {
 	margin-top: 40px;
 	padding: 20px 0px 0px 0px;
-	border-top: 2px solid #e5e5e0;
+}
+.foot hr {
+	width: 40%;
+	margin: auto;
+	padding-bottom: 15px;
+	text-align: center;
 }
 
 .journal {
