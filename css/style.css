@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "jost 300 light";
-	src: url("/cookbook/fonts/Jost-300-Light.ttf")
+	src: url("/fonts/Jost-300-Light.ttf")
 }
 @font-face {
 	font-family: "drafting mono";
- 	src: url("/cookbook/fonts/DraftingMono-Regular.ttf")
+ 	src: url("/fonts/DraftingMono-Regular.ttf")
 }
 h1 {
 	font-size: 20px;
