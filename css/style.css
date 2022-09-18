@@ -9,6 +9,7 @@
 h1 {
 	font-size: 20px;
 	margin-top: 10px;
+	
 }
 h2 {
 	font-size: 14px;
@@ -94,7 +95,8 @@ p {
 .toc h1 {
 	font-size: 32px;
 	text-align: center;
-}
+} 
+
 .toc a, .toc a:visited {
 	color: #3b3b3b;
 	text-decoration: none;
@@ -109,4 +111,31 @@ p {
 }
 .toc h1 ~ h1 {
 	padding-top: 25px;
+}
+
+.banner {
+	padding: 0px 50px 0px 50px
+}
+.banner ul {
+	text-align: center;
+	list-style-type: none;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+
+.banner li {
+	font-size: 16px;
+	display: inline-block;
+	border-right: 0.5px solid;
+	line-height: 15px;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	min-width: 15%;
+}
+.banner li:first-child {
+	border-left: 0.5px solid;
+}
+.banner a, .banner a:visited {
+        color: #3b3b3b;
 }
