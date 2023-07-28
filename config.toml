@@ -1,4 +1,4 @@
-baseURL = 'https://testing.mostlyharmless.cafe/'
+baseURL = 'https://cookbook.mostlyharmless.cafe/'
 languageCode = 'en-us'
 title = 'Mostly Harmless Cafe'
 uglyURLs = true
