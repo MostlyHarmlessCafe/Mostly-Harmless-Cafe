@@ -1,0 +1,31 @@
+{{ define "title" }}
+	{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<div class="recipe-page col-lg-2 col-6">
+	<div class="page-title">
+		<h1>{{ .Page.Title }}</h1>
+		~| <a href="{{ .Site.BaseURL }}">home</a>
+	</div>
+	{{ .Content }}
+	{{ $group := index .Params.tags 0 }}
+	<ul>
+		{{ range (where .Site.Pages "Section" "posts") }}
+			{{ $letter := newScratch }}
+			{{ $letter.Set "current" "null" }}
+			{{ range $i := ( sort .Pages "Title" "asc" ) }}
+				{{ if in $i.Params.tags $group }}
+					{{ $current_letter := ($letter.Get "current") }}
+					{{ $leading_letter := (slicestr $i.Title 0 1) }}
+					{{ if ne $leading_letter $current_letter }}
+						<h3 class="recipe-header">{{ $leading_letter }}</h3>
+						{{ $letter.Set "current" $leading_letter }}
+					{{ end }}
+					<li><a href="{{ $i.RelPermalink }}">{{ $i.Title }}</a></li>
+				{{ end }}
+			{{ end }}
+		{{ end }}
+	</ul>
+</div>
+
+{{ end }}

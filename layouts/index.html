@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main aria-role="main">
+	<div class="homepage col-lg-4 col-md-4 col-12">
+		<img src="images/logo.png">
+		<div class="homepage-content">
+			{{ .Content }}
+		</div>
+	</div>
+</main>
+{{ end }}
+
+{{ define "footer" }}
+<footer aria-role="footer">
+	<div class="credits col-lg-4 col-md-6 col-10">
+		<h3><a target="_blank" href="https://github.com/deadbody13/deadbody13.github.io">Contributing a Recipe</a></h3>
+		<table>
+			<tr>
+				<th colspan="2">Credits</th>
+			</tr>
+			<tr>
+				<td width="30%"><a target="_blank" href="https://github.com/deadbody13">Deadbody13</a></td>
+				<td>Web Design, Recipe Contributor</td>
+			</tr>
+			<tr>
+				<td> <a target="_blank" href="https://github.com/LizardForth">SpicyForth</a></td>
+				<td>Graphics Design, Recipe Contributor, Site Hosting</td>
+			</tr>
+		</table>
+
+	</div>
+</footer>
+{{ end }}

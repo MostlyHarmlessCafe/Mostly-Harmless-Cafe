@@ -1,0 +1,109 @@
+@font-face {
+	font-family: "Jost Light";
+	src: url("/fonts/Jost-300-Light.ttf");
+}
+:root {
+	--foreground: #5c5852;
+	--foreground-accent: #a6752e;
+	--background: #fcf5e5;
+	--border-color: #ccc8c2;
+}
+body {
+	font-family: "Jost Light";
+	color: var(--foreground);
+	background-color: var(--background);
+}
+
+a:link, a:visited {
+	color: inherit;
+}
+a:hover {
+	color: var(--foreground-accent);
+}
+.container {
+	padding-bottom: 20px;
+}
+
+.page-title {
+	padding-bottom: 15px;
+	> h1 {
+		padding-bottom: 0px;
+		margin-bottom: 0px;
+	}
+}
+.homepage {
+	padding: 5% 0px 20px 0px;
+	margin: auto;
+	img {
+		display: block;
+		width: 300px;
+	}
+	h2 {
+		text-decoration: underline;
+		padding-top: 10px;
+		padding-left: 100px;
+	}
+	h3 {
+		padding-left: 120px;
+	}
+	.homepage-content {
+		padding: 10px;
+	}
+}
+.credits {
+	padding: 30px 10px 15px 10px;
+	line-height: 1.0;
+	text-align: left;
+	outline: 1px dashed var(--border-color);
+	margin: auto;
+	h3 {
+		text-align: center;
+	}
+	table, th, td {
+		padding: 10px;
+	}
+	th {
+		text-align: center;
+	}
+	tr td:first-child {
+		border-right: 1px solid #ccc8c2;
+	}
+}
+.recipe-page, .recipe-entry {
+	padding-top: 15%;
+	margin: auto;
+}
+.recipe-page {
+	ul {
+		list-style: none;
+		padding-left: 0px;
+	}
+	h1 {
+		margin-bottom: 0px;
+	}
+	.recipe-header {
+		margin: 5px 0px 0px 0px;
+	}
+}
+.recipe-entry-contents {
+	p {
+		padding-left: 5px;
+		font-style: italic;
+	}
+	li > ul > li {
+		font-style: italic;
+	}
+}
+.recipe-credits {
+	border-left: 1px double #ccc8c2;
+	border-width: 5px;
+	padding: 5px 5px 0px 5px;
+	margin: 10px auto 10px auto;
+	font-style: italic;
+	p {
+		margin-bottom: 0px;
+	}
+}
+.center {
+	margin: auto;
+}

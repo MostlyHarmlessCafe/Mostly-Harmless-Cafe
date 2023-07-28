@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Jost Light";
+  src: url("/fonts/Jost-300-Light.ttf"); }
+
+body {
+  font-family: "Jost Light";
+  color: #5c5852;
+  background-color: #fcf5e5; }
+
+a:link, a:visited {
+  color: inherit;
+  text-decoration: none; }
+
+a:hover {
+  color: #a6752e; }
+
+.page-title {
+  padding-bottom: 15px; }
+  .page-title > h1 {
+    padding-bottom: 0px;
+    margin-bottom: 0px; }
+
+.homepage {
+  padding-top: 10%;
+  text-align: center; }
+  .homepage > img {
+    display: block;
+    margin: auto;
+    width: 300px; }
+  .homepage > h2 {
+    text-decoration: underline;
+    padding-top: 10px;
+    font-size: 24px; }
+  .homepage > h3 {
+    font-size: 16px; }
+  .homepage > .credits {
+    padding-top: 20px;
+    line-height: 1.0;
+    margin: auto; }
+    .homepage > .credits > h2 {
+      font-size: 24px; }
+
+.recipe-page, .recipe-entry {
+  padding-top: 5%; }
+
+.recipe-page {
+  text-align: left; }
+  .recipe-page > ul {
+    list-style: none;
+    padding-left: 0px; }
+  .recipe-page > h1 {
+    margin-bottom: 0px; }
+
+.recipe-header {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding: 15px 0px 0px 0px;
+  margin: 0px; }
+
+.center {
+  margin: auto; }
