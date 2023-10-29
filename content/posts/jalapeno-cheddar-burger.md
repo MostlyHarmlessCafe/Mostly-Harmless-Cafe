@@ -8,6 +8,8 @@ tags:
 - burgers
 ---
 
+{{< figure src="/images/food-images/jalapeno-cheddar-burger_deadbody13.jpg" caption="Jalapeno Cheddar Burger; image by deadbody13" alt="Jalapeno Cheddar burger served with fries" >}}
+
 ## Ingredients (beef):
 I know that American Cheese isn't very popular with a lot of people but it melts better than most other cheeses so it's good for putting on top of other ingredients.
 - &frac13; lb ground beef

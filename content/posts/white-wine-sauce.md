@@ -8,16 +8,10 @@ tags:
 - sauce
 ---
 
-## Ingredients (pasta, chicken, and tomatoes):
+{{< figure src="/images/food-images/white-wine-sauce_deadbody13.jpg" caption="Angel hair pasta and chicken served in white wine sauce and garnished with parsley" alt="bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley" >}}
 
-- 1 lb pasta
-- 300 g chicken thighs (cut into bite-size pieces)
-- 1 package of cherry tomatoes (halved)
-- &frac12; tsp salt
-- &frac14; tsp pepper
 
 ## Ingredients (sauce):
-
 - 3 cloves of garlic (minced)
 - &frac14; cup extra virgin olive oil
 - 5 Tbsp butter (unsalted)
@@ -26,16 +20,21 @@ tags:
 - &frac12; tsp ground black pepper
 - &frac12; cup white wine (your choice thereof)
 
+## Ingredients (pasta, chicken, and tomatoes):
+- 1 lb pasta
+- 300 g chicken thighs (cut into bite-size pieces)
+- 1 package of cherry tomatoes (halved)
+- &frac12; tsp salt
+- &frac14; tsp pepper
+- 1 bundle of parsley (finely chopped)
+
 ## Instructions (chicken and tomatoes):
-
 If you're having this with pasta, go ahead and cook that, chill with water, and set to the side.
-
 1. Put chicken in pan on med-high heat.
 2. Midway through, add tomatoes.
 3. Remove all once chicken finishes cooking.
 
 ## Instructions (sauce):
-
 1. Add olive oil, garlic, and red pepper to pan on medium heat.
 2. Cook until garlic is slightly brown.
 3. Add butter, cook until melted.

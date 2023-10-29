@@ -2,6 +2,23 @@
 
 ## Contributing recipes
 
+Thanks for your interest in contributing recipes!
+
+Any recipes are welcome but here's what we currently need most:
+- Submissions
+    - Drinks (alcoholic and non-*)
+    - Baking
+    - Desserts
+    - Anything that isn't currently listed as a category
+- Website
+    - I'm still new to web design so if you see something you can't stand, make a PR or issue saying what you'd like us to try out.
+
+### Via Issue Request
+
+Click the `Issues` tab and select `New issue`. Add the title of your dish, all the ingredients, the steps for the recipe, and a picture of the end product. I'll manually create the post and add it to the recipe branch.
+
+### Via Pull Request
+
 Clone the repo:
 
 `git clone https://github.com/deadbody/deadbody13.github.io`
@@ -25,7 +42,9 @@ tags:
 ---
 ```
 
-### Tags
+#### Formatting Your PR
+
+##### Tags
 
 Tags are used to categorize the food and drinks and sort them into their respective pages. All posts should generally include either a food or drink tag and any other tags that you think should apply.
 
@@ -41,23 +60,31 @@ The current tags are:
  
 If you don't see a tag here that you think should be included with your recipe, go ahead and list it in the front-matter like all the other tags. If I see enough food/drink items for a particular tag (like `baking`, `desserts`, etc.) I'll add it to the menu and it's better to include too many tags than not enough.
 
-### Crediting Yourself or Others
+##### Organization
+
+Entries should have at least an `## Ingredients` (unordered) and `## Instructions` (ordered) section. You can also include a section at the end `### Optional` (unordered).
+
+##### Images
+When submitting images, use Hugo's `figure` shortcode. This allows you to label and credit the images with captions. If you got the photo from someone else or you would like credit yourself, remember to credit the image in the caption.
+```
+{{< figure src="/images/food-images/image.jpg" caption="caption; image by anon001" alt="alt" >}}
+```
+
+##### Crediting Yourself or Others
 
 Credits are... for giving credit. If you want to credit yourself or another person list them here (i.e. `- deadbody13`)
 
-### Previewing
+##### Previewing
+The following command is used to host the website locally. It will then be accessible via `https://localhost:1313/` or something like that.
 
-To see if your entry is showing up and how it looks, go to the base of the clones repo and run `hugo server -D` and follow the link it provides. Should be something like `https://localhost:1313/`. This isn't going to actually make the build itself, it's just going to show a preview of what it will look like when it's live. Don't worry about building it though, just contribute the markdown file with the recipe on it.
+```
+hugo server -D
+```
 
-**Furthermore, **please don't just copy recipes from your favorite cookbooks, at least do something to them to make them unique**. As much as I love using Papa Josh Weissman's recipes I'm not going to post them here unless I made some significant modification to them to make them more "mine".
-
-### Furthermore
+## Furthermore
 
 Try not to include stories, epiphanies on life, embarrassing moments from high school, that time you scraped your knee, or other stuff that people may feel the need to scroll past to get to the recipe itself.
 
-## Organization
-
-Entries should have at least an `## Ingredients` (unordered) and `## Instructions` (ordered) section. You can also include a section at the end `### Optional` (unordered).
 
 ## Contributing to the Website
 

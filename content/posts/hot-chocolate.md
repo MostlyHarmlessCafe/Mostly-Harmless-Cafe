@@ -8,6 +8,8 @@ tags:
 - non-alcoholic
 ---
 
+{{< figure src="/images/food-images/hot-chocolate_deadbody13.jpg" caption="Hot Chocolate; image by deadbody13" alt="cup of Hot Chocolate with 3 marshmallows" >}}
+
 ## Ingredients:
 - 1 &frac12; cups whole milk
 - 4 oz finely chopped cocoa (usally one square, 100% cocoa)

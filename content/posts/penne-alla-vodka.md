@@ -7,6 +7,8 @@ tags:
 - pasta
 ---
 
+{{< figure src="/images/food-images/penne-alla-vodka_deadbody13.jpg" caption="Penne Alla Vodka; image by deadbody13" alt="bowl of Penne Alla Vodka" >}}
+
 ## Ingredients:
 
 - 1 lb penne pasta

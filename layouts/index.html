@@ -1,9 +1,27 @@
 {{ define "main" }}
 <main aria-role="main">
-	<div class="homepage col-lg-4 col-md-4 col-12">
+	<div class="homepage">
 		<img src="images/logo.png">
-		<div class="homepage-content">
-			{{ .Content }}
+		<div class="row">
+		</div>
+		<div class="col-lg-6 col-md-8 col-sm-10 col-12" style="margin: auto;">
+			<div class="row recipe-group">
+				<div class="col-12" style="text-align: center;">
+					<a href="/food.html"><h1>Food</h1></a>
+				</div>
+				<div class="col-lg-2 col-md-3 col-4" style="margin: auto;">
+					<h2><a href="/chicken.html">Chicken</a></h2>
+				</div>
+				<div class="col-lg-2 col-md-3 col-4" style="margin: auto;">
+					<h2><a href="/asian.html">Asian</a></h2>
+				</div>
+				<div class="col-lg-2 col-md-3 col-4" style="margin: auto;">
+					<h2><a href="/pasta.html">Pasta</a></h2>
+				</div>
+				<div class="col-lg-2 col-md-3 col-4" style="margin: auto;">
+					<h2><a href="/sauce.html">Sauces</a></h2>
+				</div>
+			</div>
 		</div>
 	</div>
 </main>

@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-	<div class="recipe-entry col-lg-6 col-10">
+	<div class="recipe-entry col-lg-8 col-md-10 col-12">
 		{{ $group := index .Params.tags 0 }}
 		<div class="page-title">
 			<h1>{{ .Page.Title }}</h1>
@@ -22,7 +22,7 @@
 		</div>
 	</div>
 	{{ if .Params.credits }}
-		<div class="recipe-credits col-lg-6 col-10">
+		<div class="recipe-credits col-lg-8 col-md-10 col-12">
 			<p>Credits to:<p>
 			<ul>
 				{{ range $i := .Params.credits }}
