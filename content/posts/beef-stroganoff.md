@@ -10,7 +10,7 @@ tags:
 - beef
 ---
 
-{{< figure src="/images/food-images/beef-stroganoff_deadbody13.jpg" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
+{{< figure src="/images/food-images/beef-stroganoff_deadbody13.webp" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
 
 ## Ingredients:
 

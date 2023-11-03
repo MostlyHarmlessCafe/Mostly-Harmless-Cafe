@@ -9,7 +9,7 @@ tags:
 - fusion
 ---
 
-{{< figure src="/images/food-images/gochujang-alfredo_anon001.jpg" caption="bowl of Gochujang Alfredo; image by deadbody13" alt="bowl of Gochujang Alfredo garnished with Pecorino Romano" >}}
+{{< figure src="/images/food-images/gochujang-alfredo_anon001.webp" caption="bowl of Gochujang Alfredo; image by deadbody13" alt="bowl of Gochujang Alfredo garnished with Pecorino Romano" >}}
 
 ## Ingredients (pasta):
 - 1 lb of fettuccine noodles (dry)

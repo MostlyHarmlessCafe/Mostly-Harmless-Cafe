@@ -7,7 +7,7 @@ tags:
 - pasta
 ---
 
-{{< figure src="/images/food-images/penne-alla-vodka_deadbody13.jpg" caption="Penne Alla Vodka; image by deadbody13" alt="bowl of Penne Alla Vodka" >}}
+{{< figure src="/images/food-images/penne-alla-vodka_deadbody13.webp" caption="Penne Alla Vodka; image by deadbody13" alt="bowl of Penne Alla Vodka" >}}
 
 ## Ingredients:
 

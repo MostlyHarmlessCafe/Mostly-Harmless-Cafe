@@ -8,7 +8,7 @@ tags:
 - sauce
 ---
 
-{{< figure src="/images/food-images/white-wine-sauce_deadbody13.jpg" caption="Angel hair pasta and chicken served in white wine sauce and garnished with parsley" alt="bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley" >}}
+{{< figure src="/images/food-images/white-wine-sauce_deadbody13.webp" caption="Angel hair pasta and chicken served in white wine sauce and garnished with parsley" alt="bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley" >}}
 
 
 ## Ingredients (sauce):
