@@ -7,7 +7,7 @@ tags:
 - beef
 ---
 
-{{< figure src="/images/food-images/peperoncini-roast_deadbody13.jpg" caption="Peperoncini Roast served on rice; image by deadbody13" alt="bowl with Peperoncini Roast served on rice" >}}
+{{< figure src="/images/food-images/peperoncini-roast_deadbody13.webp" caption="Peperoncini Roast served on rice; image by deadbody13" alt="bowl with Peperoncini Roast served on rice" >}}
 
 ## Ingredients:
 

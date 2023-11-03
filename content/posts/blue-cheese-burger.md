@@ -10,7 +10,7 @@ tags:
 - beef
 ---
 
-{{< figure src="/images/food-images/blue-cheese-burger_deadbody13.jpg" caption="Blue Cheese Burger; image by deadbody13" alt="blue cheese burger with top bun off" >}}
+{{< figure src="/images/food-images/blue-cheese-burger_deadbody13.webp" caption="Blue Cheese Burger; image by deadbody13" alt="blue cheese burger with top bun off" >}}
 
 ## Ingredients:
 - 1 lb ground beef (20%+ fat)

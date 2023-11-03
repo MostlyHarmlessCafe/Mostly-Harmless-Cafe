@@ -9,7 +9,7 @@ tags:
 - spicy-food
 ---
 
-{{< figure src="/images/food-images/general-deads-chicken_deadbody13.jpg" caption="General Dead's Chicken; image by deadbody13" alt="bowl of General Dead's chicken with chopsticks resting on the rim" >}}
+{{< figure src="/images/food-images/general-deads-chicken_deadbody13.webp" caption="General Dead's Chicken; image by deadbody13" alt="bowl of General Dead's chicken with chopsticks resting on the rim" >}}
 
 ## Ingredients (chicken):
 - 2 chicken thighs

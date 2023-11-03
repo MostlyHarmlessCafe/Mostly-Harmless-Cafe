@@ -10,7 +10,7 @@ tags:
 - asian
 ---
 
-{{< figure src="/images/food-images/chow-mein_deadbody13.jpg" caption="Chow Mein garnished with green onions; image by deadbody13" alt="bowl of chow mein garnished with green onions" >}}
+{{< figure src="/images/food-images/chow-mein_deadbody13.webp" caption="Chow Mein garnished with green onions; image by deadbody13" alt="bowl of chow mein garnished with green onions" >}}
 
 ## Ingredients (noodles):
 - 400g egg noodles

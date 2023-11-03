@@ -8,7 +8,7 @@ tags:
 - asian
 ---
 
-{{< figure src="/images/food-images/general-tso-chicken_deadbody13.jpg" caption="General Tso's chicken; image by deadbody13" alt="bowl of General Tso's chicken" >}}
+{{< figure src="/images/food-images/general-tso-chicken_deadbody13.webp" caption="General Tso's chicken; image by deadbody13" alt="bowl of General Tso's chicken" >}}
 
 ## Ingredients (chicken & marinade):
 - 2 chicken thighs

@@ -9,7 +9,7 @@ tags:
 - pasta
 ---
 
-{{< figure src="/images/food-images/penne-alla-vodka_breadsmyth.jpg" caption="Penne Alla Vodka; image by breadsmyth" alt="Penne alla vodka served with garnish of parmesan" >}}
+{{< figure src="/images/food-images/penne-alla-vodka_breadsmyth.webp" caption="Penne Alla Vodka; image by breadsmyth" alt="Penne alla vodka served with garnish of parmesan" >}}
 
 
 ## Ingredients

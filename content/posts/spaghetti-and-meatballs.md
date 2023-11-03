@@ -7,7 +7,7 @@ tags:
 - pasta
 ---
 
-{{< figure src="/images/food-images/spaghetti-and-meatballs_deadbody13.jpg" caption="Spaghetti and Meatballs; image by deadbody13" alt="bowl of Spaghetti and Meatballs" >}}
+{{< figure src="/images/food-images/spaghetti-and-meatballs_deadbody13.webp" caption="Spaghetti and Meatballs; image by deadbody13" alt="bowl of Spaghetti and Meatballs" >}}
 
 ## Ingredients (meatballs)
 - &frac14; lb ham (diced)

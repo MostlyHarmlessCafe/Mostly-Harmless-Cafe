@@ -11,7 +11,7 @@ tags:
 - noodles
 ---
 
-{{< figure src="/images/food-images/pad-kee-mao_deadbody13.jpg" caption="Drunken Noodles; image by deadbody13" alt="bowl of Drunken Noodles" >}}
+{{< figure src="/images/food-images/pad-kee-mao_deadbody13.webp" caption="Drunken Noodles; image by deadbody13" alt="bowl of Drunken Noodles" >}}
 
 ## Ingredients (Noodles):
 - 1 lb wide rice noodles

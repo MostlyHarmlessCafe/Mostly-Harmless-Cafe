@@ -9,7 +9,7 @@ tags:
 - pasta
 ---
 
-{{< figure src="/images/food-images/lasagna_deadbody13.jpg" caption="Lasagna; image by deadbody13" alt="tray of lasagna" >}}
+{{< figure src="/images/food-images/lasagna_deadbody13.webp" caption="Lasagna; image by deadbody13" alt="tray of lasagna" >}}
 
 ## Ingredients
 - 9 lasagna noodles
