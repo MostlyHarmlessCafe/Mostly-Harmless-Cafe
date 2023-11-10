@@ -1,5 +1,5 @@
 # Mostly Harmless Cafe
-https://cookbook.mostlyharmless.cafe/posts/steak-sauce_breadsmyth.html
+https://cookbook.mostlyharmless.cafe/
 
 ## Contributing recipes
 
