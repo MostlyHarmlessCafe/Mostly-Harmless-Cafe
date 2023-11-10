@@ -65,9 +65,9 @@ If you don't see a tag here that you think should be included with your recipe, 
 Entries should have at least an `## Ingredients` (unordered) and `## Instructions` (ordered) section. You can also include a section at the end `### Optional` (unordered).
 
 ##### Images
-When submitting images, use Hugo's `figure` shortcode. This allows you to label and credit the images with captions. If you got the photo from someone else or you would like credit yourself, remember to credit the image in the caption.
+When submitting images, use Hugo's `figure` shortcode. This allows you to label and credit the images with captions. If you got the photo from someone else or you would like credit yourself, remember to credit the image in the caption. Please compress the image before submitting.
 ```
-{{< figure src="/images/food-images/image.jpg" caption="caption; image by anon001" alt="alt" >}}
+{{< figure src="/images/food-images/image.webp" caption="caption; image by anon001" alt="alt" >}}
 ```
 
 ##### Crediting Yourself or Others
