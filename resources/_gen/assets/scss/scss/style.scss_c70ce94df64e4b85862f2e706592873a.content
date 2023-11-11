@@ -31,17 +31,29 @@ a:hover {
 .homepage {
   padding: 5% 0px 20px 0px;
   margin: auto; }
+  .homepage ul {
+    padding-left: 10px;
+    list-style: none;
+    font-size: 24px; }
   .homepage img {
+    margin: auto;
     display: block;
     width: 300px; }
+  .homepage h1 {
+    font-size: 32px; }
   .homepage h2 {
-    text-decoration: underline;
-    padding-top: 10px;
-    padding-left: 100px; }
+    font-size: 24px;
+    text-align: center;
+    padding-top: 10px; }
   .homepage h3 {
-    padding-left: 120px; }
-  .homepage .homepage-content {
-    padding: 10px; }
+    text-align: center; }
+  .homepage table {
+    margin: auto;
+    font-size: 20px; }
+    .homepage table th {
+      font-size: 30px; }
+  .homepage .recipe-group {
+    padding-bottom: 75px; }
 
 .credits {
   padding: 30px 10px 15px 10px;
@@ -61,6 +73,10 @@ a:hover {
 .recipe-page, .recipe-entry {
   padding-top: 15%;
   margin: auto; }
+  .recipe-page img, .recipe-entry img {
+    max-height: 500px;
+    max-width: 100%;
+    border-radius: 15px; }
 
 .recipe-page ul {
   list-style: none;
@@ -74,9 +90,6 @@ a:hover {
 
 .recipe-entry-contents p {
   padding-left: 5px;
-  font-style: italic; }
-
-.recipe-entry-contents li > ul > li {
   font-style: italic; }
 
 .recipe-credits {
