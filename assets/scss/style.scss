@@ -48,11 +48,14 @@ a:hover {
 	}
 	h1 {
 		font-size: 32px;
+		padding-top: 10px;
+		border-top: 1px solid var(--border-color);
+		border-bottom: 1px solid var(--border-color);
 	}
 	h2 {
 		font-size: 24px;
 		text-align: center;
-		padding-top: 10px;
+		padding-top: 5px;
 	}
 	h3 {
 		text-align: center;
@@ -66,6 +69,11 @@ a:hover {
 	}
 	.recipe-group {
 		padding-bottom: 75px;
+	}
+	.menu-level-1 {
+		a:link, a:visited {
+			text-decoration: none;
+		}
 	}
 }
 .credits {
