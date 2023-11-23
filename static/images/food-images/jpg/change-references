@@ -1,6 +1,0 @@
-#!/bin/bash
-
-for x in *md
-do                           
-	sed -i -e 's/.jpg/.webp/g' $x
-done

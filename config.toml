@@ -1,9 +1,0 @@
-baseURL = 'https://cookbook.mostlyharmless.cafe'
-languageCode = 'en-us'
-title = 'Mostly Harmless Cafe'
-uglyURLs = true
-publishDir = 'docs'
-
-[taxonomies]
-	tag = 'tags'
-	credit = 'credits'
