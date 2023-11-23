@@ -45,4 +45,4 @@ tags:
 13. Serve.
 
 ### Optional:
-  - opt: garnish with a generous amount of black pepper, additional sour cream, and parsley.
+  - Garnish with a generous amount of black pepper, additional sour cream, and parsley.

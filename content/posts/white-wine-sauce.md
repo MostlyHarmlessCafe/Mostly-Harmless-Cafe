@@ -11,37 +11,37 @@ tags:
 {{< figure src="/images/food-images/white-wine-sauce_deadbody13.webp" caption="Angel hair pasta and chicken served in white wine sauce and garnished with parsley" alt="bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley" >}}
 
 
-## Ingredients (sauce):
-- 3 cloves of garlic (minced)
-- &frac14; cup extra virgin olive oil
-- 5 Tbsp butter (unsalted)
-- &frac12; tsp crushed red pepper
-- 1 tsp salt
-- &frac12; tsp ground black pepper
-- &frac12; cup white wine (your choice thereof)
+## Ingredients:
+- Sauce:
+    - 3 cloves of garlic (minced)
+    - &frac14; cup extra virgin olive oil
+    - 5 Tbsp butter (unsalted)
+    - &frac12; tsp crushed red pepper
+    - 1 tsp salt
+    - &frac12; tsp ground black pepper
+    - &frac12; cup white wine (your choice thereof)
+- Pasta, chicken, and tomatoes:
+    - 1 lb pasta
+    - 300 g chicken thighs (cut into bite-size pieces)
+    - 1 package of cherry tomatoes (halved)
+    - &frac12; tsp salt
+    - &frac14; tsp pepper
+    - 1 bundle of parsley (finely chopped)
 
-## Ingredients (pasta, chicken, and tomatoes):
-- 1 lb pasta
-- 300 g chicken thighs (cut into bite-size pieces)
-- 1 package of cherry tomatoes (halved)
-- &frac12; tsp salt
-- &frac14; tsp pepper
-- 1 bundle of parsley (finely chopped)
+## Instructions:
+- Chicken and tomatoes:
+    1. Put chicken in pan on med-high heat.
+    1. Midway through, add tomatoes.
+    1. Remove all once chicken finishes cooking.
+- Sauce:
+    1. Add olive oil, garlic, and red pepper to pan on medium heat.
+    1. Cook until garlic is slightly brown.
+    1. Add butter, cook until melted.
+    1. Add chicken and tomatoes (and any sauce that they made when you cooked them).
+    1. Add wine, increase to med-high, and let the alcohol cook out.
+    1. Reduce heat to medium and cook for 5 more minutes.
+    1. Add pasta and toss.
+    1. Garnish with Pecorino Romano and serve.
 
-## Instructions (chicken and tomatoes):
-If you're having this with pasta, go ahead and cook that, chill with water, and set to the side.
-1. Put chicken in pan on med-high heat.
-2. Midway through, add tomatoes.
-3. Remove all once chicken finishes cooking.
-
-## Instructions (sauce):
-1. Add olive oil, garlic, and red pepper to pan on medium heat.
-2. Cook until garlic is slightly brown.
-3. Add butter, cook until melted.
-4. Add chicken and tomatoes (and any sauce that they made when you cooked them).
-5. Add wine, increase to med-high, and let the alcohol cook out.
-6. Reduce heat to medium and cook for 5 more minutes.
-7. Add pasta and toss.
-8. Garnish with Pecorino Romano and serve.
-
-If you decide to add anything else to the sauce, do so before adding the wine in. The alcohol helps emulsify whatever liquids are in the pan at the time.
+### Optional:
+- If you decide to add anything else to the sauce, do so before adding the wine in. The alcohol helps emulsify whatever liquids are in the pan at the time.
