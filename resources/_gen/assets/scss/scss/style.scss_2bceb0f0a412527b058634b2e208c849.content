@@ -3,13 +3,17 @@
   src: url("/fonts/Jost-300-Light.ttf"); }
 
 :root {
+  --font-primary: "No Tears";
+  --font-secondary: "Jost Light";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
   --background: #fcf5e5;
   --border-color: #ccc8c2; }
 
 body {
-  font-family: "Jost Light";
+  font-family: var(--font-primary);
+  font-size: 24px;
+  font-weight: 16px;
   color: var(--foreground);
   background-color: var(--background); }
 
@@ -29,8 +33,7 @@ a:hover {
     margin-bottom: 0px; }
 
 .homepage {
-  padding: 5% 0px 20px 0px;
-  margin: auto; }
+  padding: 5% 0px 80px 0px; }
   .homepage ul {
     padding-left: 10px;
     list-style: none;
@@ -40,11 +43,12 @@ a:hover {
     display: block;
     width: 300px; }
   .homepage h1 {
-    font-size: 32px; }
+    padding-top: 10px;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color); }
   .homepage h2 {
-    font-size: 24px;
     text-align: center;
-    padding-top: 10px; }
+    padding-top: 5px; }
   .homepage h3 {
     text-align: center; }
   .homepage table {
@@ -54,6 +58,11 @@ a:hover {
       font-size: 30px; }
   .homepage .recipe-group {
     padding-bottom: 75px; }
+  .homepage .group-1 {
+    margin: auto;
+    text-align: center; }
+    .homepage .group-1 a:link, .homepage .group-1 a:visited {
+      text-decoration: none; }
 
 .credits {
   padding: 30px 10px 15px 10px;
