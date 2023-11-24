@@ -3,7 +3,8 @@
   src: url("/fonts/Jost-300-Light.ttf"); }
 
 :root {
-  --font-primary: "No Tears";
+  /* Jost Light needed for when displaying fractions */
+  --font-primary: "No Tears", "Jost Light";
   --font-secondary: "Jost Light";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
@@ -96,6 +97,9 @@ a:hover {
 
 .recipe-page .recipe-header {
   margin: 5px 0px 0px 0px; }
+
+.recipe-entry ul, .recipe-credits ul {
+  list-style: circle; }
 
 .recipe-entry-contents p {
   padding-left: 5px;
