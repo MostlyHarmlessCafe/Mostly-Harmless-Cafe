@@ -1,0 +1,114 @@
+@font-face {
+  font-family: "Jost Light";
+  src: url("/fonts/Jost-300-Light.ttf"); }
+
+:root {
+  --font-primary: "No Tears";
+  --font-secondary: "Jost Light";
+  --foreground: #5c5852;
+  --foreground-accent: #a6752e;
+  --background: #fcf5e5;
+  --border-color: #ccc8c2; }
+
+body {
+  font-family: var(--font-primary);
+  font-size: 24px;
+  font-weight: 16px;
+  color: var(--foreground);
+  background-color: var(--background); }
+
+a:link, a:visited {
+  color: inherit; }
+
+a:hover {
+  color: var(--foreground-accent); }
+
+.container {
+  padding-bottom: 20px; }
+
+.page-title {
+  padding-bottom: 15px; }
+  .page-title > h1 {
+    padding-bottom: 0px;
+    margin-bottom: 0px; }
+
+.homepage {
+  padding: 5% 0px 80px 0px; }
+  .homepage ul {
+    padding-left: 10px;
+    list-style: none;
+    font-size: 24px; }
+  .homepage img {
+    margin: auto;
+    display: block;
+    width: 300px; }
+  .homepage h1 {
+    padding-top: 10px;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color); }
+  .homepage h2 {
+    text-align: center;
+    padding-top: 5px; }
+  .homepage h3 {
+    text-align: center; }
+  .homepage table {
+    margin: auto;
+    font-size: 20px; }
+    .homepage table th {
+      font-size: 30px; }
+  .homepage .recipe-group {
+    padding-bottom: 75px; }
+  .homepage .group-1 {
+    margin: auto;
+    text-align: center; }
+    .homepage .group-1 a:link, .homepage .group-1 a:visited {
+      text-decoration: none; }
+
+.credits {
+  padding: 30px 10px 15px 10px;
+  line-height: 1.0;
+  text-align: left;
+  outline: 1px dashed var(--border-color);
+  margin: auto; }
+  .credits h3 {
+    text-align: center; }
+  .credits table, .credits th, .credits td {
+    padding: 10px; }
+  .credits th {
+    text-align: center; }
+  .credits tr td:first-child {
+    border-right: 1px solid #ccc8c2; }
+
+.recipe-page, .recipe-entry {
+  padding-top: 15%;
+  margin: auto; }
+  .recipe-page img, .recipe-entry img {
+    max-height: 500px;
+    max-width: 100%;
+    border-radius: 15px; }
+
+.recipe-page ul {
+  list-style: none;
+  padding-left: 0px; }
+
+.recipe-page h1 {
+  margin-bottom: 0px; }
+
+.recipe-page .recipe-header {
+  margin: 5px 0px 0px 0px; }
+
+.recipe-entry-contents p {
+  padding-left: 5px;
+  font-style: italic; }
+
+.recipe-credits {
+  border-left: 1px double #ccc8c2;
+  border-width: 5px;
+  padding: 5px 5px 0px 5px;
+  margin: 10px auto 10px auto;
+  font-style: italic; }
+  .recipe-credits p {
+    margin-bottom: 0px; }
+
+.center {
+  margin: auto; }
