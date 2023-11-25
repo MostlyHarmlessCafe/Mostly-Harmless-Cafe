@@ -8,21 +8,19 @@ tags:
 ---
 
 ## Ingredients (chicken):
-- 4 lbs chicken
-    - Bone in, with skin.
-
-Can be pretty much any part of the chicken. It's nice to have some diversity but if only given one choice, chicken thighs work best.
-
-## Ingredients (sauce):
-- 20 cloves of garlic (minced)
-- 1 tbsp of black peppercorns (whole)
-- crack of fresh ground black pepper
-- 3 tbsp of palm sugar
-    - subst: brown sugar
-- 1&frac14; cup of rice vinegar
-- &frac12; cup of soy sauce
-- &frac14; cup of dark soy sauce
-- &frac12; cup of water
+- Chicken:
+    - 4 lbs chicken (bone in, with skin)
+        - Can be pretty much any part of the chicken. It's nice to have some diversity but if only given one choice, chicken thighs work best.
+- Sauce:
+    - 20 cloves of garlic (minced)
+    - 1 tbsp of black peppercorns (whole)
+    - crack of fresh ground black pepper
+    - 3 tbsp of palm sugar
+        - subst: brown sugar
+    - 1&frac14; cup of rice vinegar
+    - &frac12; cup of soy sauce
+    - &frac14; cup of dark soy sauce
+    - &frac12; cup of water
 
 ## Instructions:
 1. Mix all the ingredients in the sauce to form the marinade. Add chicken and marinate for 2 hours.

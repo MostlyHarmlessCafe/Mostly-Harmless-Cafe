@@ -10,7 +10,6 @@ tags:
 
 {{< figure src="/images/food-images/white-wine-sauce_deadbody13.webp" caption="Angel hair pasta and chicken served in white wine sauce and garnished with parsley" alt="bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley" >}}
 
-
 ## Ingredients:
 - Sauce:
     - 3 cloves of garlic (minced)
@@ -28,8 +27,8 @@ tags:
     - &frac14; tsp pepper
     - 1 bundle of parsley (finely chopped)
 
-## Instructions:
-- Chicken and tomatoes:
+## Instructions
+- Chicken & tomatoes:
     1. Put chicken in pan on med-high heat.
     1. Midway through, add tomatoes.
     1. Remove all once chicken finishes cooking.

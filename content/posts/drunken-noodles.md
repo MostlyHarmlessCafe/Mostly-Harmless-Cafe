@@ -13,31 +13,30 @@ tags:
 
 {{< figure src="/images/food-images/pad-kee-mao_deadbody13.webp" caption="Drunken Noodles; image by deadbody13" alt="bowl of Drunken Noodles" >}}
 
-## Ingredients (Noodles):
-- 1 lb wide rice noodles
-- 5 cloves of garlic (minced)
-- 1 inch knob of ginger (minced)
-- 3 shallots (thinly sliced longways)
-- 2 scallions (sliced, 1-inch slices)
-- 7 Thai red chili peppers (thinly sliced)
-    - use more if you want it to be spicier
-- 2 cups Thai basil
-- 2 tbsp Shaoxing wine
-    - subst: rice vinegar
-- 2 tbsp chili oil
-
-## Ingredients (beef):
-- 1&frac12; lbs beef (thinly sliced)
-- &frac12; tsp salt
-- &frac14; cup soy sauce
-
-## Ingredients (sauce):
-- 1 tbsp brown sugar
-- 4 tsp soy sauce
-- 2 tsp dark soy sauce
-- 2 tbsp fish sauce
-- 4 tsp oyster sauce
-- &frac12; tsp ground white pepper
+## Ingredients
+- Noodles:
+    - 1 lb wide rice noodles
+    - 5 cloves of garlic (minced)
+    - 1 inch knob of ginger (minced)
+    - 3 shallots (thinly sliced longways)
+    - 2 scallions (sliced, 1-inch slices)
+    - 7 Thai red chili peppers (thinly sliced)
+        - use more if you want it to be spicier
+    - 2 cups Thai basil
+    - 2 tbsp Shaoxing wine
+        - subst: rice vinegar
+    - 2 tbsp chili oil
+- Beef:
+    - 1&frac12; lbs beef (thinly sliced)
+    - &frac12; tsp salt
+    - &frac14; cup soy sauce
+- Sauce
+    - 1 tbsp brown sugar
+    - 4 tsp soy sauce
+    - 2 tsp dark soy sauce
+    - 2 tbsp fish sauce
+    - 4 tsp oyster sauce
+    - &frac12; tsp ground white pepper
 
 ## Instructions:
 1. Mix beef with salt and let marinade in soy sauce until needed.

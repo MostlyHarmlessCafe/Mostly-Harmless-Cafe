@@ -13,7 +13,6 @@ tags:
 {{< figure src="/images/food-images/beef-stroganoff_deadbody13.webp" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
 
 ## Ingredients:
-
 - 1 lb wide egg noodles (dry)
 - &frac14; cup butter (divide into 2)
 - 1&frac12; lbs thin sliced chuck (~&frac14;inch)

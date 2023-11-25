@@ -9,7 +9,6 @@ tags:
 ---
 
 ## Ingredients:
-
 - 1 &frac12; cups milk
 - 1 egg
 - &frac14; cup sugar
@@ -19,6 +18,5 @@ tags:
 - 2 Tbsp melted butter
 
 ## Instructions:
-
 1. Pour onto medium heat pan.
-2. Flip when bubbles appear on top
+1. Flip when bubbles appear on top

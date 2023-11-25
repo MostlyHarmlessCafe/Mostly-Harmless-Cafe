@@ -8,21 +8,21 @@ tags:
 - asian
 ---
 
-## Ingredients (chicken):
-- 1 chicken breast (butterflied)
-- salt
-- miso
-- 2 eggs (beaten)
-- flour
-- panko
-- oil for frying
-
-## Ingredients (sauce):
-- 3 tbsp ketchup
-- 2 tbsp worchestershire sauce
-- 2 tbsp oysters sauce
-- 1 tbsp miso
-- &frac14; tsp salt
+## Ingredients
+- Chicken:
+    - 1 chicken breast (butterflied)
+    - salt
+    - miso
+    - 2 eggs (beaten)
+    - flour
+    - panko
+    - oil for frying
+- Sauce:
+    - 3 tbsp ketchup
+    - 2 tbsp worchestershire sauce
+    - 2 tbsp oysters sauce
+    - 1 tbsp miso
+    - &frac14; tsp salt
 
 ## Instructions:
 1. Butterfly the chicken breast, flatten with a cast iron pan (or whatever you want to use), and cover in miso. Marinate for 1 hour to overnight.
