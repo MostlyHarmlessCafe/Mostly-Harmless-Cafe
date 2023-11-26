@@ -10,34 +10,33 @@ tags:
 
 {{< figure src="/images/food-images/general-tso-chicken_deadbody13.webp" caption="General Tso's chicken; image by deadbody13" alt="bowl of General Tso's chicken" >}}
 
-## Ingredients (chicken & marinade):
-- 2 chicken thighs
-- 2 tbsp rice vinegar
-- 1 tbsp soy sauce
-- 2 cloves of garlic (grated)
-- 1 inch knob of ginger (grated)
-- pinch of salt
-
-## Ingredients (dredge):
-- 2 cups of all-purpose flour
-- 1 cup of cornstarch
-- &frac12; tsp salt
-- 2 egg whites (beaten)
-
-## Ingredients (sauce):
-- &frac12; cup chicken stock
-- 3 tbsp soy sauce
-- 1 tbsp rice vinegar
-- 4 cloves of garlic (minced)
-- 2 inch knob of ginger (minced)
-- 3 thai chili peppers (diced)
-- 2 tbsp sugar
-- 1 tsp of msg
-- 1 tsp chili flakes
-- 5 dried chili peppers
-- 1 tbsp chinkiang vinegar
-- 1 tbsp cornstarch
-- 1&frac12; tbsp vinegar
+## Ingredients
+- Chicken & marinade:
+    - 2 chicken thighs
+    - 2 tbsp rice vinegar
+    - 1 tbsp soy sauce
+    - 2 cloves of garlic (grated)
+    - 1 inch knob of ginger (grated)
+    - pinch of salt
+- Dredge:
+    - 2 cups of all-purpose flour
+    - 1 cup of cornstarch
+    - &frac12; tsp salt
+    - 2 egg whites (beaten)
+- Sauce:
+    - &frac12; cup chicken stock
+    - 3 tbsp soy sauce
+    - 1 tbsp rice vinegar
+    - 4 cloves of garlic (minced)
+    - 2 inch knob of ginger (minced)
+    - 3 thai chili peppers (diced)
+    - 2 tbsp sugar
+    - 1 tsp of msg
+    - 1 tsp chili flakes
+    - 5 dried chili peppers
+    - 1 tbsp chinkiang vinegar
+    - 1 tbsp cornstarch
+    - 1&frac12; tbsp vinegar
 
 ## Instructions:
 1. Skin and debone chicken. Slice into bite-size pieces and marinate for at least 45 minutes.

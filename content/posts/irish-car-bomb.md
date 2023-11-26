@@ -8,7 +8,6 @@ tags:
 ---
 
 ## Ingredients:
-
 - 1 pint Irish stout (personal: Guiness)
 - &frac12; oz Irish cream
 - &frac14; oz coffee liqeur

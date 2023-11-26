@@ -11,30 +11,29 @@ tags:
 
 {{< figure src="/images/food-images/gochujang-alfredo_anon001.webp" caption="bowl of Gochujang Alfredo; image by deadbody13" alt="bowl of Gochujang Alfredo garnished with Pecorino Romano" >}}
 
-## Ingredients (pasta):
-- 1 lb of fettuccine noodles (dry)
-- 35 g of salt for water
-
-## Ingredients (sauce):
-- 1 tbsp extra virgin olive oil
-- 2 tbsp butter
-- 3 cloves of garlic (minced)
-- 1 shallot (finely diced)
-    - subst: &frac14; white onion (finely diced)
-- 4 tbsp gochujang
-- 1&frac13; cups of heavy cream.
-- salt and pepper
-- gochujaru
-    - subst: red thai chilis (finely chopped)
-- &frac12; cup of grated parmesan
-    - subst: pecorino romano
-- 3 tbsp chopped basil
-- Pasta water
-
-## Ingredients (garnish):
-- 3 tbsp parmesan
-    - subst: pecorino romano
-- 1 tbsp basil
+## Ingredients
+- Pasta:
+    - 1 lb of fettuccine noodles (dry)
+    - 35 g of salt for water
+- Sauce:
+    - 1 tbsp extra virgin olive oil
+    - 2 tbsp butter
+    - 3 cloves of garlic (minced)
+    - 1 shallot (finely diced)
+        - subst: &frac14; white onion (finely diced)
+    - 4 tbsp gochujang
+    - 1&frac13; cups of heavy cream.
+    - salt and pepper
+    - gochujaru
+        - subst: red thai chilis (finely chopped)
+    - &frac12; cup of grated parmesan
+        - subst: pecorino romano
+    - 3 tbsp chopped basil
+    - Pasta water
+- Garnish:
+    - 3 tbsp parmesan
+        - subst: pecorino romano
+    - 1 tbsp basil
 
 ## Instructions
 1. Add olive oil and butter to pan on medium heat. After butter melts add garlic and shallot. Cook until garlic turns slightly brown.

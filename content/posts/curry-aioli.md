@@ -8,7 +8,6 @@ tags:
 ---
 
 ## Ingredients:
-
 - 2 Tbsp mayonnaise
 - 1 clove of garlic (grated)
 - 1 tsp lemon juice
@@ -17,5 +16,4 @@ tags:
 - &frac14; tsp pepper
 
 ## Instructions:
-
 1. Combine all ingredients in a bowl and mix.

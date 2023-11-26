@@ -9,8 +9,7 @@ tags:
 - sauce
 ---
 
-## Ingredients:
-
+## Ingredients
 - 1 cup ketchup
 - 1 shallot (finely diced)
     - subst: red onions
@@ -27,10 +26,9 @@ tags:
 - black pepper
 - salt
 
-## Instructions:
-
+## Instructions
 1. Add shallots, garlic, ginger, sunflower oil, and chili flakes to pan on medium heat. Cook until onions turn translucent.
-2. Add brown sugar. Cook until sugar melts.
-3. Add smoked paprika. Quickly mix into paste.
-4. Deglaze with Apple Cider Vinegar.
-5. Add Tomato Ketchup, Worchestorshire sauce, Dark Soy Sauce, black pepper, and salt.
+1. Add brown sugar. Cook until sugar melts.
+1. Add smoked paprika. Quickly mix into paste.
+1. Deglaze with Apple Cider Vinegar.
+1. Add Tomato Ketchup, Worchestorshire sauce, Dark Soy Sauce, black pepper, and salt.
