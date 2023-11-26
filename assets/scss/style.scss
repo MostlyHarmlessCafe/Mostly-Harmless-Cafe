@@ -132,7 +132,10 @@ a:hover {
 .recipe-entry-contents {
 	p {
 		padding-left: 5px;
+	}
+	figcaption {
 		font-style: italic;
+		font-size: 20px;
 	}
 }
 .recipe-credits {
