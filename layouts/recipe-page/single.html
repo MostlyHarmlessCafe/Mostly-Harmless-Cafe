@@ -9,7 +9,7 @@
 	</div>
 	{{ .Content }}
 	{{ $group := index .Params.tags 0 }}
-	<ul>
+	<div class="group-list">
 		{{ range (where .Site.Pages "Section" "posts") }}
 			{{ $letter := newScratch }}
 			{{ $letter.Set "current" "null" }}
@@ -18,14 +18,14 @@
 					{{ $current_letter := ($letter.Get "current") }}
 					{{ $leading_letter := (slicestr $i.Title 0 1) }}
 					{{ if ne $leading_letter $current_letter }}
-						<h3 class="recipe-header">{{ $leading_letter }}</h3>
+						<div class="group-list-item"><h3 class="recipe-header">{{ $leading_letter }}</h3></div>
 						{{ $letter.Set "current" $leading_letter }}
 					{{ end }}
-					<li><a href="{{ $i.RelPermalink }}">{{ $i.Title }}</a></li>
+					<div class="group-list-item"><a href="{{ $i.RelPermalink }}">{{ $i.Title }}</a></div>
 				{{ end }}
 			{{ end }}
 		{{ end }}
-	</ul>
+	</div>
 </div>
 
 {{ end }}

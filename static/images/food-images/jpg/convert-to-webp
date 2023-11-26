@@ -1,6 +1,14 @@
-#!/bin/bash
+#!/bin/zsh
 
-for flie in *.jpg
-do
-	cwebp -q 60 $file -o ../${file%.jpg}.webp
-done
+if [ $1 ]
+then
+	for file in $@
+	do
+		cwebp -q 60 $file -o ../${file%.*}.webp
+	done
+else
+	for file in *.(jpg|png|jpeg)
+	do
+		cwebp -q 60 $file -o ../${file%.(jpg|jpeg|png)}.webp
+	done
+fi

@@ -2,8 +2,15 @@
 	font-family: "Jost Light";
 	src: url("/fonts/Jost-300-Light.ttf");
 }
+@font-face {
+	font-family: "No Tears";
+	src: url("/fonts/No Tears.ttf");
+}
 
 :root {
+	/* Jost Light needed for when displaying fractions */
+	--font-primary: "No Tears", "Jost Light";
+	--font-secondary: "Jost Light";
 	--foreground: #5c5852;
 	--foreground-accent: #a6752e;
 	--background: #fcf5e5;
@@ -11,7 +18,9 @@
 }
 
 body {
-	font-family: "Jost Light";
+	font-family: var(--font-primary);
+	font-size: 24px;
+	font-weight: 16px;
 	color: var(--foreground);
 	background-color: var(--background);
 }
@@ -34,8 +43,7 @@ a:hover {
 	}
 }
 .homepage {
-	padding: 5% 0px 20px 0px;
-	margin: auto;
+	padding: 5% 0px 80px 0px;
 	ul {
 		padding-left: 10px;
 		list-style: none;
@@ -47,12 +55,13 @@ a:hover {
 		width: 300px;
 	}
 	h1 {
-		font-size: 32px;
+		padding-top: 10px;
+		border-top: 1px solid var(--border-color);
+		border-bottom: 1px solid var(--border-color);
 	}
 	h2 {
-		font-size: 24px;
 		text-align: center;
-		padding-top: 10px;
+		padding-top: 5px;
 	}
 	h3 {
 		text-align: center;
@@ -66,6 +75,13 @@ a:hover {
 	}
 	.recipe-group {
 		padding-bottom: 75px;
+	}
+	.group-1 {
+		margin: auto;
+		text-align: center;
+		a:link, a:visited {
+			text-decoration: none;
+		}
 	}
 }
 .credits {
@@ -106,6 +122,11 @@ a:hover {
 	}
 	.recipe-header {
 		margin: 5px 0px 0px 0px;
+	}
+}
+.recipe-entry, .recipe-credits {
+	ul {
+		list-style: circle;
 	}
 }
 .recipe-entry-contents {
