@@ -7,8 +7,8 @@
 		{{ $group := index .Params.tags 0 }}
 		<div class="page-title">
 			<h1>{{ .Page.Title }}</h1>
-			<h3>~| <a href="{{ .Site.BaseURL }}">home</a><br>
-			|
+			<h3><strong>~| <a href="{{ .Site.BaseURL }}">home</a></strong><br>
+				<strong>tags:</strong>
 			{{ range $i := .Params.tags }}
 				{{ $url := ( printf "%s.md" $i ) }}
 				{{ if os.FileExists $url }}

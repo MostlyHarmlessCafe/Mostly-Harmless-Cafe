@@ -41,6 +41,12 @@ a:hover {
 		padding-bottom: 0px;
 		margin-bottom: 0px;
 	}
+	a:link, a:visited {
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
 }
 .homepage {
 	padding: 5% 0px 80px 0px;
