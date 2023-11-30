@@ -95,6 +95,14 @@ a:hover {
 			text-decoration: none;
 		}
 	}
+	.group-2 {
+		margin: auto;
+		a:link, a:visited {
+			font-weight: 600;
+			text-decoration-thickness: 2px;
+			text-underline-offset: 5px;
+		}
+	}
 }
 .credits {
 	padding: 30px 10px 15px 10px;
@@ -102,6 +110,9 @@ a:hover {
 	text-align: left;
 	outline: 1px dashed var(--border-color);
 	margin: auto;
+	a:link, a:visited {
+		text-decoration-thickness: 1px;
+	}
 	h3 {
 		text-align: center;
 	}
