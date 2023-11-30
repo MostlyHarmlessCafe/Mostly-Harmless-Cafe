@@ -133,7 +133,14 @@ a:hover {
 		margin-bottom: 0px;
 	}
 	.recipe-header {
+		text-decoration: underline;
+		text-decoration-thickness: 1px;
 		margin: 5px 0px 0px 0px;
+	}
+	.recipe-list {
+		a:link, a:visited {
+			text-decoration: none;
+		}
 	}
 }
 .recipe-entry, .recipe-credits {

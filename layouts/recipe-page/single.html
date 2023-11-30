@@ -5,11 +5,11 @@
 <div class="recipe-page col-md-3 col-8">
 	<div class="page-title">
 		<h1>{{ .Page.Title }}</h1>
-		~| <a href="{{ .Site.BaseURL }}">home</a>
+		<strong>~| <a href="{{ .Site.BaseURL }}">home</a></strong><br>
 	</div>
 	{{ .Content }}
 	{{ $group := index .Params.tags 0 }}
-	<div class="group-list">
+	<div class="group-list recipe-list">
 		{{ range (where .Site.Pages "Section" "posts") }}
 			{{ $letter := newScratch }}
 			{{ $letter.Set "current" "null" }}
