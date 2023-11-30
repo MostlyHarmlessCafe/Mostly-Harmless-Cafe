@@ -47,6 +47,12 @@ a:hover {
 	a:hover {
 		text-decoration: underline;
 	}
+	.recipe-title {
+		font-weight: bold;
+		text-decoration: underline;
+		text-decoration-thickness: 2px;
+		text-underline-offset: 5px;
+	}
 }
 .homepage {
 	padding: 5% 0px 80px 0px;
