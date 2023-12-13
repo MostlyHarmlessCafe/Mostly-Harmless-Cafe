@@ -4,11 +4,11 @@ if [ $1 ]
 then
 	for file in $@
 	do
-		cwebp -q 60 $file -o ../${file%.*}.webp
+		convert -verbose -quality 60 $file -auto-orient ../${file%.*}.webp
 	done
 else
 	for file in *.(jpg|png|jpeg)
 	do
-		cwebp -q 60 $file -o ../${file%.(jpg|jpeg|png)}.webp
+		convert -verbose -quality 60 $file -auto-orient ../${file%.(jpg|jpeg|png)}.webp
 	done
 fi

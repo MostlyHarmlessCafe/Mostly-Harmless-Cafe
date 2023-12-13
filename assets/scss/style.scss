@@ -41,6 +41,18 @@ a:hover {
 		padding-bottom: 0px;
 		margin-bottom: 0px;
 	}
+	a:link, a:visited {
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
+	.recipe-title {
+		font-weight: bold;
+		text-decoration: underline;
+		text-decoration-thickness: 2px;
+		text-underline-offset: 5px;
+	}
 }
 .homepage {
 	padding: 5% 0px 80px 0px;
@@ -83,6 +95,14 @@ a:hover {
 			text-decoration: none;
 		}
 	}
+	.group-2 {
+		margin: auto;
+		a:link, a:visited {
+			font-weight: 600;
+			text-decoration-thickness: 2px;
+			text-underline-offset: 5px;
+		}
+	}
 }
 .credits {
 	padding: 30px 10px 15px 10px;
@@ -90,6 +110,9 @@ a:hover {
 	text-align: left;
 	outline: 1px dashed var(--border-color);
 	margin: auto;
+	a:link, a:visited {
+		text-decoration-thickness: 1px;
+	}
 	h3 {
 		text-align: center;
 	}
@@ -121,7 +144,14 @@ a:hover {
 		margin-bottom: 0px;
 	}
 	.recipe-header {
+		text-decoration: underline;
+		text-decoration-thickness: 1px;
 		margin: 5px 0px 0px 0px;
+	}
+	.recipe-list {
+		a:link, a:visited {
+			text-decoration: none;
+		}
 	}
 }
 .recipe-entry, .recipe-credits {
@@ -132,7 +162,10 @@ a:hover {
 .recipe-entry-contents {
 	p {
 		padding-left: 5px;
+	}
+	figcaption {
 		font-style: italic;
+		font-size: 20px;
 	}
 }
 .recipe-credits {
