@@ -22,7 +22,7 @@ tags:
     - 2 scallions (sliced, 1-inch slices)
     - 7 Thai red chili peppers (thinly sliced)
         - use more if you want it to be spicier
-    - 2 cups Thai basil
+    - 1 cup Thai basil
     - 2 tbsp Shaoxing wine
         - subst: rice vinegar
     - 2 tbsp chili oil
@@ -30,6 +30,7 @@ tags:
     - 1&frac12; lbs beef (thinly sliced)
     - &frac12; tsp salt
     - &frac14; cup soy sauce
+    - 1 tsp ground anise seed
 - Sauce
     - 1 tbsp brown sugar
     - 4 tsp soy sauce
