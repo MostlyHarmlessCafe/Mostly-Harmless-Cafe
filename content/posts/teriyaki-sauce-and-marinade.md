@@ -9,6 +9,7 @@ tags:
 
 ## Ingredients
 - 3 tbsp dark soy sauce
+- 1 tbsp brown sugar
 - &frac14; tsp ground ginger
 - &frac14; tsp garlic powder
 - &frac14; tsp cornstarch
