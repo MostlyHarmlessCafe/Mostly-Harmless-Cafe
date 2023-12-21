@@ -1,14 +1,16 @@
 #!/bin/zsh
 
+Q="40"
+
 if [ $1 ]
 then
 	for file in $@
 	do
-		convert -verbose -quality 60 $file -auto-orient ../${file%.*}.webp
+		convert -verbose -quality $Q $file -auto-orient ../${file%.*}.webp
 	done
 else
 	for file in *.(jpg|png|jpeg)
 	do
-		convert -verbose -quality 60 $file -auto-orient ../${file%.(jpg|jpeg|png)}.webp
+		convert -verbose -quality $Q $file -auto-orient ../${file%.(jpg|jpeg|png)}.webp
 	done
 fi
