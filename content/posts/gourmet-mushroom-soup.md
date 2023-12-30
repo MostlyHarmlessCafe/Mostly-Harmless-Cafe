@@ -16,11 +16,11 @@ tags:
 - &frac12; tsp truffle oil
     - reserve additional for garnish
 - 1 large onion (diced)
-- 1 lb cremini (sliced)
+- 1 lb cremini (sliced){{<super "1">}}
     - subst: white mushrooms
 - 2 cups chicken stock
     - subst: vegetable stock
-- &frac12; cup dry white wine
+- &frac12; cup dry white wine{{super "2">}}
 - 2 tsp paprika
 - 1 tsp worcestershire sauce
 - 1 tsp salt
@@ -33,7 +33,7 @@ tags:
 1. Melt butter in a large stockpot. Add truffle oil, onions, and mushrooms. Cook until mushrooms are nicely browned.
     - Expected to take around 8 minutes. If the ingredients crowd the pot, work in batches.
 1. Add chicken stock, wine, paprika, worcestershire, and salt.
-    - At this point add any additional herbs, vegetables, or spices you would like to add.
+    - At this point add any additional herbs, vegetables{{<super "3">}}, or spices you would like to add.
 1. Simmer on low for around 10 minutes or until slightly reduced.
 1. In a separate bowl, combine the heay cream and cornstarch and whisk thoroughly.
 1. Stir the cream mixture into the soup and return it to a simmer. Continue simmering until the soup is as thick as you like.
@@ -41,6 +41,6 @@ tags:
 1. Turn off heat and stir in lemon juice. Season to taste with salt, servie into bowls, and garnish with truffle oil.
 
 ### Contributor's Notes
-- I like to dice my mushrooms but keep some of them sliced for variation in texture.
-- Like all soups, the greatest thing about this recipe is you can add any herbs, vegetables, and spices that you want! Use up your extra ingredients that are about to go bad, or just add all your favorites! Some suggestions that would go great in this recipe include dill, thyme, oregano, parsley, celery, leeks, garlic, and mustard - but you can really use whatever you want! I substituted half the salt in this recipe for a "Wild Mushroom" seasoning blend that I had, and it was amazing.
-- I made this soup with a dry red wine instead of white, and it was still delicious.
+{{<footnote "1" "I like to dice my mushrooms but keep some of them sliced for variation in texture.">}}
+{{<footnote "2" "I made this soup with a dry red wine instead of white, and it was still delicious.">}}
+{{<footnote "3" "Like all soups, the greatest thing about this recipe is you can add any herbs, vegetables, and spices that you want! Use up your extra ingredients that are about to go bad, or just add all your favorites! Some suggestions that would go great in this recipe include dill, thyme, oregano, parsley, celery, leeks, garlic, and mustard - but you can really use whatever you want! I substituted half the salt in this recipe for a "Wild Mushroom" seasoning blend that I had, and it was amazing.">}}

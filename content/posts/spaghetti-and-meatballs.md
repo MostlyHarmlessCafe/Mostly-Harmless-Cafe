@@ -34,16 +34,14 @@ tags:
     - 1 bunch of basil
 
 ## Instructions
-- Meatballs:
-    1. Mix together all ingredients in no particular order until resulting mass is homogenous.
-    1.  Put on skillet on med-high heat, sear on all sides.
-    1.  Place to the side.
-        - Don't worry too much about the meatballs cooking all the way through, they'll finish cooking in the sauce later.
-- Sauce:
-    1. Add olive oil to pan on medium heat.
-    1. Add garlic and red pepper flakes, cook until garlic is slightly brown.
-    1. Add tomatoes and salt, cook for about 5 minutes.
-        - additional salt to taste
-    1. Add meatballs, cook for about 8 more minutes.
-    1. Add noodles, toss until thoroughly combined.
-    1. Garnish with pecorino and serve.
+1. Mix together all ingredients in no particular order until resulting mass is homogenous.
+1.  Put on skillet on med-high heat, sear on all sides.
+1.  Place to the side.
+    - Don't worry too much about the meatballs cooking all the way through, they'll finish cooking in the sauce later.
+1. Add olive oil to pan on medium heat.
+1. Add garlic and red pepper flakes, cook until garlic is slightly brown.
+1. Add tomatoes and salt, cook for about 5 minutes.
+    - additional salt to taste
+1. Add meatballs, cook for about 8 more minutes.
+1. Add noodles, toss until thoroughly combined.
+1. Garnish with pecorino and serve.

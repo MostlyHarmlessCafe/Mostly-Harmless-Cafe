@@ -26,6 +26,4 @@ tags:
 ## Instructions:
 1. Wet rim of glass with lime wedge and garnish is with salt.
 1. Mix everything together adding the garnish last.
-
-### Optional:
-- Throw in the lime wedge you uses for the rim as garnish.
+    - Optional: Throw in the lime wedge you uses for the rim as garnish.

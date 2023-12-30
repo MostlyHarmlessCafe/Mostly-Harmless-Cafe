@@ -28,6 +28,3 @@ tags:
     - optional method is running a little bit of water over the tortilla and microwaving it for 10 seconds
 1. Add sausage, egg, cheese, jalapenos, and hot sauce to burrito and roll.
 1. Serve.
-
-### Optional:
-- Slightly cook the jalapenos first.

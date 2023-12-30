@@ -9,16 +9,18 @@ tags:
 ---
 
 ## Ingredients
-- 3 tbsp dark soy sauce
+- 3 tbsp dark soy sauce{{<super "1">}}
 - 1 tbsp brown sugar
 - &frac14; tsp ground ginger
 - &frac14; tsp garlic powder
-- &frac14; tsp cornstarch
+- &frac14; tsp cornstarch{{<super "2">}}
 
 ## Instructions
 1. Mix everything together.
-1. Simmer on medium-low heat for around 1 minute or until thickened.
+1. Simmer on medium-low heat for around 1 minute or until thickened{{<super "3">}}.
 1. Apply to anything.
 
 ## Notes
-- If you want to use this for a marinade instead, substitute the dark soy sauce for regular, omit the cornstarch, and skip the heating part.
+{{<footnote "1" "If using for marinade, substitute with regular soy sauce.">}}
+{{<footnote "2" "If using for marinade, omit.">}}
+{{<footnote "3" "If using for marinade, skip.">}}

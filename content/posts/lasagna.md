@@ -48,6 +48,3 @@ tags:
 1. Cover and place in oven for 25 minutes.
 1. Uncover and place in oven for another 25 minutes.
 1. Remove from oven and let sit for 15 minutes.
-
-### Optional
-- More mozzarella on top, cheaper and low-moisture mozzarella has thicker texture than expensive mozzarella. **Just don't buy pre-shredded.**

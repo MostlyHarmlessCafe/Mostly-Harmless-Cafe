@@ -19,13 +19,11 @@ tags:
 - &frac12; cup blue cheese crumbles
 
 ## Instructions:
-- Chicken
-    1. Bring water to simmer.
-    1. Place chicken in water, cover with lid, and leave for 45 minutes. 
-    1. Remove chicken, carve the meat, and shred using whatever works.
-- Dip
-    1. Mix together cream cheese, hot sauce, and ranch.
-    1. Mix in chicken.
-    1. Mix in blue cheese crumbles.
-    1. Bake at 375 °F for 10 minutes.
-    1. Serve.
+1. Bring water to simmer.
+1. Place chicken in water, cover with lid, and leave for 45 minutes. 
+1. Remove chicken, carve the meat, and shred using whatever works.
+1. Mix together cream cheese, hot sauce, and ranch.
+1. Mix in chicken.
+1. Mix in blue cheese crumbles.
+1. Bake at 375 °F for 10 minutes.
+1. Serve.

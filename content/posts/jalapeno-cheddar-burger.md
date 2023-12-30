@@ -12,7 +12,7 @@ tags:
 
 ## Ingredients
 - Beef:
-    - &frac13; lb ground beef
+    - &frac13; lb ground beef{{<super "1">}}
     - 1 slice of cheddar cheese
     - 1 slice of american cheese
         - subst: whatever cheese you want
@@ -42,4 +42,4 @@ tags:
     1. Sauce bottom bun, place patty, sauce top of patty, cover with top bun.
 
 ### Optional:
-- Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.
+{{<footnote "1" "Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.">}}

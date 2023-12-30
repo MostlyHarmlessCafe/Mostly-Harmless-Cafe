@@ -42,6 +42,4 @@ tags:
 11. Let the sauce keep simmering while you cook the pasta in appropriately salted water per package instructions.
 12. When pasta is done, gently mix into the sauce. If you mix too hard the noodles will break so try and fold it in.
 13. Serve.
-
-### Optional:
-  - Garnish with a generous amount of black pepper, additional sour cream, and parsley.
+    - Garnish with a generous amount of black pepper, additional sour cream, and parsley.
