@@ -5,6 +5,7 @@ draft: false
 tags:
 - food
 - sauce
+- Asian
 ---
 
 ## Ingredients
