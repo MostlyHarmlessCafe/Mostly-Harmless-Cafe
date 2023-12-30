@@ -7,3 +7,11 @@ publishDir = 'docs'
 [taxonomies]
 	tag = 'tags'
 	credit = 'credits'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+

@@ -7,6 +7,7 @@ credits:
 tags:
 - food
 - asian
+- beef
 - spicy
 - noodles
 ---
@@ -24,10 +25,10 @@ tags:
         - use more if you want it to be spicier
     - 1 cup Thai basil
     - 2 tbsp Shaoxing wine
-        - subst: rice vinegar
+        - subst: chinkiang vinegar or rice vinegar
     - 2 tbsp chili oil
 - Beef:
-    - 1&frac12; lbs beef (thinly sliced)
+    - 1&frac12; lbs beef (cut into bite size pieces)
     - &frac12; tsp salt
     - &frac14; cup soy sauce
     - 1 tsp ground anise seed
@@ -40,18 +41,22 @@ tags:
     - &frac12; tsp ground white pepper
 
 ## Instructions:
-1. Mix beef with salt and let marinade in soy sauce until needed.
+1. Mix beef with salt, anise, and soy sauce. Let marinate until needed.
+1. Ideally, do this just before soaking the noodles so that by the time the noodles are ready the beef has been soaking for about an hour.
 1. Prepare noodles using instructions on box/bag.
-    - this may take up to an hour so go ahead and finish this before moving on.
+1. This may take up to an hour so go ahead and prep all the other ingredients after this is done.
 1. Prepare sauce by mixing all sauce ingredients together and setting to the side.
-1. In wok on high heat, sear beef. Don't cook all the way, just long enough to sear. Remove beef and set aside.
-1. Reduce heat to medium and add vegetable oil followed by garlic and ginger. Cook until garlic slightly browns.
-1. Add shallots, scallions, chili peppers, basil, and shaoxing wine. Toss. Cook until basil wilts.
-1. Increase temperature to high and add noodles and sauce. Continuously mix for around 1&frac12; minutes.
-1. Add beef, continuously mix until noodles reach consistency you like.
+1. **Wait for noodles to finish soaking and beef to finish marinating before proceeding.**
+1. Set wok on med-high heat add oil and sear the beef. Don't cook all the way, just long enough to sear. This takes around 1 minute per side. Remove beef and set aside.
+    - Additional oil may be needed between batches.
+1. Reduce heat to medium and add oil followed by garlic, chilis, and ginger. Cook until garlic slightly browns and then add shaoxing wine. Simmer for 10 seconds.
+1. Add shallots and scallions. Cook until shallots are slightly wilting.
+1. Increase temperature to med-high and add noodles. Continuously mix{{<super "1">}} until noodles wilt enough that they're pleasant to bite into. Then add the sauce and mix it in.
+1. Add beef and basil. Cook while mixing until basil is slightly wilted.
 1. Add chili oil and mix for 30 more seconds.
-1. Serve immediately.
+1. Serve{{<super "2,3">}}.
 
-### Optional:
-- If you get to the end and find it's still not spicy enough, add more chili oil.
-- When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.
+## Footnotes:
+{{<super "[1]">}} Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy.<br>
+{{<super "[2]">}} If you get to the end and find it's still not spicy enough, add more chili oil.<br>
+{{<super "[3]">}} When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.
