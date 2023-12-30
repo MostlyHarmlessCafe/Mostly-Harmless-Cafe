@@ -57,6 +57,6 @@ tags:
 1. Serve{{<super "2,3">}}.
 
 ## Footnotes:
-{{<super "[1]">}} Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy.<br>
-{{<super "[2]">}} If you get to the end and find it's still not spicy enough, add more chili oil.<br>
-{{<super "[3]">}} When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.
+{{<footnote "1" "Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy.">}}
+{{<footnote "2" "If you get to the end and find it's still not spicy enough, add more chili oil.">}}
+{{<footnote "3" "When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.">}}
