@@ -14,7 +14,7 @@ tags:
 
 {{< figure src="/images/food-images/pad-kee-mao_deadbody13.webp" caption="Drunken Noodles; image by deadbody13" alt="bowl of Drunken Noodles" >}}
 
-The joke is that they're so spicy that they'll sober you up. Alternatively you can say they're so spicy they'll cure your hangover. This is a salty and mildly sweet dish with licorice notes from anise seed and Thai basil.
+The joke is that they're so spicy that they'll sober you up; alternatively, you can say they're so spicy they'll cure your hangover. This is a spicy, salty, and mildly sweet dish with licorice notes from anise seed and Thai basil.
 
 ## Ingredients
 - Noodles:
