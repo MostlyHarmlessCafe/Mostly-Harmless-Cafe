@@ -14,6 +14,8 @@ tags:
 
 {{< figure src="/images/food-images/pad-kee-mao_deadbody13.webp" caption="Drunken Noodles; image by deadbody13" alt="bowl of Drunken Noodles" >}}
 
+The joke is that they're so spicy that they'll sober you up. Alternatively you can say they're so spicy they'll cure your hangover. This is a salty and mildly sweet dish with licorice notes from anise seed and Thai basil.
+
 ## Ingredients
 - Noodles:
     - 1 lb wide rice noodles
@@ -33,11 +35,11 @@ tags:
     - &frac14; cup soy sauce
     - 1 tsp ground anise seed
 - Sauce
-    - 1 tbsp brown sugar
-    - 4 tsp soy sauce
-    - 2 tsp dark soy sauce
-    - 2 tbsp fish sauce
-    - 4 tsp oyster sauce
+    - 1&frac14; tbsp brown sugar
+    - 1&frac12; tbsp soy sauce
+    - 1 tbsp dark soy sauce
+    - 2&frac12; tbsp fish sauce
+    - 1&frac12; tbsp oyster sauce
     - &frac12; tsp ground white pepper
 
 ## Instructions:
@@ -57,6 +59,6 @@ tags:
 1. Serve{{<super "2,3">}}.
 
 ## Footnotes:
-{{<footnote "1" "Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy.">}}
+{{<footnote "1" "Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.">}}
 {{<footnote "2" "If you get to the end and find it's still not spicy enough, add more chili oil.">}}
 {{<footnote "3" "When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.">}}

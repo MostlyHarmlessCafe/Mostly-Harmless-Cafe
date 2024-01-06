@@ -6,10 +6,14 @@
 	font-family: "No Tears";
 	src: url("/fonts/No Tears.ttf");
 }
+@font-face {
+	font-family: "Inter";
+	src: url("/fonts/Inter-VariableFont_slnt,wght.ttf")
+}
 
 :root {
 	/* Jost Light needed for when displaying fractions */
-	--font-primary: "No Tears", "Jost Light";
+	--font-primary: "Inter", "No Tears", "Jost Light";
 	--font-secondary: "Jost Light";
 	--foreground: #5c5852;
 	--foreground-accent: #a6752e;
@@ -19,7 +23,7 @@
 
 body {
 	font-family: var(--font-primary);
-	font-size: 24px;
+	font-size: 18px;
 	font-weight: 16px;
 	color: var(--foreground);
 	background-color: var(--background);
@@ -37,9 +41,13 @@ a:hover {
 
 .page-title {
 	padding-bottom: 15px;
-	> h1 {
+	h1 {
+		font-size: 28px;
 		padding-bottom: 0px;
-		margin-bottom: 0px;
+		margin-bottom: 5px;
+	}
+	h3 {
+		font-size: 18px;
 	}
 	a:link, a:visited {
 		text-decoration: none;
@@ -168,7 +176,7 @@ a:hover {
 	}
 	figcaption {
 		font-style: italic;
-		font-size: 20px;
+		font-size: 16px;
 	}
 }
 .recipe-credits {
