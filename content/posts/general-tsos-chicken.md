@@ -24,7 +24,7 @@ tags:
     - &frac12; tsp salt
     - 2 egg whites (beaten)
 - Sauce:
-    - &frac12; cup chicken stock
+    - &frac13; cup chicken stock
     - 3 tbsp soy sauce
     - 1 tbsp rice vinegar
     - 4 cloves of garlic (minced)
