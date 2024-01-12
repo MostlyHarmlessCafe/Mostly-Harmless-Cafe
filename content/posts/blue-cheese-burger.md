@@ -32,5 +32,5 @@ tags:
 1. Place patty on bun, top with however much buffalo sauce you want, let rest for 2 minutes, serve.
 
 ### Optional:
-{{<footnote "1" "Optional: Fry the jalapeno slices first by dredging them and frying in shallow oil">}}
+{{<footnote "1" "Optional: Fry the jalapeno slices first by dredging them and frying in shallow oil. Alternatively you can just sautee them for a minute or two with a bit of oil on medium.">}}
 {{<footnote "2" "Optional: Put a bit of [Phisch's BBQ Sauce](phisch-bbq-sauce.html) on the bottom bun.">}}

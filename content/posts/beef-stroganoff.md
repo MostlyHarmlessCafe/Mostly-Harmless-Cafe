@@ -12,6 +12,8 @@ tags:
 
 {{< figure src="/images/food-images/beef-stroganoff_deadbody13.webp" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
 
+Basic down to earth beef-centric dish. Best served garnished with sour cream and parsley on either egg-noodle pasta or potatoes.
+
 ## Ingredients:
 - 1 lb wide egg noodles (dry)
 - &frac14; cup butter (divide into 2)

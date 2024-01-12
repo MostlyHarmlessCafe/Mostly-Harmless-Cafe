@@ -1,16 +1,20 @@
 #!/bin/zsh
 
+# Remove metadata (exiv2) from images and compress/change filetype (convert) to webp
+
 Q="40"
 
 if [ $1 ]
 then
 	for file in $@
 	do
+		exiv2 -vd a $file
 		convert -verbose -quality $Q $file -auto-orient ../${file%.*}.webp
 	done
 else
 	for file in *.(jpg|png|jpeg)
 	do
+		exiv2 -vd a $file
 		convert -verbose -quality $Q $file -auto-orient ../${file%.(jpg|jpeg|png)}.webp
 	done
 fi

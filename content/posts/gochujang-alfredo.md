@@ -11,6 +11,8 @@ tags:
 
 {{< figure src="/images/food-images/gochujang-alfredo_anon001.webp" caption="bowl of Gochujang Alfredo; image by deadbody13" alt="bowl of Gochujang Alfredo garnished with Pecorino Romano" >}}
 
+Comparable to Fettuccine Alfredo, this is a creamy pasta with gochujang added to it, giving it a bit of sweetness and heat.
+
 ## Ingredients
 - Pasta:
     - 1 lb of fettuccine noodles (dry)
