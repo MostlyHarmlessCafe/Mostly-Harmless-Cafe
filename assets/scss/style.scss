@@ -121,7 +121,11 @@ a:hover {
 	}
 }
 .footnote {
-	font-size: 10px;
+	font-size: 14px;
+	line-height: 0;
+	br {
+		line-height: 0;
+	}
 }
 .recipe-page, .recipe-entry {
 	padding-top: 15%;
@@ -175,6 +179,7 @@ a:hover {
 	}
 }
 .recipe-credits {
+	font-size: 14px;
 	border-left: 1px double #ccc8c2;
 	border-width: 5px;
 	padding: 5px 5px 0px 5px;
