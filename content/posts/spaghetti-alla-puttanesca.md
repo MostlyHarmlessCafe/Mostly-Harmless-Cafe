@@ -28,7 +28,11 @@ credits:
 ## Instructions
 1. Cook pasta al dente per box instructions, remember to salt the water. After this is done reserve some of the pasta water, strain, and chill the noodles. Set aside.
 1. In a large sauce pan on medium heat, add olive oil, garlic, and anchovies. Sautee until anchovies have dissolved.
-1. Squeeze olives over pan with your hands and then add the olives themselves. Add the capers. Sautee for another couple minutes.
-1. While all of that is sauteing in the pan, in a bowl add the tomatoes, parsley, and black pepper. Mix. After the sauce ingredients are done sauteing, add the tomatoes to the sauce pan. Heat until steaming.
-1. Add noodles and toss until combined. Heat, tossing occasionally, until the entire dish is simmering but not boiling.
+1. Squeeze and add olives to pan{{< super "1" >}}. Add the capers. Sautee for another couple minutes.
+1. While all of that is sauteing in the pan, in a bowl add the tomatoes, parsley, and black pepper. Mix. After the sauce ingredients are done sauteing, add the tomatoes to the sauce pan. Add salt to taste and bring to a simmer.
+1. Add noodles and toss until combined{{< super "2" >}}. Bring to a simmer and cook for another minute.
 1. Serve in bowl, garnish with pecorino romano.
+
+## Footnotes
+{{< footnote "1" "Pretty much just grab the olives handfulls at a time and aggressively squeeze them over the pan. This adds more flavor to the dish. Add the olives themselves after squeezing." >}}
+{{< footnote "2" "If the sauce isn't sticking to the noodles or you think it's a bit too loose add some of the reserved pasta water and simmer for a while longer to thicken and help it stick to the noodles." >}}
