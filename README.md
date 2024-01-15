@@ -70,6 +70,15 @@ When submitting images, use Hugo's `figure` shortcode. This allows you to label 
 ```
 {{< figure src="/images/food-images/image.webp" caption="caption; image by anon001" alt="alt" >}}
 ```
+##### Footnotes
+In-line: these are the in-text citation and are just numbers referencing the footnote at the bottom. Can be either a single number or multiple if more than one footnote exists for this item.
+```
+{{< super "1,2" >}}
+```
+Footnote: these are the actual footnotes at the bottom referencing the in-line citations.
+```
+{{< footnote "1" "Footnote text" >}}
+```
 
 ##### Crediting Yourself or Others
 
