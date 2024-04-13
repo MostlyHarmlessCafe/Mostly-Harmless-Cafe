@@ -2,14 +2,17 @@
 title: "Gourmet Mushroom Soup"
 date: 2023-10-28T09:57:14-04:00
 draft: false
+
+image: /images/food-images/gourmet-mushroom-soup.webp
+caption: Gourmet Mushroom Soup; image by breadsmyth
+alt: Gourmet Mushroom Soup served in a bowl with truffle oil garnish
+
 credits:
 - breadsmyth
 tags:
 - food
 - soup
 ---
-
-{{< figure src="/images/food-images/gourmet-mushroom-soup.webp" caption="Gourmet Mushroom Soup; image by breadsmyth" alt="Gourmet Mushroom Soup served in a bowl with truffle oil garnish" >}}
 
 ## Ingredients:
 - 4 tbsp butter

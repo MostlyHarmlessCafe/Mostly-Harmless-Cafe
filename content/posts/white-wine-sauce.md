@@ -2,13 +2,16 @@
 title: "White Wine Sauce"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/food-images/white-wine-sauce_deadbody13.webp
+caption: Angel hair pasta and chicken served in white wine sauce and garnished with parsley
+alt: bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley
+
 tags:
 - food
 - pasta
 - sauce
 ---
-
-{{< figure src="/images/food-images/white-wine-sauce_deadbody13.webp" caption="Angel hair pasta and chicken served in white wine sauce and garnished with parsley" alt="bowl of spaghetti tossed in white wine sauce and garnished with lemon and parsley" >}}
 
 ## Ingredients:
 - Sauce:

@@ -2,13 +2,16 @@
 title: "General Tso's Chicken"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/food-images/general-tso-chicken_deadbody13.webp
+caption: General Tso's chicken; image by deadbody13
+alt: Bowl of General Tso's chicken
+
 tags:
 - food
 - chicken
 - asian
 ---
-
-{{< figure src="/images/food-images/general-tso-chicken_deadbody13.webp" caption="General Tso's chicken; image by deadbody13" alt="bowl of General Tso's chicken" >}}
 
 ## Ingredients
 - Chicken & marinade:

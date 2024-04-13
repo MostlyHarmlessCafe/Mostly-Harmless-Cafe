@@ -2,6 +2,11 @@
 title: "Blue Cheese Burger"
 date: 2023-06-27T10:25:22-04:00
 draft: false
+
+image: /images/food-images/blue-cheese-burger_deadbody13.webp
+caption: Blue Cheese Burger; image by deadbody13
+alt: Blue Cheese Burger
+
 credits:
 - Deadbody13
 tags:
@@ -9,8 +14,6 @@ tags:
 - burgers
 - beef
 ---
-
-{{< figure src="/images/food-images/blue-cheese-burger_deadbody13.webp" caption="Blue Cheese Burger; image by deadbody13" alt="blue cheese burger with top bun off" >}}
 
 ## Ingredients:
 - 1 lb ground beef (20%+ fat)

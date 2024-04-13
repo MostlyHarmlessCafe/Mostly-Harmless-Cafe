@@ -2,6 +2,13 @@
 title: "Steak Sauce (breadsmyth)"
 date: 2023-11-10T13:17:50-05:00
 draft: false
+
+image: /images/food-images/steak-sauce_breadsmyth.webp
+caption: Steak topped with steak sauce; image by breadsmyth
+alt: Steak served with sauce on top
+
+description: Sauce for topping a cooked steak. Can be modified to work with pretty much any other meat.
+
 credits:
 - breadsmyth
 tags:
@@ -9,10 +16,6 @@ tags:
 - sauce
 - steak
 ---
-
-Sauce for topping a cooked steak. Can be modified to work with pretty much any other meat.
-
-{{< figure src="/images/food-images/steak-sauce_breadsmyth.webp" caption="Steak topped with steak sauce; image by breadsmyth" alt="steak served with sauce on top" >}}
 
 ## Ingredients
 - 1 shallot (diced){{<super "1">}}

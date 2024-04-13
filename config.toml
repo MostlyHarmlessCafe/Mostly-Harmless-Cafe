@@ -5,7 +5,10 @@ uglyURLs = true
 publishDir = 'docs'
 
 [params]
-	description = false
+	description = ""
+	image = ""
+	caption = ""
+	alt = ""
 
 [taxonomies]
 	tag = 'tags'
