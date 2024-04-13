@@ -8,6 +8,8 @@ tags:
 - food
 - pasta
 - beef
+desc:
+- Beefy sauce that can be used to top pretty much anything.
 ---
 
 {{< figure src="/images/food-images/beef-stroganoff_deadbody13.webp" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
