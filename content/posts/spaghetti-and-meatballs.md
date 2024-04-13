@@ -9,9 +9,11 @@ tags:
 
 {{< figure src="/images/food-images/spaghetti-and-meatballs_deadbody13.webp" caption="Spaghetti and Meatballs; image by deadbody13" alt="bowl of Spaghetti and Meatballs" >}}
 
+Pretty basic spaghetti and meatballs recipe. It started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit. It's still probably at least 60% his recipe but I like to make this one because ginger is easier to find than basil and I love squeezing anchovies into any recipe I can find.
+
 ## Ingredients
 - Meatballs:
-    - &frac14; lb ham (diced)
+    - &frac18; lb bologna (diced){{< super "1" >}}
         - subst: &frac14; lb sausage
     - 1 lb ground beef (20% fat or more)
     - 1 tsp ground fennel seeds
@@ -25,23 +27,27 @@ tags:
     - 1 whole egg
 - Sauce:
     - &frac14; cup extra virgin olive oil
+    - 2 oz. can of anchovies {{< super "2" >}}
     - 4 cloves garlic (minced)
-    - 2 inch knob of ginger (minced)
+    - 2 inch knob of ginger (minced or julienne)
     - 1 tsp red pepper flakes
     - t tsp salt
-    - 1 can (28 oz.) crushed tomatoes
-        - You can use 2 cans of crushed tomatoes if you like a lot of sauce.
-    - 1 bunch of basil
+    - 2 cans (28 oz.) crushed tomatoes
 
 ## Instructions
-1. Mix together all ingredients in no particular order until resulting mass is homogenous.
-1.  Put on skillet on med-high heat, sear on all sides.
-1.  Place to the side.
-    - Don't worry too much about the meatballs cooking all the way through, they'll finish cooking in the sauce later.
-1. Add olive oil to pan on medium heat.
-1. Add garlic and red pepper flakes, cook until garlic is slightly brown.
-1. Add tomatoes and salt, cook for about 5 minutes.
+1. In a large bowl, mix together all of the meatball ingredients until homogenous, then separate into 20 equal-sized pieces and roll into balls.
+1. In a pot on med-high heat, sear the meatballs{{< super "3" >}}. Place to side after searing.
+1. Reduce heat to medium and add the olive oil to the pot.
+1. Add anchovies and let saute until anhovies dissolve, then add garlic and let saute until fragrant.
+1. Add tomatoes and bring to a simmer.
     - additional salt to taste
-1. Add meatballs, cook for about 8 more minutes.
-1. Add noodles, toss until thoroughly combined.
+1. Add red pepper flakes and meatballs, cook for around 30 minutes {{< super "4" >}}.
+1. Add noodles, toss until thoroughly combined {{< super "5" >}}.
 1. Garnish with pecorino and serve.
+
+## Footnotes
+{{< footnote "1" "If you use ham instead of bologna you can use &frac14; lb because it's denser so the same mass would give you fewer pieces." >}}
+{{< footnote "2" "Use anchovies that come in oil, not vinegar." >}}
+{{< footnote "3" "Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later." >}}
+{{< footnote "4" "Cooking for longer is going to reduce the sauce more, making it more robust and rich. You can cook it for 10-15 minutes to get the meatballs cooked but it won't taste as good and might even be a bit acidic." >}}
+{{< footnote "5" "I personally don't like mixing in all the noodles at once. I like Making the noodles per serving because if you have leftovers, the noodles don't keep as well (they bloat) while the sauce only gets better." >}}
