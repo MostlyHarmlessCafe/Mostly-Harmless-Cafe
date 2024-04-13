@@ -7,6 +7,7 @@ publishDir = 'docs'
 [taxonomies]
 	tag = 'tags'
 	credit = 'credits'
+	description = 'desc'
 
 [markup]
   [markup.goldmark]

@@ -3,6 +3,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
+		<meta property="og:site_name" content="MostlyHarmless Cookbook" />
+		<meta property="og:title" content="{{ .Params.title }}" />
+		<meta property="og:description" content="{{ .Params.desc }}" />
 		<title>{{ .Title }}</title>
 		{{ $scss := resources.Get "scss/style.scss" }}
 		{{ $style := $scss | resources.ToCSS | resources.Fingerprint }}
