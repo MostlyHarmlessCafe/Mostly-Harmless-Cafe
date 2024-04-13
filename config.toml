@@ -4,10 +4,12 @@ title = 'Mostly Harmless Cafe'
 uglyURLs = true
 publishDir = 'docs'
 
+[params]
+	description = false
+
 [taxonomies]
 	tag = 'tags'
 	credit = 'credits'
-	description = 'desc'
 
 [markup]
   [markup.goldmark]
