@@ -34,6 +34,13 @@ deadbody13.github.io/content/posts/<recipe-title>.md
 title: "<Recipe Title>"
 date: 2023-06-17T16:39:03-04:00
 draft: false
+
+image: /images/food-images/beef-stroganoff_deadbody13.webp
+caption: Beef Stroganoff garnished with parsley; image by deadbody13
+alt : Beef Stroganoff garnished with parsley
+
+description: Basic down to earth beef-centric dish. Best served garnished with sour cream and parsley on either egg-noodle pasta or potatoes.
+
 credits:
 - <person-1>
 - <person-2>
@@ -65,11 +72,6 @@ If you don't see a tag here that you think should be included with your recipe, 
 
 Entries should have at least an `## Ingredients` (unordered) and `## Instructions` (ordered) section. You can also include a section at the end `### Optional` (unordered).
 
-##### Images
-When submitting images, use Hugo's `figure` shortcode. This allows you to label and credit the images with captions. If you got the photo from someone else or you would like credit yourself, remember to credit the image in the caption. Please compress the image before submitting.
-```
-{{< figure src="/images/food-images/image.webp" caption="caption; image by anon001" alt="alt" >}}
-```
 ##### Footnotes
 In-line: these are the in-text citation and are just numbers referencing the footnote at the bottom. Can be either a single number or multiple if more than one footnote exists for this item.
 ```
@@ -79,10 +81,6 @@ Footnote: these are the actual footnotes at the bottom referencing the in-line c
 ```
 {{< footnote "1" "Footnote text" >}}
 ```
-
-##### Crediting Yourself or Others
-
-Credits are... for giving credit. If you want to credit yourself or another person list them here (i.e. `- deadbody13`)
 
 ##### Previewing
 The following command is used to host the website locally. It will then be accessible via `https://localhost:1313/` or something like that.
