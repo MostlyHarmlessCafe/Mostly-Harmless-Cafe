@@ -2,6 +2,9 @@
 title: "Bloody Mary"
 date: 2023-07-08T12:23:43-04:00
 draft: false
+
+image: /images/logo.png
+
 credits:
 - Deadbody
 tags:

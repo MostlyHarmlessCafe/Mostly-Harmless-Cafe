@@ -2,6 +2,9 @@
 title: "Fettuccine al Burro"
 date: 2023-11-25T19:25:14-05:00
 draft: false
+
+image: /images/logo.png
+
 tags:
 - food
 - pasta

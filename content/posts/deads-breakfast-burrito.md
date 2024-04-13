@@ -2,6 +2,9 @@
 title: "Dead's Breakfast Burrito"
 date: 2023-07-06T20:39:50-04:00
 draft: false
+
+image: /images/logo.png
+
 credits:
 - Deadbody13
 tags:

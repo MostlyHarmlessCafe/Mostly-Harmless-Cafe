@@ -2,6 +2,9 @@
 title: "Chicken Katsu"
 date: 2023-10-01T12:38:31-04:00
 draft: false
+
+image: /images/logo.png
+
 tags:
 - food
 - chicken

@@ -2,6 +2,9 @@
 title: "Chicken Adobo"
 date: 2023-06-17T16:39:03-04:00
 draft: false
+
+image: /images/logo.png
+
 tags:
 - food
 - chicken

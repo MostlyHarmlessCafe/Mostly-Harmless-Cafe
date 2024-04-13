@@ -2,6 +2,9 @@
 title: "Phisch's BBQ Sauce"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/logo.png
+
 credits:
 - Phisch
 tags:

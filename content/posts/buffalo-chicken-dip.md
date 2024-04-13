@@ -2,6 +2,9 @@
 title: "Buffalo Chicken Dip"
 date: 2023-06-17T16:39:03-04:00
 draft: false
+
+image: /images/logo.png
+
 credits:
 - Deadbody13
 tags:
