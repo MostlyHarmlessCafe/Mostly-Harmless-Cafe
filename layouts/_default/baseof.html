@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width">
 		<meta property="og:site_name" content="MostlyHarmless Cookbook" />
 		<meta property="og:title" content="{{ .Params.title }}" />
+		<meta property="og:image" content="{{ .Params.image }}" />
 		<meta property="og:description" content="{{ .Params.description }}" />
 		<title>{{ .Title }}</title>
 		{{ $scss := resources.Get "scss/style.scss" }}

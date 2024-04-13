@@ -6,7 +6,7 @@ publishDir = 'docs'
 
 [params]
 	description = ""
-	image = ""
+	image = "/images/logo.png"
 	caption = ""
 	alt = ""
 
