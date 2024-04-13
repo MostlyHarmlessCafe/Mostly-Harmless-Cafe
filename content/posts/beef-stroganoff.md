@@ -2,7 +2,13 @@
 title: "Beef Stroganoff"
 date: 2023-06-17T16:39:03-04:00
 draft: false
-description: "Beefy sauce that can be used to top pretty much anything."
+
+image: /images/food-images/beef-stroganoff_deadbody13.webp
+caption: Beef Stroganoff garnished with parsley; image by deadbody13
+alt : Beef Stroganoff garnished with parsley
+
+description: Basic down to earth beef-centric dish. Best served garnished with sour cream and parsley on either egg-noodle pasta or potatoes.
+
 credits:
 - Deadbody13
 tags:
@@ -11,9 +17,7 @@ tags:
 - beef
 ---
 
-{{< figure src="/images/food-images/beef-stroganoff_deadbody13.webp" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
 
-Basic down to earth beef-centric dish. Best served garnished with sour cream and parsley on either egg-noodle pasta or potatoes.
 
 ## Ingredients:
 - 1 lb wide egg noodles (dry)

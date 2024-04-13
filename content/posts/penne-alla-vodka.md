@@ -2,12 +2,15 @@
 title: "Penne Alla Vodka"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/food-images/penne-alla-vodka_deadbody13.webp
+caption: Penne Alla Vodka; image by deadbody13
+alt: Bowl of Penne Alla Vodka
+
 tags:
 - food
 - pasta
 ---
-
-{{< figure src="/images/food-images/penne-alla-vodka_deadbody13.webp" caption="Penne Alla Vodka; image by deadbody13" alt="bowl of Penne Alla Vodka" >}}
 
 ## Ingredients:
 - 1 lb penne pasta

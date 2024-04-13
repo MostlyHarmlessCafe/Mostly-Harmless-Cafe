@@ -2,13 +2,16 @@
 title: "Hot Chocolate"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/food-images/hot-chocolate_deadbody13.webp
+caption: Hot Chocolate; image by deadbody13
+alt: Cup of Hot Chocolate with 3 marshmallows
+
 tags:
 - drinks
 - hot-drinks
 - non-alcoholic
 ---
-
-{{< figure src="/images/food-images/hot-chocolate_deadbody13.webp" caption="Hot Chocolate; image by deadbody13" alt="cup of Hot Chocolate with 3 marshmallows" >}}
 
 ## Ingredients:
 - 1 &frac12; cups whole milk

@@ -2,6 +2,13 @@
 title: "Potatoes Benedict"
 date: 2024-02-23T08:04:16-05:00
 draft: false
+
+image: /images/food-images/potatoes-benedict_deadbody13.webp
+caption: Potates benedict; image by deabdody13
+alt: Roasted potatoes topped with cheddar cheese, poached eggs, hollandaise, cayenne pepper, and chives
+
+description: Don't make this a daily meal. That said, try and start by making the Hollandaise with the oven on preheat and then move on to the potatoes, followed by poaching the eggs.
+
 tags:
 - food
 - breakfast
@@ -9,9 +16,6 @@ tags:
 - comfort
 ---
 
-{{< figure src="/images/food-images/potatoes-benedict_deadbody13.webp" caption="Potates benedict; image by deabdody13" alt="Roasted potatoes topped with cheddar cheese, poached eggs, hollandaise, cayenne pepper, and chives." >}}
-
-Don't make this a daily meal. That said, try and start by making the Hollandaise with the oven on preheat and then move on to the potatoes, followed by poaching the eggs.
 
 ## Ingredients
 - Hollandaise:

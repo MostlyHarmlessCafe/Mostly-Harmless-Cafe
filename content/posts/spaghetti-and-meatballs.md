@@ -2,14 +2,17 @@
 title: "Spaghetti and Meatballs"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/food-images/spaghetti-and-meatballs_deadbody13.webp
+caption: Spaghetti and Meatballs; image by deadbody13
+alt: Bowl of Spaghetti and Meatballs
+
+description: Pretty basic spaghetti and meatballs recipe. It started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit. It's still probably at least 60% his recipe but I like to make this one because ginger is easier to find than basil and I love squeezing anchovies into any recipe I can find.
+
 tags:
 - food
 - pasta
 ---
-
-{{< figure src="/images/food-images/spaghetti-and-meatballs_deadbody13.webp" caption="Spaghetti and Meatballs; image by deadbody13" alt="bowl of Spaghetti and Meatballs" >}}
-
-Pretty basic spaghetti and meatballs recipe. It started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit. It's still probably at least 60% his recipe but I like to make this one because ginger is easier to find than basil and I love squeezing anchovies into any recipe I can find.
 
 ## Ingredients
 - Meatballs:

@@ -18,6 +18,16 @@
 			</h3>
 		</div>
 		<div class="recipe-entry-contents">
+			{{ $img := .Params.image }}
+			{{ $cap := .Params.caption }}
+			{{ $alt := .Params.alt }}
+			{{ if ($img) }}
+				<figure>
+					<img src={{ $img }} alt={{ $alt }}>
+					<figcaption>{{ $cap }}</figcaption>
+				</figure>
+			{{ end }}
+			{{ .Params.description }}
 			{{ .Content }}
 		</div>
 	</div>

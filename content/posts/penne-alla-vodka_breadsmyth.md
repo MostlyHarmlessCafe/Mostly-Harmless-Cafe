@@ -2,15 +2,17 @@
 title: "Penne Alla Vodka (breadsmyth)"
 date: 2023-10-28T11:25:44-04:00
 draft: false
+
+image: /images/food-images/penne-alla-vodka_breadsmyth.webp
+caption: Penne Alla Vodka; image by breadsmyth
+alt: Penne alla vodka served with garnish of parmesan
+
 credit:
 - breadsmyth
 tags:
 - food
 - pasta
 ---
-
-{{< figure src="/images/food-images/penne-alla-vodka_breadsmyth.webp" caption="Penne Alla Vodka; image by breadsmyth" alt="Penne alla vodka served with garnish of parmesan" >}}
-
 
 ## Ingredients
 - 3 tbsp (45g) unsalted butter

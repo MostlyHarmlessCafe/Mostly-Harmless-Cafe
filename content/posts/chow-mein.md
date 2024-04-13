@@ -2,6 +2,11 @@
 title: "Chow Mein"
 date: 2023-06-17T16:39:03-04:00
 draft: false
+
+image: /images/food-images/chow-mein_deadbody13.webp
+caption: Chow Mein garnished with green onions; image by deadbody13
+alt: bowl of chow mein garnished with green onions
+
 credits:
 - Deadbody13
 tags:
@@ -9,8 +14,6 @@ tags:
 - noodles
 - asian
 ---
-
-{{< figure src="/images/food-images/chow-mein_deadbody13.webp" caption="Chow Mein garnished with green onions; image by deadbody13" alt="bowl of chow mein garnished with green onions" >}}
 
 ## Ingredients
 - Noodles:

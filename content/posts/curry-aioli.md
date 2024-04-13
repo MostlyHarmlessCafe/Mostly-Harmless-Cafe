@@ -2,14 +2,17 @@
 title: "Curry Aioli"
 date: 2023-06-17T16:39:04-04:00
 draft: false
+
+image: /images/food-images/curry-aioli_deadbody13.webp
+caption: Burger with side of fries topped with curry aioli; image by deadbody13
+alt: Burger with side of fries topped with curry aioli
+
+description: Zesty, spicy (as in flavor, not heat) sauce. Good for fries and bratwurst.
+
 tags:
 - food
 - sauce
 ---
-
-{{< figure src="/images/food-images/curry-aioli_deadbody13.webp" caption="Burger with side of fries topped with curry aioli; image by deadbody13" alt="Burger with side of fries topped with curry aioli" >}}
-
-Zesty, spicy (as in flavor, not heat) sauce. Good for fries and bratwurst.
 
 ## Ingredients
 - 2 Tbsp mayonnaise

@@ -2,16 +2,19 @@
 title: "Gochujang Alfredo"
 date: 2023-10-23T07:50:27-04:00
 draft: false
+
+image: /images/food-images/gochujang-alfredo_anon001.webp
+caption: Bowl of Gochujang Alfredo; image by deadbody13
+alt: Bowl of Gochujang Alfredo garnished with Pecorino Romano
+
+description: Comparable to Fettuccine Alfredo, this is a creamy pasta with gochujang added to it, giving it a bit of sweetness and heat.
+
 tags:
 - food
 - pasta
 - asian
 - fusion
 ---
-
-{{< figure src="/images/food-images/gochujang-alfredo_anon001.webp" caption="bowl of Gochujang Alfredo; image by deadbody13" alt="bowl of Gochujang Alfredo garnished with Pecorino Romano" >}}
-
-Comparable to Fettuccine Alfredo, this is a creamy pasta with gochujang added to it, giving it a bit of sweetness and heat.
 
 ## Ingredients
 - Pasta:
