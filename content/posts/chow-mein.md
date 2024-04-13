@@ -18,7 +18,7 @@ tags:
     - 2 chicken breasts (scored and chopped into bite-sized pieces)
         - feel free to marinade
     - 2 green onions (segmented)
-    - 1 carror (julienne)
+    - 1 carrot (julienne)
     - 3&frac12; cups cabbage (about half of one head)
     - 7 cloves of garlic (minced)
     - 1 cup bean sprouts
