@@ -5,9 +5,3 @@ draft: true
 
 image: /images/logo.png
 ---
-
-- **[Food](food.html)**
-    - [Chicken](chicken.html)
-    - [Asian](asian.html)
-    - [Pastas](pasta.html)
-    - [Sauces](sauce.html)
