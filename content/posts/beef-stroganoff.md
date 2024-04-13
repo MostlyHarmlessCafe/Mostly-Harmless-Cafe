@@ -2,14 +2,13 @@
 title: "Beef Stroganoff"
 date: 2023-06-17T16:39:03-04:00
 draft: false
+description: "Beefy sauce that can be used to top pretty much anything."
 credits:
 - Deadbody13
 tags:
 - food
 - pasta
 - beef
-desc:
-- Beefy sauce that can be used to top pretty much anything.
 ---
 
 {{< figure src="/images/food-images/beef-stroganoff_deadbody13.webp" caption="Beef Stroganoff garnished with parsley" alt="bowl of Beef Stroganoff garnished with parsley" >}}
