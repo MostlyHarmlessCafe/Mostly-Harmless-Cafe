@@ -18,10 +18,13 @@
 			</h3>
 		</div>
 		<div class="recipe-entry-contents">
+			<!-- if image exists and is not the default image (the site logo), insert above the recipe -->
+			<!-- using logo as default for social media embedding purposes -->
 			{{ $img := .Params.image }}
+			{{ $img_def := "/images/logo.png" }}
 			{{ $cap := .Params.caption }}
 			{{ $alt := .Params.alt }}
-			{{ if ($img) }}
+			{{ if (ne $img $img_def) }}
 				<figure>
 					<img src={{ $img }} alt={{ $alt }}>
 					<figcaption>{{ $cap }}</figcaption>
