@@ -7,7 +7,7 @@ image: /images/food-images/beef-stroganoff_deadbody13.webp
 caption: Beef Stroganoff garnished with parsley; image by deadbody13
 alt : Beef Stroganoff garnished with parsley
 
-description: Basic down to earth beef-centric dish. Best served garnished with sour cream and parsley on either egg-noodle pasta or potatoes.
+description: Basic down to earth beef-centric dish.
 
 credits:
 - Deadbody13
@@ -17,7 +17,7 @@ tags:
 - beef
 ---
 
-
+This recipe calls for noodles but the sauce can be put on pretty much everything from bread to potatoes. It's best served topped with sour cream and garnished with parsley.
 
 ## Ingredients:
 - 1 lb wide egg noodles (dry)

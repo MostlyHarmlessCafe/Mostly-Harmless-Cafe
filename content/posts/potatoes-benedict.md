@@ -7,7 +7,7 @@ image: /images/food-images/potatoes-benedict_deadbody13.webp
 caption: Potates benedict; image by deabdody13
 alt: Roasted potatoes topped with cheddar cheese, poached eggs, hollandaise, cayenne pepper, and chives
 
-description: Don't make this a daily meal. That said, try and start by making the Hollandaise with the oven on preheat and then move on to the potatoes, followed by poaching the eggs.
+description: A different take on Eggs Benedict that uses baked potatoes instead of an English muffin.
 
 tags:
 - food
@@ -16,6 +16,7 @@ tags:
 - comfort
 ---
 
+Don't make this a daily meal. This is incredibly starchy and savory and works really well for a brunch or the start of a lazy day on the weekend. The potatoes are baked, broiled crisp, and topped with poached eggs and hollandaise sauce with cayenne pepper and chives.
 
 ## Ingredients
 - Hollandaise:

@@ -7,6 +7,8 @@ image: /images/food-images/hot-chocolate_deadbody13.webp
 caption: Hot Chocolate; image by deadbody13
 alt: Cup of Hot Chocolate with 3 marshmallows
 
+description: Really rich and relatively spicy hot chocolate.
+
 tags:
 - drinks
 - hot-drinks

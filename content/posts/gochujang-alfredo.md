@@ -16,6 +16,8 @@ tags:
 - fusion
 ---
 
+This was taken from someone in r/food. It's a pretty generic alfredo pasta with a bit of heat from gochujang, a chili paste.
+
 ## Ingredients
 - Pasta:
     - 1 lb of fettuccine noodles (dry)

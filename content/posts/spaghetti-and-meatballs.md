@@ -7,12 +7,14 @@ image: /images/food-images/spaghetti-and-meatballs_deadbody13.webp
 caption: Spaghetti and Meatballs; image by deadbody13
 alt: Bowl of Spaghetti and Meatballs
 
-description: Pretty basic spaghetti and meatballs recipe. It started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit. It's still probably at least 60% his recipe but I like to make this one because ginger is easier to find than basil and I love squeezing anchovies into any recipe I can find.
+description: Pretty basic spaghetti and meatballs recipe. 
 
 tags:
 - food
 - pasta
 ---
+
+This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit. It's still probably at least 60% his recipe but I like to make this one because ginger is easier to find than basil and I love squeezing anchovies into any recipe I can find.
 
 ## Ingredients
 - Meatballs:
@@ -31,6 +33,7 @@ tags:
     - 1 large carrot (diced)
     - &frac14; large onion (diced)
     - 4 cloves garlic (minced)
+    - 1-inch knob of ginger (diced)
     - 2 oz. can of anchovies {{< super "2" >}}
     - &frac14; cup extra virgin olive oil
     - 1 tsp red pepper flakes
@@ -43,7 +46,7 @@ tags:
     1. In a pot on med-high heat, sear the meatballs{{< super "3" >}}. Place to side after searing.
 - Sauce
     1. Reduce heat to medium and add the olive oil to the pot.
-    1. Add the celery, carrot, and onion. Stir and saute until vegetables are soft, then mix in the garlic and anchovies. Saute until anchovies have dissolved and then add the crushed tomatoes.
+    1. Add the celery, carrot, and onion. Stir and saute until vegetables are soft, then add in the garlic, ginger, and anchovies. Saute until anchovies have dissolved and then add the crushed tomatoes.
     1. Add the tomatoes and bring to a simmer. Once brought to a simmer, add the meatballs and red pepper flakes to the sauce. Continue to simmer for 30 minutes {{< super "4" >}}.
     1. Add noodles and a bit of pasta water and toss over med-high heat until thoroughly combined {{< super "5" >}}.
     1. Garnish with pecorino and serve.
