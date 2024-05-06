@@ -7,7 +7,7 @@ layout: "recipe-page"
 
 image: /images/logo.png
 
-description: Pasta dishes.
+description: Carb salads.
 
 tags:
 - pasta
