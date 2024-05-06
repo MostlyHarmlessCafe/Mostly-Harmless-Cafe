@@ -7,6 +7,8 @@ layout: "recipe-page"
 
 image: /images/logo.png
 
+description: Pasta dishes.
+
 tags:
 - pasta
 ---

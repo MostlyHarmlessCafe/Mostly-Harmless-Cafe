@@ -7,6 +7,8 @@ layout: "recipe-page"
 
 image: /images/logo.png
 
+description: Asian-inspired dishes that you might find at a Chinese restaurant.
+
 tags:
 - asian
 ---

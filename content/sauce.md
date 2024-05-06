@@ -7,6 +7,8 @@ layout: "recipe-page"
 
 image: /images/logo.png
 
+description: General purpose sauces, some used in other recipes in the cookbook.
+
 tags:
 - sauce
 ---

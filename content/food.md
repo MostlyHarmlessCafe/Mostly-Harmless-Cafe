@@ -7,6 +7,8 @@ layout: "recipe-page"
 
 image: /images/logo.png
 
+description: Recipes for all food on the site.
+
 tags:
 - food
 ---
