@@ -37,13 +37,13 @@
 		</div>
 	</div>
 	{{ if .Params.credits }}
-		<div class="recipe-credits col-lg-8 col-md-10 col-12">
-			<p>Credits to:<p>
-			<ul>
-				{{ range $i := .Params.credits }}
-					<li>{{ $i }}</li>
-				{{ end }}
-			</ul>
-		</div>
+	    <div class="recipe-credits col-lg-8 col-md-10 col-12">
+		<p>Credits to:</p>
+		<ul>
+		    {{ range .Params.credits }}
+			<li>{{ . | markdownify }}</li>
+		    {{ end }}
+		</ul>
+	    </div>
 	{{ end }}
 {{ end }}
