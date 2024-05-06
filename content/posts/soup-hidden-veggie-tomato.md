@@ -10,7 +10,7 @@ credits:
 
 tags:
 - food
-- sauce # Really Soup...
+- soup
 ---
 
 ## Ingredients
