@@ -7,7 +7,7 @@ layout: "recipe-page"
 
 image: /images/logo.png
 
-description: Carb salads.
+description: The cafe's curated collection of carb salads.
 
 tags:
 - pasta
