@@ -7,8 +7,8 @@ image: /images/food-images/penne-alla-vodka_breadsmyth.webp
 caption: Penne Alla Vodka; image by breadsmyth
 alt: Penne alla vodka served with garnish of parmesan
 
-credit:
-- breadsmyth
+credits:
+- "[breadsmyth](https://github.com/breadsmyth)"
 tags:
 - food
 - pasta

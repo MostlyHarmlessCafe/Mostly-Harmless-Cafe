@@ -10,7 +10,7 @@ alt: Steak served with sauce on top
 description: Sauce for topping a cooked steak. Can be modified to work with pretty much any other meat.
 
 credits:
-- breadsmyth
+- "[breadsmyth](https://github.com/breadsmyth)"
 tags:
 - food
 - sauce

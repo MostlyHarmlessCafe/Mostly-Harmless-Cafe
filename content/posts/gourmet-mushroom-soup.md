@@ -8,7 +8,7 @@ caption: Gourmet Mushroom Soup; image by breadsmyth
 alt: Gourmet Mushroom Soup served in a bowl with truffle oil garnish
 
 credits:
-- breadsmyth
+- "[breadsmyth](https://github.com/breadsmyth)"
 tags:
 - food
 - soup
