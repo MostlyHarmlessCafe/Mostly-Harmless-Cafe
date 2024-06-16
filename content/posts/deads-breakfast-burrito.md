@@ -10,6 +10,7 @@ credits:
 tags:
 - food
 - breakfast
+- brunch
 - burrito
 ---
 

@@ -8,6 +8,7 @@ image: /images/logo.png
 tags:
 - food
 - breakfast
+- brunch
 - pancakes
 ---
 
