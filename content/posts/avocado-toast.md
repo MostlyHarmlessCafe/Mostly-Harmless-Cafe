@@ -38,19 +38,25 @@ This recipe is for a single serving of avocado toast. If you want to make a smal
     - salt to taste
 
 ## Instructions:
-1. To a medium thermos, fill with hot water and set to the side.
-1. To a large pot add water and bring to a boil.
-1. To a medium metal bowl, add egg yolks. Beat until consistent and fluffy.
-1. Add lemon juice and dijon mustard to bowl. Mix until combined.
-1. Melt butter in a skillet. Once butter is melted, gently drizzle it into the egg yolk mixture while stirring. The end result should be a creamy, homogenous emulsion.
-1. Hover bowl over the pot of boiling water while stirring to further cook the hollandaise. Heat while mixing until the sauce is the desired thickness.
-1. After the hollandaise has reached the desired doneness, empty the hot water from the thermos into the sink and add the hollandaise to the thermos. Seal and set to the side.
-1. Peel and deseed avocado. Add them to a bowl and mash until creamy and consistent.
-1. Add lime juice. Stir until combined.
-1. Add jalapeno, and cilantro. Stir until combined.
-1. Add salt and pepper to taste.
-1. On cast iron skillet, cook bacon to desired doneness. Leave grease in pan after finished.
-1. Use same pan to toast the bread to desired brownness. Set toast, bacon, and tomato slices to the side.
-1. Add a splash of white vinegar to the pot of water used for cooking the hollandaise, bring the water to a simmer, and add egg to the water to poach it. Cook time for the egg is roughly 5 minutes.
-1. After the egg is done pull it out of the water and set it to the side in a bowl or on a towel.
-1. Spread the avocado mixture over the toast. Add bacon, tomatoes, and poached egg. Top the eggs with the hollandaise sauce and garnish with cayenne pepper to taste.
+- Prep
+    1. To a medium thermos, fill with hot water and set to the side.
+    1. To a large pot add water and bring to a boil.
+- Hollandaise
+    1. To a medium metal bowl, add egg yolks. Beat until consistent and fluffy.
+    1. Add lemon juice and dijon mustard to bowl. Mix until combined.
+    1. Melt butter in a skillet. Once butter is melted, gently drizzle it into the egg yolk mixture while stirring. The end result should be a creamy, homogenous emulsion.
+    1. Hover bowl over the pot of boiling water while stirring to further cook the hollandaise. Heat while mixing until the sauce is the desired thickness.
+    1. After the hollandaise has reached the desired doneness, empty the hot water from the thermos into the sink and add the hollandaise to the thermos. Seal and set to the side.
+- Avocado mix
+    1. Peel and deseed avocado. Add them to a bowl and mash until creamy and consistent.
+    1. Add lime juice. Stir until combined.
+    1. Add jalapeno, and cilantro. Stir until combined.
+    1. Add salt and pepper to taste.
+- Toast
+    1. On cast iron skillet, cook bacon to desired doneness. Leave grease in pan after finished.
+    1. Use same pan to toast the bread to desired brownness. Set toast, bacon, and tomato slices to the side.
+- Poaching the egg
+    1. Add a splash of white vinegar to the pot of water used for cooking the hollandaise, bring the water to a simmer, and add egg to the water to poach it. Cook time for the egg is roughly 5 minutes.
+    1. After the egg is done pull it out of the water and set it to the side in a bowl or on a towel.
+- Assembly
+    1. Spread the avocado mixture over the toast. Add bacon, tomatoes, and poached egg. Top the eggs with the hollandaise sauce and garnish with cayenne pepper to taste.
