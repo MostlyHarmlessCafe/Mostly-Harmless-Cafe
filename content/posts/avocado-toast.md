@@ -4,7 +4,7 @@ date: 2024-06-16T15:05:13-04:00
 draft: false
 
 image: /images/food-images/avocado-toast_deadbody13.webp
-caption: Avocado toast topped with eggs and hollandaise sauce; image by deadbody13
+caption: Avocado toast topped with eggs and hollandaise sauce
 alt : Avocado toast topped with eggs and hollandaise sauce
 
 description: Avocado toast with all the brunch items on it. Inb4 taking out a loan to make rent
