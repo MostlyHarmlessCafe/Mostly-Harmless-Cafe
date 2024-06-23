@@ -7,7 +7,7 @@ image: /images/food-images/avocado-toast_deadbody13.webp
 caption: Avocado toast topped with eggs and hollandaise sauce; image by deadbody13
 alt : Avocado toast topped with eggs and hollandaise sauce
 
-description: Avocado toast with all the brunch items on it. Inb4 taking out a loan to make rent #ClassicMillenial.
+description: Avocado toast with all the brunch items on it. Inb4 taking out a loan to make rent
 
 tags:
 - food
@@ -15,11 +15,11 @@ tags:
 - brunch
 ---
 
-This recipe is for a single serving of avocado toast. If you want to make a small meal out of it you could probably make do with making two servings. The hollandaise in this recipe is enough for about three servings on its own so no need to scale it with portions unless you're making more than that.
+This recipe is for a single serving. If you want to make a small meal out of it you could probably make do with making two servings. The hollandaise in this recipe is enough for about three servings on its own in case you're either making additional servings or just really like drowning your brunch in sauce.
 
 - Toast:
     - 1 slice of whole grain bread
-    - 2 eggs (poached)
+    - 1 egg (poached)
     - 2 slices of tomato (&frac18; inch thick, generously salted and peppered)
     - 1 slice of bacon (halved)
 - Avocado:
@@ -39,14 +39,14 @@ This recipe is for a single serving of avocado toast. If you want to make a smal
 
 ## Instructions:
 - Prep
-    1. To a medium thermos, fill with hot water and set to the side.
+    1. To a thermos, fill with hot water and set to the side.
     1. To a large pot add water and bring to a boil.
 - Hollandaise
     1. To a medium metal bowl, add egg yolks. Beat until consistent and fluffy.
     1. Add lemon juice and dijon mustard to bowl. Mix until combined.
     1. Melt butter in a skillet. Once butter is melted, gently drizzle it into the egg yolk mixture while stirring. The end result should be a creamy, homogenous emulsion.
     1. Hover bowl over the pot of boiling water while stirring to further cook the hollandaise. Heat while mixing until the sauce is the desired thickness.
-    1. After the hollandaise has reached the desired doneness, empty the hot water from the thermos into the sink and add the hollandaise to the thermos. Seal and set to the side.
+    1. After the hollandaise has reached the desired doneness, empty the hot water from the thermos into the sink and add the hollandaise to the thermos. Seal and set to the side.{{< super "1" >}}
 - Avocado mix
     1. Peel and deseed avocado. Add them to a bowl and mash until creamy and consistent.
     1. Add lime juice. Stir until combined.
@@ -60,3 +60,6 @@ This recipe is for a single serving of avocado toast. If you want to make a smal
     1. After the egg is done pull it out of the water and set it to the side in a bowl or on a towel.
 - Assembly
     1. Spread the avocado mixture over the toast. Add bacon, tomatoes, and poached egg. Top the eggs with the hollandaise sauce and garnish with cayenne pepper to taste.
+
+## Footnotes
+{{< footnote "1" "After being added to the thermos the hollandaise will keep for about an hour, more or less. Furthermore, if you find that you made the hollandaise a little too thick you can add a drop or two (and only that) of water to it and swirl it around and it will loosen the sauce up." >}}
