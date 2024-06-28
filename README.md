@@ -101,5 +101,3 @@ Have something you think would make the website better (styling, layouts, etc.)?
 ## Credits for Website
 
 [Spicy Forth](https://github.com/SpicyForthProgrammer) - graphics design, web hosting
-
-[Fonts](https://indestructibletype.com/Home.html) are from Owen Earl from IndestructibleType*.
