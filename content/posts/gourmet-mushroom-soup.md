@@ -23,7 +23,7 @@ tags:
     - subst: white mushrooms
 - 2 cups chicken stock
     - subst: vegetable stock
-- &frac12; cup dry white wine{{super "2">}}
+- &frac12; cup dry white wine{{<super "2">}}
 - 2 tsp paprika
 - 1 tsp worcestershire sauce
 - 1 tsp salt
