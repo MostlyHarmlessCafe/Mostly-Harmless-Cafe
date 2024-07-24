@@ -4,7 +4,7 @@ date: 2023-07-02T09:33:07-04:00
 draft: false
 
 image: /images/food-images/lasagna_deadbody13.webp
-caption: Lasagna; image by deadbody13
+caption: Lasagna
 alt: Tray of lasagna
 
 tags:

@@ -4,7 +4,7 @@ date: 2024-06-16T16:13:08-04:00
 draft: false
 
 image: /images/food-images/avocado-toast_deadbody13.webp
-caption: Avocado toast topped with eggs and hollandaise sauce; image by deadbody13
+caption: Avocado toast topped with eggs and hollandaise sauce
 alt : Avocado toast topped with eggs and hollandaise sauce
 
 description: A basic hollandaise sauce, creamy and slightly acidic. Good for eggs benedict and pretty much anything else served at brunch.

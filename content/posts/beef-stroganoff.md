@@ -4,7 +4,7 @@ date: 2023-06-17T16:39:03-04:00
 draft: false
 
 image: /images/food-images/beef-stroganoff_deadbody13.webp
-caption: Beef Stroganoff garnished with parsley; image by deadbody13
+caption: Beef Stroganoff garnished with parsley
 alt : Beef Stroganoff garnished with parsley
 
 description: Basic down to earth beef-centric dish.
