@@ -7,8 +7,6 @@ image: /images/logo.png
 
 description: Totally not a hangover cure.
 
-credits:
-- Deadbody
 tags:
 - drinks
 - alcoholic

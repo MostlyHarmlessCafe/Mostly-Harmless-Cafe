@@ -9,8 +9,6 @@ alt : Beef Stroganoff garnished with parsley
 
 description: Basic down to earth beef-centric dish.
 
-credits:
-- Deadbody13
 tags:
 - food
 - pasta

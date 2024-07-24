@@ -13,8 +13,6 @@ tags:
 - food
 - italian
 - pasta
-credits:
-- deadbody13
 ---
 
 Puttanesca is a briny tomato-based sauce used for pasta among other things. The approach is very from the hip and can include whatever else might taste good. It can be used with pasta, served on chicken, topped on a croquette, etc. This recipe includes the whole pound of pasta but I've found it makes more sense to make the sauce, store it in a deli container, and then use it per serving with fresh cooked pasta.

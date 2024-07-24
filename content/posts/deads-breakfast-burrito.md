@@ -5,8 +5,6 @@ draft: false
 
 image: /images/logo.png
 
-credits:
-- Deadbody13
 tags:
 - food
 - breakfast

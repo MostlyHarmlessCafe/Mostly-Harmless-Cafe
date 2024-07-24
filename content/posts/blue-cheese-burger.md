@@ -7,8 +7,6 @@ image: /images/food-images/blue-cheese-burger_deadbody13.webp
 caption: Blue Cheese Burger; image by deadbody13
 alt: Blue Cheese Burger
 
-credits:
-- Deadbody13
 tags:
 - food
 - burgers
