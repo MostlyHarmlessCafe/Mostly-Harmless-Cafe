@@ -4,11 +4,9 @@ date: 2023-06-27T10:25:22-04:00
 draft: false
 
 image: /images/food-images/blue-cheese-burger_deadbody13.webp
-caption: Blue Cheese Burger; image by deadbody13
+caption: Blue Cheese Burger
 alt: Blue Cheese Burger
 
-credits:
-- Deadbody13
 tags:
 - food
 - burgers

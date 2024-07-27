@@ -4,13 +4,11 @@ date: 2023-08-01T14:32:25-04:00
 draft: false
 
 image: /images/food-images/pad-kee-mao_deadbody13.webp
-caption: drunken noodles; image by deadbody13
+caption: drunken noodles
 alt: bowl of Drunken Noodles
 
 description: The joke is that they're so spicy that they'll sober you up; alternatively, you can say they're so spicy they'll cure your hangover. This is a spicy, salty, and mildly sweet dish with licorice notes from anise seed and Thai basil.
 
-credits:
-- Deadbody13
 tags:
 - food
 - asian

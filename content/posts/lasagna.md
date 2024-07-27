@@ -4,11 +4,9 @@ date: 2023-07-02T09:33:07-04:00
 draft: false
 
 image: /images/food-images/lasagna_deadbody13.webp
-caption: Lasagna; image by deadbody13
+caption: Lasagna
 alt: Tray of lasagna
 
-credits:
-- Deadbody13
 tags:
 - food
 - pasta
@@ -36,14 +34,14 @@ tags:
 - olive oil (for cooking sauce)
 
 ## Instructions
-1. Preheat oven to 375F
+1. Preheat oven to 375&deg;F
 1. Cook noodles per box instructions (don't forget to salt water). Cool with cold water and set aside when done.
 1. In a large pot on medium-high heat, add a little vegetable oil and place ground beef and sausage. Mash the meat in and let rest for 1m30s. Flip and do the same with the other side.
 1. Add mushrooms, fennel seed, ginger, garlic, and onions to the ground beef. Cook until mushrooms are cooked and onions are translucent.
 1. Add tomato paste, stir until combined.
 1. Add in the crushed tomatoes. Let simmer for about 10 minutes.
 1. In a medium bowl combine the pecorino romano, ricotta, mozzarella, and egg with a generous amount of salt and pepper.
-1. In a 9&frac12;x11 baking pan, lay a fourth of your meat sauce mix followed by layer made by laying 3 cooked noodles.
+1. In a 9&frac12;x11-inch baking pan, lay a fourth of your meat sauce mix followed by layer made by laying 3 cooked noodles.
 1. Next, add a fourth of the meat sauce, followed by a third of the cheese mix, followed by another 3 noodles.
 1. Repeat previous step.
 1. Put the remainder of your meat sauce followed by the remainder of your cheese sauce.

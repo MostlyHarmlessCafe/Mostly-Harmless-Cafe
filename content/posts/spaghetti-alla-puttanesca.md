@@ -4,7 +4,7 @@ date: 2024-01-15T13:11:16-05:00
 draft: false
 
 image: /images/food-images/spaghetti-alla-puttanesca_deadbody13.webp
-caption: Bowl of spaghetti alla puttanesca garnished with pecorino romano; image by deadbody13
+caption: Bowl of spaghetti alla puttanesca garnished with pecorino romano
 alt: Bowl of spaghetti alla puttanesca garnished with pecorino romano
 
 description: Pasta made with olives, capers, anchovies, and other briny ingredients.
@@ -13,8 +13,6 @@ tags:
 - food
 - italian
 - pasta
-credits:
-- deadbody13
 ---
 
 Puttanesca is a briny tomato-based sauce used for pasta among other things. The approach is very from the hip and can include whatever else might taste good. It can be used with pasta, served on chicken, topped on a croquette, etc. This recipe includes the whole pound of pasta but I've found it makes more sense to make the sauce, store it in a deli container, and then use it per serving with fresh cooked pasta.

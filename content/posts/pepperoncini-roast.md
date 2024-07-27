@@ -4,7 +4,7 @@ date: 2023-06-17T16:39:03-04:00
 draft: false
 
 image: /images/food-images/peperoncini-roast_deadbody13.webp
-caption: Peperoncini Roast served on rice; image by deadbody13
+caption: Peperoncini Roast served on rice
 alt: Bowl with Peperoncini Roast served on rice
 
 tags:
