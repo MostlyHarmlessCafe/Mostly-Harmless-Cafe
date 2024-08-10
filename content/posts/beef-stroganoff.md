@@ -4,8 +4,8 @@ date: 2023-06-17T16:39:03-04:00
 draft: false
 
 image: /images/food-images/beef-stroganoff_deadbody13.webp
-caption: Beef Stroganoff garnished with parsley
-alt : Beef Stroganoff garnished with parsley
+caption: Beef Stroganoff garnished with parsley and sour cream, served with brussels sprouts
+alt : Beef Stroganoff garnished with parsley and sour cream, served with brussels sprouts
 
 description: Basic down to earth beef-centric dish.
 
@@ -39,11 +39,11 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
 3. After all meat is seared take out meat and set aside.
 4. Reduce heat to medium and add the other half of the butter.
 5. After butter is melted add mushrooms and onions. Cook until mushrooms are done and onions are translucent.
-6. Add garlic, stir for around 2 more minutes.
-7. Add white wine and while it's deglazing scrape the remnants off the bottom of the pot. Cook for 3 minutes.
-8. In a separate bowl, mix together the beef stock, flour, and Worcestershire sauce. Add to dutch oven and let simmer for about 25 minutes, stirring occassionally.
+6. Add garlic, stir for around 1 more minute.
+7. Add white wine and while it's deglazing scrape the remnants off the bottom of the pot. Cook for 3 minutes or until you can't smell the booze anymore.
+8. In a separate bowl, mix together the beef stock, flour, and Worcestershire sauce. Add to dutch oven along with the beef and let simmer for about 25 minutes, stirring occassionally.
 9. Stir in sour cream.
-10. Season generously with salt and pepper.
+10. Season to taste with salt and pepper.
 11. Let the sauce keep simmering while you cook the pasta in appropriately salted water per package instructions.
 12. When pasta is done, gently mix into the sauce. If you mix too hard the noodles will break so try and fold it in.
 13. Serve.
