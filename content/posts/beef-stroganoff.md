@@ -15,10 +15,9 @@ tags:
 - beef
 ---
 
-This recipe calls for noodles but the sauce can be put on pretty much everything from bread to potatoes. It's best served topped with sour cream and garnished with parsley.
+This recipe calls for noodles but the sauce can be put on pretty much everything from bread to potatoes. It's best served topped with sour cream and garnished with parsley. This recipe is enough for roughly a pound of dry egg noodles but it's recommended that you make it to keep and make the noodles per serving. Sauce keeps really well, cooked noodles not so much.
 
 ## Ingredients:
-- 1 lb wide egg noodles (dry)
 - &frac14; cup butter (divide into 2)
 - 1&frac12; lbs thin sliced chuck (~&frac14;inch)
 - salt & pepper
@@ -44,7 +43,3 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
 8. In a separate bowl, mix together the beef stock, flour, and Worcestershire sauce. Add to dutch oven along with the beef and let simmer for about 25 minutes, stirring occassionally.
 9. Stir in sour cream.
 10. Season to taste with salt and pepper.
-11. Let the sauce keep simmering while you cook the pasta in appropriately salted water per package instructions.
-12. When pasta is done, gently mix into the sauce. If you mix too hard the noodles will break so try and fold it in.
-13. Serve.
-    - Garnish with a generous amount of black pepper, additional sour cream, and parsley.
