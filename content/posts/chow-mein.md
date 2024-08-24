@@ -4,8 +4,10 @@ date: 2023-06-17T16:39:03-04:00
 draft: false
 
 image: /images/food-images/chow-mein_deadbody13.webp
-caption: Chow Mein garnished with green onions
-alt: bowl of chow mein garnished with green onions
+caption: Bowl of chow mein.
+alt: Bowl of chow mein with chopsticks.
+
+description: Egg noodles with cooked with a protein and an assortment of veggies and tossed in savory sauce.
 
 tags:
 - food
