@@ -59,7 +59,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -D
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./docs
 
