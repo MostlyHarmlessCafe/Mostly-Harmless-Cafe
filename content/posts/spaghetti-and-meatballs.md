@@ -14,11 +14,11 @@ tags:
 - pasta
 ---
 
-This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit. It's still probably at least 60% his recipe but I like to make this one because ginger is easier to find than basil and I love squeezing anchovies into any recipe I can find.
+This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit to include things like an Italian soffritto, anchovies, liverwurst, and ginger. This recipe still has the foundation that his recipe provided but it's changed in a few ways that give it a more developed and traditional flavor that I personally like a bit more. I also think it's criminal to have a tomato-based sauce that doesn't include anchovies.
 
-## Ingredients
+# Ingredients
 - Meatballs:
-    - &frac14; lb liverwurst (diced){{< super "1" >}}
+    - &frac14; lb liverwurst (diced) ***- [1]***
     - 1 lb ground beef (20% fat or more)
     - 1 tsp ground fennel seeds
     - 1 &frac34; tsp sea salt
@@ -31,29 +31,33 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     - 2 cans (28 oz.) crushed tomatoes
     - 1 stalk of celery (diced)
     - 1 large carrot (diced)
-    - &frac14; large onion (diced)
+    - &frac14; large yellow onion (diced)
     - 4 cloves garlic (minced)
     - 1-inch knob of ginger (diced)
-    - 2 oz. can of anchovies {{< super "2" >}}
+    - 2 oz. can of anchovies ***- [2]***
     - &frac14; cup extra virgin olive oil
     - 1 tsp red pepper flakes
     - salt (to taste)
 
-## Instructions
+# Instructions
 - Meatballs
-    1. In a large bowl, add fennel seed, salt, garlic, pecorino, and liverwurst. Toss until liverwurst is coated in the panko and cheese. Add the egg and mix until the egg has been absorbed by the components. Finally, add the ground beef and mix until homogenous.
+    1. To a large bowl, add the liverwurst, salt, garlic, pecorino, and panko.
+    1. Bloom the pepper and fennel seeds by heating them in a skillet and then grind them using either a spice grinder or a mortar and pestle. Add this to the bowl. Stir to combine.
+    1. Add the egg and mix it in until it has been absorbed by the mix.
+    1. Add the beef in and mix it in until homogenous. The end result should be something of a meatloaf. ***- [3]***
     1. Separate the beef mixture into 20 equal-sized pieces and roll into balls.
-    1. In a pot on med-high heat, sear the meatballs{{< super "3" >}}. Place to side after searing.
+    1. In a pot on med-high heat, sear the meatballs. Place to side after searing. ***- [4]***
 - Sauce
     1. Reduce heat to medium and add the olive oil to the pot.
     1. Add the celery, carrot, and onion. Stir and saute until vegetables are soft, then add in the garlic, ginger, and anchovies. Saute until anchovies have dissolved and then add the crushed tomatoes.
-    1. Add the tomatoes and bring to a simmer. Once brought to a simmer, add the meatballs and red pepper flakes to the sauce. Continue to simmer for 30 minutes {{< super "4" >}}.
-    1. Add noodles and a bit of pasta water and toss over med-high heat until thoroughly combined {{< super "5" >}}.
+    1. Add the tomatoes and bring to a simmer. Once brought to a simmer, add the meatballs and red pepper flakes to the sauce. Continue to simmer for 30 minutes. ***- [5]***
+    1. Add noodles and a bit of pasta water and toss over med-high heat until thoroughly combined. ***- [6]***
     1. Garnish with pecorino and serve.
 
 ## Footnotes
-{{< footnote "1" "You can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna" >}}
-{{< footnote "2" "Use anchovies that come in oil, not vinegar." >}}
-{{< footnote "3" "Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later." >}}
-{{< footnote "4" "Cooking for longer is going to reduce the sauce more, making it more robust and rich. You can cook it for 10-15 minutes to get the meatballs cooked but it won't taste as good and might even be a bit acidic." >}}
-{{< footnote "5" "This is enough sauce for around 1 lb of dry noodles; however, I personally don't like mixing in all the noodles at once. I like Making the noodles per serving because if you have leftovers, the noodles don't keep as well (they bloat) while the sauce only gets better." >}}
+1. *You can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna*
+2. *Use anchovies that come in oil, not vinegar*
+3. *Take care not to overwork the meat, else the meatballs will end up dense.*
+4. *Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later.*
+5. *Cooking for longer is going to reduce the sauce more, making it more robust and rich. You can cook it for 10-15 minutes to get the meatballs cooked but it won't taste as good and might even be a bit acidic.*
+6. *This is enough sauce for around 1 lb of dry noodles; however, I personally don't like mixing in all the noodles at once. I like Making the noodles per serving because if you have leftovers, the noodles don't keep as well (they bloat) while the sauce only gets better.*
