@@ -24,13 +24,12 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - 1 tsp of fennel seeds
     - 2 cloves of garlic (minced)
 - beef
-    - 1&frac12; lbs thin sliced chuck (~&frac14;inch) {{<super "1">}}
+    - 1&frac12; lbs thin sliced chuck (~&frac14;inch) ***- [1]***
     - &frac14; cup butter (div. 2)
     - 1 medium yellow onion (sliced)
     - 1 lb bella mushrooms (sliced)
     - 4 cloves garlic (minced)
-    - &frac12; cup white wine
-      - subst: &frac12; cup vegetable stock and 1 tbsp white vinegar
+    - &frac12; cup vegetable stock and 1 tbsp white vinegar (mixed together)
     - 2 cups beef stock
     - 1 tbsp worcestershire sauce
     - 3&frac12; tbsp all-purpose flour
@@ -38,7 +37,7 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
       - opt: set aside additional for topping
 
 # Instructions:
-1. Bloom peppercorns and fennel seeds by heating in a pan and combine with salt and garlic in a spice grinder or mortar and pestle. Grind together and mix into the beef. Let sit for 30 minutes to an hour.
+1. Bloom peppercorns and fennel seeds by heating in a pan and grind with salt in a mortar and pestle or grinder. Add garlic and grind to combine. Mix into the beef. Let sit for 30 minutes to an hour.
 1. Melt one of the divisions of butter in a dutch oven on medium heat and sear the beef therein (you may have to do this in batches as to not overcroud the pot). After all meat is seared take out meat and set aside.
 1. Reduce heat to medium-low and add the other division butter. After butter is melted add the sliced onions. Cook while occassionally mixing until all the onions are well caramelized and then add the mushrooms. Cook while occassionally stirring for another 2-3 minutes or until mushrooms soften.
 1. Add the garlic and stir for around 1 more minute.
@@ -50,4 +49,4 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
 1. Season to taste with salt and pepper and serve with pasta, mashed potatoes, rice, or whatever else you'd like.
 
 ## Footnotes
-{{<footnote "1" "The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it.">}}
+1. The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it. Careful not to boil because that will have the opposite effect.
