@@ -23,7 +23,7 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - &frac12; Tbsp of black peppercorns
     - 1 tsp of fennel seeds
     - 2 cloves of garlic (minced)
-- beef
+- beef stroganoff
     - 1&frac12; lbs thin sliced chuck (~&frac14;inch) ***- [1]***
     - &frac14; cup butter (div. 2)
     - 1 medium yellow onion (sliced)
@@ -34,7 +34,8 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - 1 tbsp worcestershire sauce
     - 3&frac12; tbsp all-purpose flour
     - &frac12; cup sour cream
-      - opt: set aside additional for topping
+      - *opt:* set aside additional for topping
+    - *opt:* 1 Tbsp mustard (optional) ***- [2]***
 
 # Instructions:
 1. Toast peppercorns and fennel seeds by heating in a pan and grind with salt in a mortar and pestle or grinder. Add garlic and grind to combine. Mix into the beef. Let sit for 30 minutes to an hour.
@@ -45,8 +46,9 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - If you opted to use the vegetable stock instead of wine just cook for another 3 minutes.
 1. In a separate bowl, mix together the beef stock, flour, and Worcestershire sauce. Add this mixture to the dutch oven, stir to combine, and bring to a simmer.
 1. Add beef, stir to combine, and let simmer for 20-30 minutes.
-1. Add in the sour cream and stir to combine.
+1. Add in the sour cream and optional mustard and stir to combine.
 1. Season to taste with salt and pepper and serve with pasta, mashed potatoes, rice, or whatever else you'd like.
 
 ## Footnotes
 1. The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it. Careful not to boil because that will have the opposite effect.
+1. The mustard adds a bit of brightness and acidity which complements the dish's richness. Any type of mustard works but I like using classic yellow mustard; furthermore, what I usually do is omit the mustard altogether and add it per serving since how much mustard I want usually varies.
