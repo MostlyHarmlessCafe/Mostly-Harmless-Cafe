@@ -37,7 +37,7 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
       - opt: set aside additional for topping
 
 # Instructions:
-1. Bloom peppercorns and fennel seeds by heating in a pan and grind with salt in a mortar and pestle or grinder. Add garlic and grind to combine. Mix into the beef. Let sit for 30 minutes to an hour.
+1. Toast peppercorns and fennel seeds by heating in a pan and grind with salt in a mortar and pestle or grinder. Add garlic and grind to combine. Mix into the beef. Let sit for 30 minutes to an hour.
 1. Melt one of the divisions of butter in a dutch oven on medium heat and sear the beef therein (you may have to do this in batches as to not overcroud the pot). After all meat is seared take out meat and set aside.
 1. Reduce heat to medium-low and add the other division butter. After butter is melted add the sliced onions. Cook while occassionally mixing until all the onions are well caramelized and then add the mushrooms. Cook while occassionally stirring for another 2-3 minutes or until mushrooms soften.
 1. Add the garlic and stir for around 1 more minute.
