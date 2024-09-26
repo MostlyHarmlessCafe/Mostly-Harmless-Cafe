@@ -7,7 +7,7 @@
 		{{ $group := index .Params.tags 0 }}
 		<div class="page-title">
 			<h1 class="recipe-title">{{ .Page.Title }}</h1>
-			<h3><strong>~| <a href="{{ .Site.BaseURL }}">home</a></strong><br>
+            <h3><strong><a href="{{ .Site.BaseURL }}">~| go back home</a></strong><br><br>
 				<strong>tags:</strong>
 			{{ range $i := .Params.tags }}
 				{{ $url := ( printf "%s.md" $i ) }}
