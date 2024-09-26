@@ -24,6 +24,7 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     - 1 &frac34; tsp sea salt
     - 3 cloves of garlic (minced)
     - &frac14; cup Pecorino Romano (finely shredded)
+        - opt.: reserve extra for garnish
     - fresh cracked blackpepper (to taste)
     - &frac12; cup of panko
     - 1 whole egg
@@ -31,9 +32,9 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     - 2 cans (28 oz.) crushed tomatoes
     - 1 stalk of celery (diced)
     - 1 large carrot (diced)
-    - &frac14; large yellow onion (diced)
+    - 1 medium yellow onion (diced)
     - 4 cloves garlic (minced)
-    - 1-inch knob of ginger (diced)
+    - 1-inch knob of ginger (minced)
     - 2 oz. can of anchovies ***- [2]***
     - &frac14; cup extra virgin olive oil
     - 1 tsp red pepper flakes
@@ -55,7 +56,7 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     1. Garnish with pecorino and serve.
 
 ## Footnotes
-1. *You can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna*
+1. *Liverwurst is really rich and salty, adding richness and saltiness to the meatballs. If you don't like this or would rather use something more familiar, you can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna*
 2. *Use anchovies that come in oil, not vinegar*
 3. *Take care not to overwork the meat, else the meatballs will end up dense.*
 4. *Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later.*
