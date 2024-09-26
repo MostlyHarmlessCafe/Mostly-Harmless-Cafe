@@ -35,9 +35,13 @@ title: "<Recipe Title>"
 date: 2023-06-17T16:39:03-04:00
 draft: false
 
+// if you have an image
 image: /images/food-images/beef-stroganoff_deadbody13.webp
 caption: Beef Stroganoff garnished with parsley; image by deadbody13
 alt : Beef Stroganoff garnished with parsley
+
+// if you don't have an image
+image: /images/logo.png
 
 description: Basic down to earth beef-centric dish. Best served garnished with sour cream and parsley on either egg-noodle pasta or potatoes.
 
