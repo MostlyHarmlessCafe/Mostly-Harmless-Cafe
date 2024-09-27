@@ -56,7 +56,7 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     1. Garnish with pecorino and serve.
 
 ## Footnotes
-1. *Liverwurst is really rich and salty, adding richness and saltiness to the meatballs. If you don't like this or would rather use something more familiar, you can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna*
+1. *Liverwurst is really rich and salty. If you don't like this or would rather use something more familiar, you can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna*
 2. *Use anchovies that come in oil, not vinegar*
 3. *Take care not to overwork the meat, else the meatballs will end up dense.*
 4. *Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later.*
