@@ -52,9 +52,8 @@ tags:
 1. **Wait for noodles to finish soaking and beef to finish marinating before proceeding.**
 1. Set wok on med-high heat add oil and sear the beef. Don't cook all the way, just long enough to sear. This takes around 1 minute per side. Remove beef and set aside.
     - Additional oil may be needed between batches.
-1. Reduce heat to medium and add oil followed by garlic, chilis, and ginger. Cook until garlic slightly browns and then add shaoxing wine. Simmer for 10 seconds.
 1. Reduce heat to medium and add shallots and ginger. Cook until slightly soft and then add Shaoxing wine. After adding the wine, scrape the bottom of the pan to loosen any fonde.
-1. Add the garlic, chilis and beef. Cook and stir for around 1 minutes. Add scallions.
+1. Add the garlic, chilis, scallions and beef. Stir in.
 1. Add noodles. Continuously mix until noodles wilt enough that they're pleasant to bite into. Then add the sauce and mix it in. ***- [1]***
 1. Add basil. Cook while mixing until basil is slightly wilted.
 1. Add chili oil and mix for 30 more seconds.
