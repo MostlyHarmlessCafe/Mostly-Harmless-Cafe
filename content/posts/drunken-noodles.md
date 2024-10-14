@@ -9,8 +9,6 @@ alt: bowl of Drunken Noodles
 
 description: The joke is that they're so spicy that they'll sober you up; alternatively, you can say they're so spicy they'll cure your hangover. This is a spicy, salty, and mildly sweet dish with licorice notes from anise seed and Thai basil.
 
-credits:
-- Deadbody13
 tags:
 - food
 - asian
@@ -38,12 +36,12 @@ tags:
     - &frac14; cup soy sauce
     - 1 tsp ground anise seed
 - Sauce
-    - 1&frac14; tbsp brown sugar
-    - 1&frac12; tbsp soy sauce
-    - 1 tbsp dark soy sauce
-    - 2&frac12; tbsp fish sauce
-    - 1&frac12; tbsp oyster sauce
-    - &frac12; tsp ground white pepper
+    - 2 tbsp brown sugar
+    - 2; tbsp soy sauce
+    - 2 tbsp dark soy sauce
+    - 3 tbsp fish sauce
+    - 2 tbsp oyster sauce
+    - 1 tsp ground white pepper
 
 ## Instructions:
 1. Mix beef with salt, anise, and soy sauce. Let marinate until needed.
@@ -55,13 +53,14 @@ tags:
 1. Set wok on med-high heat add oil and sear the beef. Don't cook all the way, just long enough to sear. This takes around 1 minute per side. Remove beef and set aside.
     - Additional oil may be needed between batches.
 1. Reduce heat to medium and add oil followed by garlic, chilis, and ginger. Cook until garlic slightly browns and then add shaoxing wine. Simmer for 10 seconds.
-1. Add shallots and scallions. Cook until shallots are slightly wilting.
-1. Increase temperature to med-high and add noodles. Continuously mix{{<super "1">}} until noodles wilt enough that they're pleasant to bite into. Then add the sauce and mix it in.
-1. Add beef and basil. Cook while mixing until basil is slightly wilted.
+1. Reduce heat to medium and add shallots and ginger. Cook until slightly soft and then add Shaoxing wine. After adding the wine, scrape the bottom of the pan to loosen any fonde.
+1. Add the garlic, chilis and beef. Cook and stir for around 1 minutes. Add scallions.
+1. Add noodles. Continuously mix until noodles wilt enough that they're pleasant to bite into. Then add the sauce and mix it in. ***- [1]***
+1. Add basil. Cook while mixing until basil is slightly wilted.
 1. Add chili oil and mix for 30 more seconds.
-1. Serve{{<super "2,3">}}.
+1. Serve. ***- [2,3]***
 
 ## Footnotes:
-{{<footnote "1" "Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.">}}
-{{<footnote "2" "If you get to the end and find it's still not spicy enough, add more chili oil.">}}
-{{<footnote "3" "When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.">}}
+1. Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.
+1. If you get to the end and find it's still not spicy enough, add more chili oil.
+1. When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.
