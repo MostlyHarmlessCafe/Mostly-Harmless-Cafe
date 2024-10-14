@@ -37,7 +37,7 @@ tags:
     - 1 tsp ground anise seed
 - Sauce
     - 2 tbsp brown sugar
-    - 2; tbsp soy sauce
+    - 2 tbsp soy sauce
     - 2 tbsp dark soy sauce
     - 3 tbsp fish sauce
     - 2 tbsp oyster sauce
