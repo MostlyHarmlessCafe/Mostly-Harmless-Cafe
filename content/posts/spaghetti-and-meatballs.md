@@ -14,11 +14,12 @@ tags:
 - pasta
 ---
 
-This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit to include things like an Italian soffritto, anchovies, liverwurst, and ginger. This recipe still has the foundation that his recipe provided but it's changed in a few ways that give it a more developed and traditional flavor that I personally like a bit more. I also think it's criminal to have a tomato-based sauce that doesn't include anchovies.
+This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit to include things like an Italian soffritto, anchovies, and liverwurst. This recipe still has the foundation that his recipe provided but it's changed in a few ways that give it a more developed and traditional flavor that I personally like a bit more. I also think it's criminal to have a tomato-based sauce that doesn't include anchovies.
 
 # Ingredients
 - Meatballs:
     - &frac14; lb liverwurst (diced) ***- [1]***
+    - &frac14; lb italian sausage
     - 1 lb ground beef (20% fat or more)
     - 1 tsp ground fennel seeds
     - 1 &frac34; tsp sea salt
@@ -29,26 +30,26 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     - &frac12; cup of panko
     - 1 whole egg
 - Sauce:
-    - 2 cans (28 oz.) crushed tomatoes
-    - 1 stalk of celery (diced)
-    - 1 large carrot (diced)
-    - 1 medium yellow onion (diced)
-    - 4 cloves garlic (minced)
-    - 1-inch knob of ginger (minced)
+    - 2 tbsp of clarified butter
+    - 2 stalk of celery (finely diced)
+    - 2 large carrot (finely diced)
+    - 1 medium yellow onion (finely diced)
     - 2 oz. can of anchovies ***- [2]***
-    - &frac14; cup extra virgin olive oil
+    - 4 cloves garlic (minced)
+    - 2 cans (28 oz.) crushed tomatoes
+    - &frac34; lb of italian sausage
     - 1 tsp red pepper flakes
     - salt (to taste)
 
 # Instructions
 - Meatballs
-    1. To a large bowl, add the liverwurst, salt, garlic, pecorino, and panko.
-    1. Bloom the pepper and fennel seeds by heating them in a skillet and then grind them using either a spice grinder or a mortar and pestle. Add this to the bowl. Stir to combine.
-    1. Add the egg and mix it in until it has been absorbed by the mix.
-    1. Add the beef in and mix it in until homogenous. The end result should be something of a meatloaf. ***- [3]***
+    1. To a large bowl, add the liverwurst, salt, fennel seed, pepper, garlic, pecorino, and panko. Stir to combine.
+    1. Add the egg and stir it in until it has been absorbed by the mix.
+    1. Add in beef and sausage and mix it in until homogenous. The end result should be something of a meatloaf. ***- [3]***
     1. Separate the beef mixture into 20 equal-sized pieces and roll into balls.
     1. In a pot on med-high heat, sear the meatballs. Place to side after searing. ***- [4]***
 - Sauce
+    1. Slice the italian sausage into bite-size pieces and sear them in the pot that you just pulled the meatballs from. Set them aside after they're done searing.
     1. Reduce heat to medium and add the olive oil to the pot.
     1. Add the celery, carrot, and onion. Stir and saute until vegetables are soft, then add in the garlic, ginger, and anchovies. Saute until anchovies have dissolved and then add the crushed tomatoes.
     1. Add the tomatoes and bring to a simmer. Once brought to a simmer, add the meatballs and red pepper flakes to the sauce. Continue to simmer for 30 minutes. ***- [5]***
