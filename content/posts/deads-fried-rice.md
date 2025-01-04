@@ -17,7 +17,7 @@ tags:
 - rice
 ---
 
-## Ingredients
+# Ingredients
 - Chicken:
     - 1 chicken thigh
     - 1 tbsp shaoxing wine
@@ -32,15 +32,15 @@ tags:
     - chicken stock
         - subst: water
     - &frac12; onion (diced)
-    - 2 inch knob of ginger (minced)
     - 2 eggs (scrambled)
-    - 1 tbsp soy sauce
+    - 1 inch knob of ginger (minced)
     - 1 clove of garlic (grated)
+    - 1 tbsp soy sauce
     - 1 tbsp sambal oelek
-    - 2 birdseye chilies
+    - 2 birdseye chilies (thinly sliced)
     - 1 green onion (thinly sliced)
 
-## Instructions
+# Instructions
 - Chicken:
     1. Carve chicken thigh (if necessary), removing bone and skin, and cut into bite size pieces.
     1. Mix all other ingredients into a bowl and add chicken. Mix until chicken is covered.
@@ -55,17 +55,20 @@ tags:
     1. Flip chicken, cook until other side is brown.
     1. Optional: toss the chicken to get a bit of browning around the rest of the chicken.
     1. Cook rice using chicken stock.
-    1. Use the rice for something and come back to it the next day.
-        - alternatively, you can set it on a plate and set it in the fridge for around 1&frac12; hours
+    1. Use the rice for something and come back to it the next day. ***- [1]***
     1. Add soy sauce and garlic to a bowl, mix together.
     1. Add vegetable oil with ginger to seasoned wok on medium heat, cook until ginger slightly browns.
     1. Add onion, cook until onion is slightly transleucent. 
-    1. Increase heat to high, and add rice.
-    1. Flatten rice with spatula, toss. Repeat several times until rice is hot.
-    1. Add chicken. Toss.
+    1. Increase heat to medium-high, and add rice.
+    1. Flatten rice with spatula, toss. Repeat several times until rice is hot and the rice is mostly broken up. ***- [2]***
+    1. Add chicken. Toss until combined.
     1. Add soy sauce and garlic mix to rice by streaming it down the side of the wok.
     1. Toss until rice is completely coated with soy sauce mix.
     1. Add sambal oelek. Toss until combined.
     1. Add eggs. Toss until combined.
     1. Add chilies and green onion. Toss until combined.
     1. Serve.
+
+# Footnotes
+1. Alternatively, you can set it on a plate and set it in the fridge for around 45 minutes.
+1. If added the rice fresh or hot, don't do this as you'll squash the rice. Also, avoid chopping the rice, just rely on pressing it down with the spatula.
