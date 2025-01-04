@@ -3,7 +3,7 @@ title: "Dead's Fried Rice"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/food-images/deads-fried-rice.webp
+image: /images/food-images/deads-fried-rice_deadbody13.webp
 caption: Fried rice
 alt: Bowl of fried rice
 
