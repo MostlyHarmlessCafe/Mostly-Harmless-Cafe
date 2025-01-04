@@ -3,7 +3,11 @@ title: "Dead's Fried Rice"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/logo.png
+image: /images/food-images/deads-fried-rice_deadbody13.webp
+caption: Fried rice
+alt: Bowl of fried rice
+
+description: Fried rice with a little heat.
 
 tags:
 - food
@@ -33,6 +37,7 @@ tags:
     - 1 tbsp soy sauce
     - 1 clove of garlic (grated)
     - 1 tbsp sambal oelek
+    - 2 birdseye chilies
     - 1 green onion (thinly sliced)
 
 ## Instructions
@@ -62,5 +67,5 @@ tags:
     1. Toss until rice is completely coated with soy sauce mix.
     1. Add sambal oelek. Toss until combined.
     1. Add eggs. Toss until combined.
-    1. Add green onion. Toss until combined.
+    1. Add chilies and green onion. Toss until combined.
     1. Serve.
