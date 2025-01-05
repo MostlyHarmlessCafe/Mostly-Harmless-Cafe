@@ -10,12 +10,16 @@
 	font-family: "Inter";
 	src: url("/fonts/Inter-VariableFont_slnt,wght.ttf")
 }
+@font-face {
+    font-family: "Comfortaa";
+    src: url("/fonts/Comfortaa-VariableFont_wght.ttf")
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
 
 :root {
 	/* Jost Light needed for when displaying fractions */
-	--font-primary: "Recursive", "Inter", "No Tears", "Jost Light";
+	--font-primary: "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
 	--font-secondary: "Jost Light";
 	--foreground: #5c5852;
 	--foreground-accent: #a6752e;
