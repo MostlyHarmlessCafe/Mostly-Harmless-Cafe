@@ -69,40 +69,20 @@ a:hover {
 }
 .homepage {
 	padding: 5% 0px 80px 0px;
-	ul {
-		padding-left: 10px;
-		list-style: none;
-		font-size: 24px;
-	}
 	img {
 		margin: auto;
 		display: block;
 		width: 300px;
 	}
-	.recipe-group {
-		padding-bottom: 75px;
-	}
-	.group-1 {
-		margin: auto;
-		text-align: center;
-		padding-top: 10px;
-		border-top: 1px solid var(--border-color);
-		border-bottom: 1px solid var(--border-color);
-		a:link, a:visited {
-			font-weight: 400;
-			text-decoration: none;
-		}
-	}
-	.group-2 {
-		margin: auto;
-		text-align: center;
-		padding-top: 10px;
-		a:link, a:visited {
-			font-weight: 300;
-			text-decoration-thickness: 2px;
-			text-underline-offset: 3px;
-		}
-	}
+    h1,h2 {
+        text-align: center;
+    }
+    h1 {
+      padding: 15px 0px;
+    }
+    h2 {
+      padding: 5px 0px;
+    }
 }
 .credits {
 	padding: 30px 10px 15px 10px;
