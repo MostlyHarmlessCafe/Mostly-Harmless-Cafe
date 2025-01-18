@@ -14,7 +14,7 @@ tags:
 - pasta
 ---
 
-## Ingredients
+# Ingredients
 - 3 tbsp (45g) unsalted butter
 - 1 medium (8 oz; 225g) yellow onion (diced)
 - 3 medium cloves garlic (thinly sliced)
@@ -30,7 +30,7 @@ tags:
 - 2 oz (55g) grated Parmigiano-Reggiano
     - reserve additional for garnish
 
-## Instructions
+# Instructions
 1. In a large (3- or 4-quart) saucepan or small Dutch oven, melt butter over medium heat. Add onions, garlic, and red pepper flakes, season lightly with salt, and cook, stirring frequently, until onions are very soft but not browned.
     - Expected to take around 15 minutes.
 1. Add tomato paste and cook, stirring, until tomato paste is fragrant and thick, about 3 minutes. Stir in canned tomatoes with their liquid. Bring to a simmer, then cook, stirring often and crushing the whole tomatoes roughly with a spoon, until sauce has thickened slightly, about 10 minutes.

@@ -13,7 +13,7 @@ tags:
 - sauce
 ---
 
-## Ingredients:
+# Ingredients
 - Sauce:
     - 3 cloves of garlic (minced)
     - &frac14; cup extra virgin olive oil
@@ -30,7 +30,7 @@ tags:
     - &frac14; tsp pepper
     - 1 bundle of parsley (finely chopped)
 
-## Instructions
+# Instructions
 - Chicken & tomatoes:
     1. Put chicken in pan on med-high heat.
     1. Midway through, add tomatoes.
@@ -40,10 +40,14 @@ tags:
     1. Cook until garlic is slightly brown.
     1. Add butter, cook until melted.
     1. Add chicken and tomatoes (and any sauce that they made when you cooked them).
-    1. Add wine, increase to med-high, and let the alcohol cook out{{<super "1">}}
+    1. Add wine, increase to med-high, and let the alcohol cook out.***- [1]***
     1. Reduce heat to medium and cook for 5 more minutes.
     1. Add pasta and toss.
     1. Garnish with Pecorino Romano and serve.
 
-### Optional:
-{{<footnote "1" "If you decide to add anything else to the sauce, do so before adding the wine in. The alcohol helps emulsify whatever liquids are in the pan at the time.">}}
+<div class="footnotes">
+
+# Footnotes
+1. If you decide to add anything else to the sauce, do so before adding the wine in. The alcohol helps emulsify whatever liquids are in the pan at the time.
+
+</div>

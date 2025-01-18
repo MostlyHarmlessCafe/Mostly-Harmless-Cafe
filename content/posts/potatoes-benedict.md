@@ -18,7 +18,7 @@ tags:
 
 Don't make this a daily meal. This is incredibly starchy and savory and works really well for a brunch or the start of a lazy day on the weekend. The potatoes are baked, broiled crisp, and topped with poached eggs and hollandaise sauce with cayenne pepper and chives.
 
-## Ingredients
+# Ingredients
 - Hollandaise:
     - 3 egg yolks
     - 1 tsp of cayenne pepper (plus additional for garnish)
@@ -27,13 +27,13 @@ Don't make this a daily meal. This is incredibly starchy and savory and works re
     - &frac12; cup of butter (melted)
     - chives (garnish)
 - Potatoes:
-    - 2 potatoes (peeled, cubed){{< super "1" >}}
+    - 2 potatoes (peeled, cubed)***- [1]***
     - 2 slices of bacon (cut into &frac14;-inch pieces)
     - cheddar cheese (fine-grated, enough to cover)
     - Salt & pepper to taste
 - 2 eggs (poached)
 
-## Instructions
+# Instructions
 - Prep:
     1. Preheat oven to 175&deg;F.
     1. Fill thermos with hot water and set aside.
@@ -49,7 +49,7 @@ Don't make this a daily meal. This is incredibly starchy and savory and works re
 - Potatoes:
     1. In cast iron skillet at medium-high heat, add bacon. Cook bacon until it's about half-way done and then add the potatoes. Mix until bacon and grease have covered the potatoes.
     1. Salt & pepper to taste.
-    1. Place skillet in preheated oven. Let cook for 15-20 minutes or until you can easily stick them with a fork.{{< super "2" >}}
+    1. Place skillet in preheated oven. Let cook for 15-20 minutes or until you can easily stick them with a fork.***- [2]***
     1. After potatoes are done, switch oven to broil and let cook for another 3-5 minutes depending on how much browning you want on top.
     1. After potatoes have sufficient browning, remove from oven, place on serving dish (plate) and immediately cover with however much fresh-grated cheddar cheese you want.
         - Optionally: add a bit of hollandaise to the plate before adding the potatoes if you like saucy stuff. Don't go crazy with it else you'll spoil the dish.
@@ -63,5 +63,10 @@ Don't make this a daily meal. This is incredibly starchy and savory and works re
     1. Drizzle hollandaise on eggs, enough to cover them.
     1. Garnish with cayenne pepper and chives.
 
-{{< footnote "1" "Potatoes in this recipe were cut into &frac12;-inch to &frac34;-inch cubes. Bigger cubes would mean you might have to cook them longer." >}}
-{{< footnote "2" "I don't know if there's a set cooktime you can always use for baking potatoes. It's best to just set them, check them after 10 minutes, and then check them every 5 minutes after that." >}}
+<div class="footnotes">
+
+# Footnotes
+1. Potatoes in this recipe were cut into &frac12;-inch to &frac34;-inch cubes. Bigger cubes would mean you might have to cook them longer.
+1. I don't know if there's a set cooktime you can always use for baking potatoes. It's best to just set them, check them after 10 minutes, and then check them every 5 minutes after that.
+
+</div>

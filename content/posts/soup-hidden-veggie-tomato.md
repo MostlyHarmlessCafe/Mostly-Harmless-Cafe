@@ -13,7 +13,7 @@ tags:
 - soup
 ---
 
-## Ingredients
+# Ingredients
 - 3 Cloves Garlic, Sliced.
 - 1 Onion, Chopped.
 - 1 Red Chilli, Deseeded, Sliced.
@@ -31,7 +31,7 @@ tags:
 - 1Tsp of Olive Oil.
 - 500ml Vegetable Stock/Broth
 
-## Instructions
+# Instructions
 1. In a *large enough* pan, fry the Onion and Garlic until translucent.
 2. Add in all ingredients, with Vegetable Broth, ensuring that you regularly check and stir the *concoction*.
 3. Bring mixture to a boil, remain here for 20 minutes, then reducing the heat to a simmeer.

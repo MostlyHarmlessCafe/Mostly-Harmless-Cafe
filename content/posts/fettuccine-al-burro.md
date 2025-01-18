@@ -32,5 +32,9 @@ tags:
 1. Add ground pepper to taste, toss.
 1. Serve in bowl or on plate and garnish with additional cheese and pepper.
 
+<div class="footnotes">
+
 # Footnotes
 1. Traditionally the recipe doesn't call for black pepper but I add it as a personal touch at the very end.
+
+</div>

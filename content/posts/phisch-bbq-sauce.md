@@ -12,7 +12,7 @@ tags:
 - sauce
 ---
 
-## Ingredients
+# Ingredients
 - 1 cup ketchup
 - 1 shallot (finely diced)
     - subst: red onions
@@ -29,7 +29,7 @@ tags:
 - black pepper
 - salt
 
-## Instructions
+# Instructions
 1. Add shallots, garlic, ginger, sunflower oil, and chili flakes to pan on medium heat. Cook until onions turn translucent.
 1. Add brown sugar. Cook until sugar melts.
 1. Add smoked paprika. Quickly mix into paste.

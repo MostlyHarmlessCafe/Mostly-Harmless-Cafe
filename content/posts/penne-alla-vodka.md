@@ -12,7 +12,7 @@ tags:
 - pasta
 ---
 
-## Ingredients:
+# Ingredients
 - 1 lb penne pasta
 - &frac12; Tbsp extra virgin olive oil
 - 100 g pancetta (can use bacon)
@@ -21,7 +21,7 @@ tags:
 - &frac13; cup heavy cream
 - &frac13; cup vodka
 
-## Instructions:
+# Instructions
 1. Add olive oil to pan on medium heat.
 1. Add pancetta/bacon, let simmer until all the grease has been sweated out.
 1. Add minced shallot, sautee.

@@ -56,10 +56,14 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     1. Add noodles and a bit of pasta water and toss over med-high heat until thoroughly combined. ***- [6]***
     1. Garnish with pecorino and serve.
 
-## Footnotes
-1. *Liverwurst is really rich and salty. If you don't like this or would rather use something more familiar, you can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna*
-2. *Use anchovies that come in oil, not vinegar*
-3. *Take care not to overwork the meat, else the meatballs will end up dense.*
-4. *Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later.*
-5. *Cooking for longer is going to reduce the sauce more, making it more robust and rich. You can cook it for 10-15 minutes to get the meatballs cooked but it won't taste as good and might even be a bit acidic.*
-6. *This is enough sauce for around 1 lb of dry noodles; however, I personally don't like mixing in all the noodles at once. I like Making the noodles per serving because if you have leftovers, the noodles don't keep as well (they bloat) while the sauce only gets better.*
+<div class="footnotes">
+
+# Footnotes
+1. Liverwurst is really rich and salty. If you don't like this or would rather use something more familiar, you can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna
+2. Use anchovies that come in oil, not vinegar
+3. Take care not to overwork the meat, else the meatballs will end up dense.
+4. Don't worry to much about the meatballs cooking all the way through. Just worry about getting a good sear. They'll finish cooking while simmering in the sauce later.
+5. Cooking for longer is going to reduce the sauce more, making it more robust and rich. You can cook it for 10-15 minutes to get the meatballs cooked but it won't taste as good and might even be a bit acidic.
+6. This is enough sauce for around 1 lb of dry noodles; however, I personally don't like mixing in all the noodles at once. I like Making the noodles per serving because if you have leftovers, the noodles don't keep as well (they bloat) while the sauce only gets better.
+
+</div>

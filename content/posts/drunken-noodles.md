@@ -17,7 +17,7 @@ tags:
 - noodles
 ---
 
-## Ingredients
+# Ingredients
 - Noodles:
     - 1 lb wide rice noodles
     - 5 cloves of garlic (minced)
@@ -35,7 +35,7 @@ tags:
     - &frac12; tsp salt
     - &frac14; cup soy sauce
     - 1 tsp ground anise seed
-- Sauce
+- Sauce:
     - 2 tbsp brown sugar
     - 2 tbsp soy sauce
     - 2 tbsp dark soy sauce
@@ -43,7 +43,7 @@ tags:
     - 2 tbsp oyster sauce
     - 1 tsp ground white pepper
 
-## Instructions:
+# Instructions
 1. Mix beef with salt, anise, and soy sauce. Let marinate until needed.
 1. Ideally, do this just before soaking the noodles so that by the time the noodles are ready the beef has been soaking for about an hour.
 1. Prepare noodles using instructions on box/bag.
@@ -59,7 +59,11 @@ tags:
 1. Add chili oil and mix for 30 more seconds.
 1. Serve. ***- [2,3]***
 
-## Footnotes:
+<div class="footnotes">
+
+# Footnotes:
 1. Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.
 1. If you get to the end and find it's still not spicy enough, add more chili oil.
 1. When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.
+
+</div>

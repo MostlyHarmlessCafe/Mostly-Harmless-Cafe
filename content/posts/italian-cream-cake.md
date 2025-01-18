@@ -18,7 +18,7 @@ tags:
 - cake
 ---
 
-# Ingredients:
+# Ingredients
 - Cake
     - 1 cup of butter (softened)
     - 2 cups of granulated sugar
@@ -39,7 +39,7 @@ tags:
     - 1 cup of nuts
     - &frac14; cup of semi-sweet mini chocolate chips
 
-# Instructions:
+# Instructions
 - Cake
     1. Preheat oven to 350&deg;F.
     1. Take 3 cake pans, grease with butter, line with parchment, and set aside.

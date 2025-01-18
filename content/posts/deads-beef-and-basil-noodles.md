@@ -11,7 +11,7 @@ tags:
 - spicy
 ---
 
-## Ingredients
+# Ingredients
 - Meat: 
     - 1 lb beef (sliced)
     - 2 cloves of garlic (grated)
@@ -39,7 +39,7 @@ tags:
     - 3 green onions (sliced, &frac18; inches)
     - 1 tbsp water
 
-## Instructions:
+# Instructions
 1. Marinade meat for at least 1 hour, optimally overnight.
 1. Mix sauce ingredients, set aside.
 1. Cook noodles. Cool and set aside.

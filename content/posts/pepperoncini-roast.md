@@ -12,7 +12,7 @@ tags:
 - beef
 ---
 
-## Ingredients:
+# Ingredients
 - 3&frac12;-4 lbs chuck roast
 - 1 jar pepperoncinis (capped, kepp juice)
 - 1 8 oz. can tomato sauce (keep jar for water)
@@ -22,7 +22,7 @@ tags:
 - 4 carrots (split and segmented)
 - 1 yellow onion (diced)
 
-## Instructions:
+# Instructions
 1. Preheat oven to 375&deg;F.
 1. Season roast generously with salt and pepper on all sides. Let sit for 6 minutes.
 1. Put oil in dutch oven on med-high, sear roast, approx. 3 minutes per side.
