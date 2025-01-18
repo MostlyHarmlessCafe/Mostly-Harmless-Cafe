@@ -2,26 +2,12 @@
 <main aria-role="main">
 	<div class="homepage">
 		<img src="images/logo.png">
-		<div class="col-lg-6 col-md-8 col-sm-10 col-12" style="margin: auto;">
-			<div class="row">
-				<div>
-					<div class="col-lg-6 col-md-4 col-8 group-1"><h1><a href="/food.html">Food</a></h1></div>
-				</div>
-				<div class="col-12 group-2"><h2><a href="/asian.html">Asian</a></h2></div>
-				<div class="col-12 group-2"><h2><a href="/brunch.html">Brunch</a></h2></div>
-				<div class="col-12 group-2"><h2><a href="/chicken.html">Chicken</a></h2></div>
-				<div class="col-12 group-2"><h2><a href="/pasta.html">Pasta</a></h2></div>
-				<div class="col-12 group-2"><h2><a href="/sauce.html">Sauces</a></h2></div>
-			</div>
-		</div>
-			<div class="row">
-				<div>
-					<div style="margin-top: 20px;" class="col-lg-6 col-md-4 col-8 group-1"><h1><a href="/drinks.html">Drinks</a></h1></div>
-				</div>
-		</div>
+		{{ .Content }}
 	</div>
 </main>
+
 {{ end }}
+
 
 {{ define "footer" }}
 <footer aria-role="footer">
