@@ -17,7 +17,7 @@ tags:
 
 This is basically just a cutlet of chicken pounded flat and breaded with panko. When cooked correctly it's incredibly crunchy while still moist on the inside. The sauce that it's usually served with has a strong, salty, and savory flavor.
 
-## Ingredients
+# Ingredients
 - Chicken:
     - 1 chicken breast (butterflied)
     - salt
@@ -33,7 +33,7 @@ This is basically just a cutlet of chicken pounded flat and breaded with panko. 
     - 1 tbsp miso
     - salt to taste
 
-## Instructions:
+# Instructions
 1. Butterfly the chicken breast, flatten with a cast iron pan (or whatever you want to use), and cover in miso. Marinate for 30 minutes to overnight.
 1. Set the beaten eggs, flour, and panko on separate plates and cover the chicken in the following order: flour -> eggs -> panko -> eggs -> panko.
 1. Shallow fry the chicken for around 1-2 minutes per side or until golden brown.

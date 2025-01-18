@@ -17,7 +17,7 @@ tags:
 
 A basic hollandaise sauce, creamy and slightly acidic. Good for eggs benedict and pretty much anything else served at brunch.
 
-## Ingredients
+# Ingredients
 - 3 egg yolks
 - 1 tsp of cayenne pepper (plus additional for garnish)
 - juice of 1 lemon
@@ -25,7 +25,7 @@ A basic hollandaise sauce, creamy and slightly acidic. Good for eggs benedict an
 - &frac12; cup of butter (melted)
 - chives (garnish)
 
-## Instructions
+# Instructions
 1. Melt butter in pan and keep reasonably hot without bringing it to smoke.
 1. Add egg yolks to medium-sized metal bowl. Beat with whisk until consistent.
 1. To the bowl add the dijon mustard, lemon juice, and cayenne pepper. Mix until combined.

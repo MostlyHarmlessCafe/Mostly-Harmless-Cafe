@@ -14,10 +14,9 @@ tags:
 - chicken
 ---
 
-## Ingredients (chicken):
+# Ingredients
 - Chicken:
     - 4 chicken thighs (bone in, with skin)
-        - Can be pretty much any part of the chicken. It's nice to have some diversity but if only given one choice, chicken thighs work best.
 - Sauce:
     - 20 cloves of garlic (minced)
     - 1 tbsp of black peppercorns (ground)
@@ -28,10 +27,17 @@ tags:
     - &frac14; cup of dark soy sauce
     - &frac12; cup of water
 
-## Instructions:
+# Instructions
 1. Mix all the ingredients in the sauce to form the marinade. Add chicken and marinate for 2 hours.
 1. In dutch oven on medium-high heat, add a bit of vegetable oil. Sear chicken 2-3 minutes per side.
 1. Pour in marinade uesd in Step 1, bring to simmer. 
 1. Cover and let simmer for 35 minutes.
 1. Flip chicken, cover, and simmer for another 25 minutes.
 1. Serve on rice.
+
+<div class="footnotes">
+
+# Footnotes
+1. Can be pretty much any part of the chicken. It's nice to have some diversity but if only given one choice, chicken thighs work best.
+
+</div>

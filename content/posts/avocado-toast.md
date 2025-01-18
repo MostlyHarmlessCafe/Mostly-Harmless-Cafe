@@ -17,6 +17,7 @@ tags:
 
 This recipe is for a single serving. If you want to make a small meal out of it you could probably make do with making two servings. The hollandaise in this recipe is enough for about three servings on its own in case you're either making additional servings or just really like drowning your brunch in sauce.
 
+# Ingredients
 - Toast:
     - 1 slice of whole grain bread
     - 1 egg (poached)
@@ -37,7 +38,7 @@ This recipe is for a single serving. If you want to make a small meal out of it 
         - reserve additional for garnish
     - salt to taste
 
-## Instructions:
+# Instructions
 - Prep
     1. To a thermos, fill with hot water and set to the side.
     1. To a large pot add water and bring to a boil.
@@ -46,7 +47,7 @@ This recipe is for a single serving. If you want to make a small meal out of it 
     1. Add lemon juice and dijon mustard to bowl. Mix until combined.
     1. Melt butter in a skillet. Once butter is melted, gently drizzle it into the egg yolk mixture while stirring. The end result should be a creamy, homogenous emulsion.
     1. Hover bowl over the pot of boiling water while stirring to further cook the hollandaise. Heat while mixing until the sauce is the desired thickness.
-    1. After the hollandaise has reached the desired doneness, empty the hot water from the thermos into the sink and add the hollandaise to the thermos. Seal and set to the side.{{< super "1" >}}
+    1. After the hollandaise has reached the desired doneness, empty the hot water from the thermos into the sink and add the hollandaise to the thermos. Seal and set to the side.***- [1]***
 - Avocado mix
     1. Peel and deseed avocado. Add them to a bowl and mash until creamy and consistent.
     1. Add lime juice. Stir until combined.
@@ -61,5 +62,9 @@ This recipe is for a single serving. If you want to make a small meal out of it 
 - Assembly
     1. Spread the avocado mixture over the toast. Add bacon, tomatoes, and poached egg. Top the eggs with the hollandaise sauce and garnish with cayenne pepper to taste.
 
-## Footnotes
-{{< footnote "1" "After being added to the thermos the hollandaise will keep for about an hour, more or less. Furthermore, if you find that you made the hollandaise a little too thick you can add a drop or two (and only that) of water to it and swirl it around and it will loosen the sauce up." >}}
+<div class="footnotes">
+
+# Footnotes
+1. After being added to the thermos the hollandaise will keep for about an hour, more or less. Furthermore, if you find that you made the hollandaise a little too thick you can add a drop or two (and only that) of water to it and swirl it around and it will loosen the sauce up.
+
+</div>

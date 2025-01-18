@@ -11,7 +11,7 @@ tags:
 - pasta
 ---
 
-## Ingredients
+# Ingredients
 - Pasta:
     - 120g pasta (spaghetti, dry)
 - Sauce:
@@ -25,7 +25,7 @@ tags:
     - 1 Tbsp lemon juice
     - shredded Pecorino Romano
 
-## Instructions:
+# Instructions
 1. Start boiling pasta around the time you start making the sauce.
     - Reserve a cup-ish of pasta water in case it's needed later.
 1. Put garlic, olive oil, and anchovy to pan on medium heat, cook until garlic is slightly brown.

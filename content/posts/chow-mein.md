@@ -40,7 +40,7 @@ tags:
     - 3 tsp sesame oil
     - 2 tsp cornstarch
 
-# Instructions:
+# Instructions
 1. Make the marinade by mixing all the ingredients into a bowl. Slice the chicken into bite-sized pieces and let marinate for 30 minutes to overnight.
 1. Make the sauce by adding everything together and mixing (add cornstarch last)
 1. Remove the chicken from the marinade and pat dry. Cook the chicken to completion in wok, remove, and set to the side.

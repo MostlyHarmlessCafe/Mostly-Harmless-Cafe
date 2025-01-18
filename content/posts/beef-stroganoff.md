@@ -17,7 +17,7 @@ tags:
 
 This recipe calls for noodles but the sauce can be put on pretty much everything from bread to potatoes. It's best served topped with sour cream and garnished with parsley. This recipe is enough for roughly a pound of dry egg noodles but it's recommended that you make it to keep and make the noodles per serving. Sauce keeps really well, cooked noodles not so much.
 
-# Ingredients:
+# Ingredients
 - rub/marinade
     - &frac12; Tbsp of salt
     - &frac12; Tbsp of black peppercorns
@@ -37,7 +37,7 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
       - *opt:* set aside additional for topping
     - *opt:* 1 Tbsp mustard (optional) ***- [2]***
 
-# Instructions:
+# Instructions
 1. Toast peppercorns and fennel seeds by heating in a pan and grind with salt in a mortar and pestle or grinder. Add garlic and grind to combine. Mix into the beef. Let sit for 30 minutes to an hour.
 1. Melt one of the divisions of butter in a dutch oven on medium heat and sear the beef therein (you may have to do this in batches as to not overcroud the pot). After all meat is seared take out meat and set aside.
 1. Reduce heat to medium-low and add the other division butter. After butter is melted add the sliced onions. Cook while occassionally mixing until all the onions are well caramelized and then add the mushrooms. Cook while occassionally stirring for another 2-3 minutes or until mushrooms soften.
@@ -49,6 +49,10 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
 1. Add in the sour cream and optional mustard and stir to combine.
 1. Season to taste with salt and pepper and serve with pasta, mashed potatoes, rice, or whatever else you'd like.
 
-## Footnotes
+<div class="footnotes">
+
+# Footnotes
 1. The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it. Careful not to boil because that will have the opposite effect.
 1. The mustard adds a bit of brightness and acidity which complements the dish's richness. Any type of mustard works but I like using classic yellow mustard; furthermore, what I usually do is omit the mustard altogether and add it per serving since how much mustard I want usually varies.
+
+</div>

@@ -12,7 +12,7 @@ tags:
 - pancakes
 ---
 
-## Ingredients:
+# Ingredients
 - 1 &frac12; cups milk
 - 1 egg
 - &frac14; cup sugar
@@ -21,6 +21,6 @@ tags:
 - 1 Tbsp baking powder
 - 2 Tbsp melted butter
 
-## Instructions:
+# Instructions
 1. Pour onto medium heat pan.
 1. Flip when bubbles appear on top

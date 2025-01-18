@@ -13,9 +13,9 @@ tags:
 - burgers
 ---
 
-## Ingredients
+# Ingredients
 - Beef:
-    - &frac13; lb ground beef{{<super "1">}}
+    - &frac13; lb ground beef***- [1]***
     - 1 slice of cheddar cheese
     - 1 slice of american cheese
         - subst: whatever cheese you want
@@ -30,7 +30,7 @@ tags:
     - &frac14; pickle (finely diced)
     - &frac14; onion (diced and browned)
 
-## Instructions (sauce)
+# Instructions
 - Sauce:
     1. Mix it all together.
     1. Put as much as you want on the inside of both buns.
@@ -44,5 +44,9 @@ tags:
     1. Remove from heat and cover. Let sit for 45 seconds.
     1. Sauce bottom bun, place patty, sauce top of patty, cover with top bun.
 
-### Optional:
-{{<footnote "1" "Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.">}}
+<div class="footnotes">
+
+# Footnotes
+1. Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.
+
+</div>

@@ -12,7 +12,7 @@ tags:
 - pasta
 ---
 
-## Ingredients:
+# Ingredients
 - 1 lb short pasta (i.e. penne, riggatoni, etc.)
     - cook according to box and set aside
 - 1 lb aubergines (sliced and fried)
@@ -23,7 +23,7 @@ tags:
 - fresh basil
 - salt & pepper
 
-## Instructions:
+# Instructions
 1. Cook pasta per box instructions, cool, and set aside.
 1. Fry the aubergines. Set aside.
 1. For the sauce, add olive oil to pan and saute garlic and onion until garlic is slightly brown. Add crushed tomatoes and salt to taste.

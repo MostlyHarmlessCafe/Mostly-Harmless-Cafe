@@ -11,7 +11,7 @@ tags:
 - appetizer
 ---
 
-## Ingredients:
+# Ingredients
 - 2 cups shredded chicken
 - 8 oz cream cheese (softened)
 - &frac12; cup Frank's Red Hot
@@ -19,7 +19,7 @@ tags:
 - 1 block (roughly 6 oz) cheddar cheese (freshly grated)
 - &frac12; cup blue cheese crumbles
 
-## Instructions:
+# Instructions
 1. Bring water to simmer.
 1. Place chicken in water, cover with lid, and leave for 45 minutes. 
 1. Remove chicken, carve the meat, and shred using whatever works.

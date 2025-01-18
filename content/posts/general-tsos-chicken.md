@@ -13,7 +13,7 @@ tags:
 - asian
 ---
 
-## Ingredients
+# Ingredients
 - Chicken & marinade:
     - 2 chicken thighs
     - 2 tbsp rice vinegar
@@ -41,7 +41,7 @@ tags:
     - 1 tbsp cornstarch
     - 1&frac12; tbsp vinegar
 
-## Instructions:
+# Instructions
 1. Skin and debone chicken. Slice into bite-size pieces and marinate for at least 45 minutes.
     - Optimally overnight.
 1. Put chicken in a 1:2 mix of cornstarch and flour, reserving the marinade. Toss until covered.
@@ -60,10 +60,14 @@ tags:
 1. Add sugar, msg, chili flakes, and dried chilies. Cook until sugar melts.
 1. Add chinkiang vinegar, mix and simmer for 10 seconds.
 1. Add chicken stock mixture.
-1. Simmer for 2-3 minutes, stirring occasionally{{<super "1">}}.
+1. Simmer for 2-3 minutes, stirring occasionally.***- [1]***
 1. Stream in cornstarch slurry.
 1. Add chicken. Toss until fully covered.
 1. Serve.
 
-## Optional:
-{{<footnote "1" "Add in a few leaves of Thai basil here to give it an herby licorice note.">}}
+<div class="footnotes">
+
+# Footnotes
+1. Add in a few leaves of Thai basil here to give it an herby licorice note.
+
+</div>

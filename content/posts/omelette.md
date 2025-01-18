@@ -15,11 +15,11 @@ tags:
 - brunch
 ---
 
-## Ingredients
-- Eggs
+# Ingredients
+- Eggs:
     1. 4 whole eggs
     1. 1 tbsp of italian parsley (finely chopped)
-- Filling
+- Filling:
     1. &frac18; lb ground sausage
     1. Cayenne pepper (preferred amount)
     1. 1 jalapeno (chopped, &frac18;<sup>th</sup> inch)
@@ -30,7 +30,7 @@ tags:
     1. Sharp cheddar cheese (freshly shredded, preferred amount)
     1. Asiago cheese (freshly shredded, preferred amount)
 
-## Instructions
+# Instructions
 - Eggs:
     1. Crack all 4 eggs into a bowl and mix using a fork. When mixing, try not to be too aggressive as to not over-mix the eggs.
     1. After they're well mixed, add the chopped parsley and stir to combine.
