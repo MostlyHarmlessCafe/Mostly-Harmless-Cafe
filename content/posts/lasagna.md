@@ -23,12 +23,12 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
         - subst: vegetable oil
     - 1 lb ground beef
     - &frac12; lb italian sausage
-    - 1 small onion (diced)
-    - 1 carrot (diced)
-    - 1 celery stalk (diced)
+    - 1 small onion (finely diced)
+    - 1 carrot (finely diced)
+    - 1 celery stalk (finely diced)
     - 1 oz of anchovies
     - 1 tsp fennel seeds (ground)
-    - 6 oz can of tomato paste
+    - 4 oz tomato paste
     - 28 oz can of crushed tomatoes
     - 2 cloves of garlic (minced)
 - Cheese Mixture:
