@@ -14,12 +14,14 @@
   font-family: "Comfortaa";
   src: url("/fonts/Comfortaa-VariableFont_wght.ttf")
 }
-
+// recursive
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
+// quicksand
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Quicksand:wght@300..700&display=swap');
 
 :root {
   /* Jost Light needed for when displaying fractions */
-  --font-primary: "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
+  --font-primary: "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
   --font-secondary: "Jost Light";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
