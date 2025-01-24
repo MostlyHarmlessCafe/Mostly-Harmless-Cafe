@@ -74,16 +74,27 @@ If you don't see a tag here that you think should be included with your recipe, 
 
 ##### Organization
 
-Entries should have at least an `## Ingredients` (unordered) and `## Instructions` (ordered) section. You can also include a section at the end `### Optional` (unordered).
+Entries should have at least an `# Ingredients` (unordered) and `# Instructions` (ordered) section. You can also include a section at the end `# Footnotes` (ordered).
 
 ##### Footnotes
 In-line: these are the in-text citation and are just numbers referencing the footnote at the bottom. Can be either a single number or multiple if more than one footnote exists for this item.
 ```
-{{< super "1,2" >}}
+***- [1]***
+***- [2]***
+...
+***- [n]***
 ```
-Footnote: these are the actual footnotes at the bottom referencing the in-line citations.
+Footnote: these are the actual footnotes at the bottom referencing the in-line citations. The `<div class="footnotes"` is necessary because there is a footnotes class to distinguish it from the rest of the post.
 ```
-{{< footnote "1" "Footnote text" >}}
+<div class="footnotes">
+
+# Footnotes
+1. Footnote 1
+1. Footnote 2
+...
+1. Footnote n
+
+</div>
 ```
 
 ##### Previewing
@@ -94,14 +105,10 @@ hugo server -D
 ```
 
 ## Furthermore
-
 Try not to include stories, epiphanies on life, embarrassing moments from high school, that time you scraped your knee, or other stuff that people may feel the need to scroll past to get to the recipe itself.
 
-
 ## Contributing to the Website
-
 Have something you think would make the website better (styling, layouts, etc.)? Submit a PR and we'll look into it.
 
 ## Credits for Website
-
 [Spicy Forth](https://github.com/SpicyForthProgrammer) - graphics design, web hosting
