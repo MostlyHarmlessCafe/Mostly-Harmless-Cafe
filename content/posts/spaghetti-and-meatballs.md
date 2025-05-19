@@ -7,14 +7,14 @@ image: /images/food-images/spaghetti-and-meatballs_deadbody13.webp
 caption: Spaghetti and Meatballs
 alt: Bowl of Spaghetti and Meatballs
 
-description: Pretty basic spaghetti and meatballs recipe. 
+description: Spaghetti and meatballs with tomato based sauce.
 
 tags:
 - food
 - pasta
 ---
 
-This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper" series but I changed meatballs and sauce a bit to include things like an Italian soffritto, anchovies, and liverwurst. This recipe still has the foundation that his recipe provided but it's changed in a few ways that give it a more developed and traditional flavor that I personally like a bit more. I also think it's criminal to have a tomato-based sauce that doesn't include anchovies.
+This recipe consists of two different meatballs. One is a more traditional style and the other is a more of a nugget made from ground pork and spices. This somewhat started out as a splinter of Joshua Weissman's "Spaghetti and Meatballs, But Better" but gradually grew into a slightly quirkier recipe with the traditional approach of using an Italian soffritto as the foundation for the red sauce.
 
 # Ingredients
 - Meatballs (large):
@@ -25,7 +25,7 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     - 1 tsp thyme
     - 2 tsp black peppercorns (ground)
     - 1 &frac34; tsp sea salt
-    - 3 cloves of garlic (minced)
+    - 4 cloves of garlic (minced)
     - &frac13; cup Pecorino Romano (finely shredded)
         - opt.: reserve extra for garnish
     - &frac23; cup of panko
@@ -58,11 +58,12 @@ This started as Joshua Weissman's spaghetti and meatballs from his "But Cheaper"
     1. Add the egg and stir it in until it has been absorbed by the mix.
     1. Add in beef, liverwurst, and pork and mix it in until combined. The end result should be something of a meatloaf. ***- [3]***
     1. Using a measuring scoop of choice, form meatballs by scooping the portions out and molding them into smooth balls by hand.
-    1. In a pot on med-high heat, add the clarified butter sear the meatballs. Remove and place to side. ***- [4]***
 - Meatballs (small)
     1. To a medium bowl, add the pork and the rest of the small meatball ingredients.
     1. Mix to combine.
     1. Using a long knife or cutter, cut the pork into bite-sized pieces.
+- Searing the meatballs:
+    1. In a pot on med-high heat, add the clarified butter sear the meatballs. Remove and place to side. ***- [4]***
     1. In the same pot as the large meatballs, sear the small meatballs. Remove and place to the side.
 - Sauce
     1. Reduce heat to medium and add the olive oil to the pot.
