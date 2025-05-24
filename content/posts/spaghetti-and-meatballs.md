@@ -31,7 +31,6 @@ This recipe consists of two different meatballs. One is a more traditional style
     - &frac23; cup of panko
     - 1 whole egg
     - 2 tbsp clarified butter
-
 - Meatballs (small):
     - 1 lb ground pork
     - 1 tsp nutmeg (ground)
@@ -39,7 +38,6 @@ This recipe consists of two different meatballs. One is a more traditional style
     - 2 tsp black peppercorns (ground)
     - 2 tsp salt
     - 1 tbsp clarified butter
-
 - Sauce:
     - 2 tbsp of clarified butter
     - 2 stalk of celery (finely diced)
