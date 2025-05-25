@@ -14,6 +14,22 @@
   font-family: "Comfortaa";
   src: url("/fonts/Comfortaa-VariableFont_wght.ttf")
 }
+@font-face {
+  font-family: "Go";
+  src: url("/fonts/Go-Regular.ttf")
+}
+@font-face {
+  font-family: "Go Itallic";
+  src: url("/fonts/Go-Italic.ttf")
+}
+@font-face {
+  font-family: "Go Medium";
+  src: url("/fonts/Go-Medium.ttf")
+}
+@font-face {
+  font-family: "Go Bold";
+  src: url("/fonts/Go-Bold.ttf")
+}
 // recursive
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
 // quicksand
@@ -21,8 +37,8 @@
 
 :root {
   /* Jost Light needed for when displaying fractions */
-  --font-primary: "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
-  --font-secondary: "Jost Light";
+  --font-primary: "Go", "Go Mono", "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
+  --font-secondary: "Go Medium";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
   --background: #fcf5e5;
@@ -49,6 +65,7 @@ a:hover {
 .page-title {
   padding-bottom: 15px;
   h1 {
+    border-bottom: 0px;
     font-size: 28px;
     padding-bottom: 0px;
     margin-bottom: 5px;
@@ -70,6 +87,7 @@ a:hover {
 }
 .homepage {
 	padding: 5% 0px 80px 0px;
+    font-family: var(--font-secondary);
 	img {
 		margin: auto;
 		display: block;
@@ -145,10 +163,8 @@ tr td:first-child {
     font-size: 18px;
   }
   .recipe-header {
-    font-weight: 400;
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 1px;
+    font-family: var(--font-secondary);
+    border-bottom: 1px solid black;
     margin: 5px 0px 0px 0px;
   }
   .recipe-list {
@@ -158,6 +174,9 @@ tr td:first-child {
 }
 }
 .recipe-entry, .recipe-credits {
+  h1 {
+    font-family: var(--font-secondary);
+  }
   ul {
     list-style: circle;
   }
@@ -169,6 +188,9 @@ tr td:first-child {
   }
 }
 .recipe-entry-contents {
+  h1 {
+    border-bottom: 1px solid black;
+  }
   p {
     padding-left: 5px;
   }
