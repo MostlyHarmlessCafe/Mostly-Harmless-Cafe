@@ -46,7 +46,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.
 
 </div>

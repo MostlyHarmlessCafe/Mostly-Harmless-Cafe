@@ -45,7 +45,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. I like to dice my mushrooms but keep some of them sliced for variation in texture.
 1. I made this soup with a dry red wine instead of white, and it was still delicious.
 1. Like all soups, the greatest thing about this recipe is you can add any herbs, vegetables, and spices that you want! Use up your extra ingredients that are about to go bad, or just add all your favorites! Some suggestions that would go great in this recipe include dill, thyme, oregano, parsley, celery, leeks, garlic, and mustard - but you can really use whatever you want! I substituted half the salt in this recipe for a "Wild Mushroom" seasoning blend that I had, and it was amazing.

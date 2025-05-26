@@ -61,7 +61,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes:
 1. Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.
 1. If you get to the end and find it's still not spicy enough, add more chili oil.
 1. When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.

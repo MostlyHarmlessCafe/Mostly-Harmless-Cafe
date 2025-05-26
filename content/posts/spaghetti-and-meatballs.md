@@ -74,7 +74,6 @@ This recipe consists of two different meatballs. One is a more traditional style
 
 <div class="footnotes">
 
-# Footnotes
 1. Liverwurst is really rich and salty. If you don't like this or would rather use something more familiar, you can also use &frac14; lb of ground sausage, &frac14; lb of ham, or &frac18; lb of bologna.
 2. Use anchovies that come in oil, not vinegar.
 3. Take care not to overwork the meat, else the meatballs will end up dense.

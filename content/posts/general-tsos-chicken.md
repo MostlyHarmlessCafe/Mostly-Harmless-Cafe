@@ -67,7 +67,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. Add in a few leaves of Thai basil here to give it an herby licorice note.
 
 </div>

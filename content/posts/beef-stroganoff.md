@@ -57,7 +57,6 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
 
 <div class="footnotes">
 
-# Footnotes
 1. The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it. Careful not to boil because that will have the opposite effect.
 1. The mustard adds a bit of brightness and acidity which complements the dish's richness. Any type of mustard works but I like using classic yellow mustard; furthermore, what I usually do is omit the mustard altogether and add it per serving since how much mustard I want usually varies.
 

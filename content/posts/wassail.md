@@ -27,6 +27,5 @@ tags:
 1. To a pot on low heat, add all the ingredients, including the oranges.
 1. Heat on low for anthing more than 30 minutes, not allowing the wassail to come to boil. ***- [2]***
 
-# Footnotes
 1. The idea in this recipe is to keep a 1:2 ratio of cranberry juice to apple juice. Add more apple juice for sweetness or more cranberry juice for tartness.
 1. It's really important to keep the wassail from going past steaming. If it starts simmering or boiling you'll introduce an unpleasant bitterness.

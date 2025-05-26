@@ -40,7 +40,6 @@ Puttanesca is a briny tomato-based sauce used for pasta among other things. The 
 
 <div class="footnotes">
 
-# Footnotes
 1. You can opt for not making a whole pound of pasta, just making it by the serving. You can then ladle in however much sauce you think is necessary for the amount of pasta you've cooked and mix the pasta in. It tastes better like this instead of reheating it by the serving. If you store it and reheat it you might find the noodles to be a little bloated from sitting in a watery and acidic sauce for so long.
 1. Pretty much just grab the olives handfulls at a time and aggressively squeeze them over the pan. This adds more flavor to the dish. Add the olives themselves after squeezing.
 1. If the sauce isn't sticking to the noodles or you think it's a bit too loose add some of the reserved pasta water and simmer for a while longer to thicken and help it stick to the noodles.

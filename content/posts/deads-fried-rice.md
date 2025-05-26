@@ -71,7 +71,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. Alternatively, you can set it on a plate and set it in the fridge for around 45 minutes.
 1. If added the rice fresh or hot, don't do this as you'll squash the rice. Also, avoid chopping the rice, just rely on pressing it down with the spatula.
 

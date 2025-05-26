@@ -34,7 +34,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. Optional: Fry the jalapeno slices first by dredging them and frying in shallow oil. Alternatively you can just sautee them for a minute or two with a bit of oil on medium.
 1. Optional: Put a bit of [Phisch's BBQ Sauce](phisch-bbq-sauce.html) on the bottom bun.
 

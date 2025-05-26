@@ -58,7 +58,6 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
 
 <div class="footnotes">
 
-# Footnotes
 1. No pre-shredded cheese. It's also recommended that you use low-moisture mozzarella. If you use something like buffalo mozzarella it will make the layer flat and soggy rather than stringy.
 1. Feel free to broil on high for a minute or two to get that browning on the top. Be careful not to brown it too much because it might make the top layer of cheese a bit chewy and difficult to work with.
 

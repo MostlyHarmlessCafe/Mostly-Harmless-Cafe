@@ -65,7 +65,6 @@ Don't make this a daily meal. This is incredibly starchy and savory and works re
 
 <div class="footnotes">
 
-# Footnotes
 1. Potatoes in this recipe were cut into &frac12;-inch to &frac34;-inch cubes. Bigger cubes would mean you might have to cook them longer.
 1. I don't know if there's a set cooktime you can always use for baking potatoes. It's best to just set them, check them after 10 minutes, and then check them every 5 minutes after that.
 

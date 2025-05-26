@@ -64,7 +64,6 @@ This recipe is for a single serving. If you want to make a small meal out of it 
 
 <div class="footnotes">
 
-# Footnotes
 1. After being added to the thermos the hollandaise will keep for about an hour, more or less. Furthermore, if you find that you made the hollandaise a little too thick you can add a drop or two (and only that) of water to it and swirl it around and it will loosen the sauce up.
 
 </div>
