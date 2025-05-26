@@ -37,6 +37,4 @@ tags:
 
 <div class="footnotes">
 
-1. Can be pretty much any part of the chicken. It's nice to have some diversity but if only given one choice, chicken thighs work best.
-
 </div>
