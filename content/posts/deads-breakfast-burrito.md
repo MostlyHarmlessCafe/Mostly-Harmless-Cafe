@@ -32,7 +32,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. Optional method is running a little bit of water over the tortilla and microwaving it for about 10 seconds or until soft.
 
 </div>

@@ -25,7 +25,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. If using for marinade, substitute with regular soy sauce.
 1. If using for marinade, omit.
 1. If using for marinade, skip.

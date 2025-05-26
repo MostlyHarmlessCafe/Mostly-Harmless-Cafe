@@ -36,7 +36,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Quicksand:wght@300..700&display=swap');
 
 :root {
-  /* Jost Light needed for when displaying fractions */
   --font-primary: "Go", "Go Mono", "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
   --font-secondary: "Go Medium";
   --foreground: #5c5852;
@@ -75,33 +74,37 @@ a:hover {
   }
   a:link, a:visited {
     text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-.recipe-title {
-  text-decoration: underline;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 5px;
-}
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .recipe-title {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+  }
 }
 .homepage {
-	padding: 5% 0px 80px 0px;
-    font-family: var(--font-secondary);
-	img {
-		margin: auto;
-		display: block;
-		width: 300px;
-	}
-    h1,h2 {
-        text-align: center;
+  padding: 5% 0px 80px 0px;
+  font-family: var(--font-secondary);
+  img {
+    margin: auto;
+    display: block;
+    width: 300px;
+  }
+  h1 {
+    padding: 15px 0px 0px 0px;
+    text-align: center;
+    font-size: 42px;
+  }
+  h2 {
+    padding: 2px 0px;
+    text-align: center;
+    font-size: 30px;
+    a {
+      text-decoration: none;
     }
-    h1 {
-      padding: 15px 0px;
-    }
-    h2 {
-      padding: 5px 0px;
-    }
+  }
 }
 .credits {
   padding: 30px 10px 15px 10px;
@@ -111,27 +114,21 @@ a:hover {
   margin: auto;
   a:link, a:visited {
     text-decoration-thickness: 1px;
-}
-h3 {
-  text-align: center;
-}
-table, th, td {
-  padding: 10px;
-}
-th {
-  text-align: center;
-}
-tr td:first-child {
-  border-right: 1px solid #ccc8c2;
-}
-}
-.footnote {
-  font-size: 14px;
-  line-height: 0;
-  br {
-    line-height: 0;
+  }
+  h3 {
+    text-align: center;
+  }
+  table, th, td {
+    padding: 10px;
+  }
+  th {
+    text-align: center;
+  }
+  tr td:first-child {
+    border-right: 1px solid #ccc8c2;
   }
 }
+
 .recipe-page, .recipe-entry {
   padding-top: 15%;
   margin: auto;
@@ -141,6 +138,9 @@ tr td:first-child {
     border-radius: 15px;
   }
   .footnotes {
+    border-top: 1px solid black;
+    margin-top: 25px;
+    padding-top: 10px;
     h1 {
       font-size: 24px;
       font-weight: bold;
@@ -168,8 +168,8 @@ tr td:first-child {
     margin: 5px 0px 0px 0px;
   }
   .recipe-list {
-    a:link, a:visited {
-      text-decoration: none;
+  a:link, a:visited {
+    text-decoration: none;
   }
 }
 }

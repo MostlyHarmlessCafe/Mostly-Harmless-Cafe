@@ -47,7 +47,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. If you decide to add anything else to the sauce, do so before adding the wine in. The alcohol helps emulsify whatever liquids are in the pan at the time.
 
 </div>

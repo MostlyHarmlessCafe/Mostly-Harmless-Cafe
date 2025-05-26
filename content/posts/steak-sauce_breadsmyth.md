@@ -39,7 +39,6 @@ tags:
 
 <div class="footnotes">
 
-# Footnotes
 1. Any aromatic vegetables (onion, garlic, celery, etc.) can be substituted or combined in place of the shallot.
 1. This sauce is incredibly versatile and can be adjusted into one of many named sauces by modifying the ingredients.
 1. &frac14; cup of cream can be mixed in after the sauce thickens in step 4. This creates an extremely rich and dense sauce, with a brighter color.

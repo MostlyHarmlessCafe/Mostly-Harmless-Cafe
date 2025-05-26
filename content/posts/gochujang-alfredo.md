@@ -52,7 +52,6 @@ This was taken from someone in r/food. It's a pretty generic alfredo pasta with 
 
 <div class="footnotes">
 
-# Footnotes
 1. Just add enough pasta water that everything gets combined.
 
 </div>
