@@ -33,6 +33,7 @@ This recipe is going to make enough pork, chimichurri, and onions for a lot of t
     - juice of &frac14; lime
     - salt to taste
 - Tacos
+    - 2 small flour tortillas
     - cilantro
     - asiago cheese
     - clarified butter
@@ -58,10 +59,18 @@ This recipe is going to make enough pork, chimichurri, and onions for a lot of t
     1. To a pan on medium-high heat, some clarified butter and sear the pork on both sides.
     1. Remove from the pan and let sit for 5 minutes.
     1. Slice the cutlet up into thin strips, about &frac18;-inch thick.
+    1. Reduce the pan heat to medium, place about a tablespoon of the pork sauce on it, and toss in the pork strips.
+    1. Cook for around 2 minutes and then remove the pork, keeping as much of the sauce in the pan as you can.
+- Tortillas:
+    1. Place the tortillas on the skillet, rotate and slide it around a few times to lap up as much of the residual sauce as you can.
+    1. Let it sit there until the underside of the tortillas are slightly crispy.
+    1. Remove the tortillas from the skillet and set it to the side.
+- Assembly:
+    1. On the serving plate, set the tortillas, crispy side up.
+    1. Add the cilantro, pork, chimichurri, pickled red onions, and asiago.
+    1. Serve.
 
 <div class="footnotes">
 
-1. How much lime juice and soy sauce you use is up to you. I prefer a 1:1 ratio of each. The important thing is that you give it enough to cover it while it's soaking in the bag or whatever container you're marinating it in.
-2. You can also use a large tortilla and go for more of a burrito but I personally like using small tortillas because they're more fun.
 
 </div>
