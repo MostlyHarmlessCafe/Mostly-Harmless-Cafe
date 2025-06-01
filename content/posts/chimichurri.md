@@ -20,17 +20,29 @@ tags:
 - &frac14; bunch of cilantro (finely chopped)
 - 1 jalape&ntilde;o (diced)
 - 1 habanero (diced)
-- &frac14; cup extra virgin olive oil
-- 2 tbsp red wine vinegar
-- 1 tbsp white wine vinegar
-- juice of 1 lime
+- extra virgin olive oil
+- red wine vinegar
+- white wine vinegar
+- juice of 1 lime (more if you like more citrus)
 - 1 tsp red pepper
 - 1 tsp thyme
 - salt to taste 
 - black pepper to taste
 
 # Instructions
-1. Finely chop all of the ingredients and add them to a container.
-1. Using an immersion blender, blend the ingredients together to the desired consistency.
-1. Add more olive oil if you want it less viscous.
+1. Add all the solid ingredients to a container.
+1. Using an immersion blender, blend them all together until they're something of a paste.
+1. Add olive oil, periodically blending, until it reaches the desired consistency.
+1. Add the red and white wine vinegar to taste.<sup>[1]</sup>
+1. Add the lime juice.
 1. Salt to taste.
+1. Lightly blend one more time.
+
+<div class="footnotes">
+
+1. I usually add to taste with the red wine vinegar and then move on to the white wine vinegar to get it up to the acidity that I want.
+
+- The portions in this recipe are mostly from the hip.
+- This will get stronger the longer it's stored. While sitting, it will likely thicken. If this happens you can add one or more of the wet ingredients until it wakes up.
+
+</div>
