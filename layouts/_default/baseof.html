@@ -11,22 +11,22 @@
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
 		<link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}/images/favicon.png">
 		{{ with resources.Get "scss/style.scss" }}
-		{{ $opts := dict
-		"enableSourceMap" hugo.IsDevelopment
-		"outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
-		"targetPath" "css/style.css"
-		"transpiler" "dartsass"
-		"vars" site.Params.styles
-		}}
-		{{ with . | toCSS $opts }}
-		{{ if hugo.IsDevelopment }}
-		<link rel="stylesheet" href="{{ .RelPermalink }}">
-		{{ else }}
-		{{ with . | fingerprint }}
-		<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-		{{ end }}
-		{{ end }}
-		{{ end }}
+			{{ $opts := dict
+			"enableSourceMap" hugo.IsDevelopment
+			"outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
+			"targetPath" "css/style.css"
+			"transpiler" "dartsass"
+			"vars" site.Params.styles
+			}}
+			{{ with . | toCSS $opts }}
+				{{ if hugo.IsDevelopment }}
+					<link rel="stylesheet" href="{{ .RelPermalink }}">
+				{{ else }}
+					{{ with . | fingerprint }}
+						<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+					{{ end }}
+				{{ end }}
+			{{ end }}
 		{{ end }}
 	</head>
 	<div class="container">
