@@ -137,19 +137,9 @@ a:hover {
     max-width: 100%;
     border-radius: 15px;
   }
-  .footnotes {
-    border-top: 1px solid black;
-    margin-top: 25px;
-    padding-top: 10px;
-    h1 {
-      font-size: 24px;
-      font-weight: bold;
-    }
-    li {
-      font-size: 14px;
-    }
-  }
 }
+
+
 .recipe-page {
   ul {
     list-style: none;
@@ -180,11 +170,12 @@ a:hover {
   ul {
     list-style: circle;
   }
-  p {
-    font-size: 16px;
-  }
-  li {
-    font-size: 16px;
+  .footnotes {
+    font-size: 12px;
+    p {
+      line-height: 1.0rem;
+      margin-bottom: 0.25rem;
+    }
   }
 }
 .recipe-entry-contents {
