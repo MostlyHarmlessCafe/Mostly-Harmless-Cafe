@@ -54,15 +54,11 @@ tags:
     - Additional oil may be needed between batches.
 1. Reduce heat to medium and add shallots and ginger. Cook until slightly soft and then add Shaoxing wine. After adding the wine, scrape the bottom of the pan to loosen any fonde.
 1. Add the garlic, chilis, scallions and beef. Stir in.
-1. Add noodles. Continuously mix until noodles wilt enough that they're pleasant to bite into. Then add the sauce and mix it in. ***- [1]***
+1. Add noodles. Continuously mix until noodles wilt enough that they're pleasant to bite into. Then add the sauce and mix it in.[^1]
 1. Add basil. Cook while mixing until basil is slightly wilted.
 1. Add chili oil and mix for 30 more seconds.
-1. Serve. ***- [2,3]***
+1. Serve.[^2][^3]
 
-<div class="footnotes">
-
-1. Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.
-1. If you get to the end and find it's still not spicy enough, add more chili oil.
-1. When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.
-
-</div>
+[^1]: Depending on how comfortable you are with tossing in a wok/pan, you may want to use a spatula or tongs until the noodles become more limp. After being soaked the noodles can sometimes still be sort of like ribbons and unwieldy. Be careful not to overwork the noodles or they might break.
+[^2]: If you get to the end and find it's still not spicy enough, add more chili oil.
+[^3]: When reheating, heat skillet to medium-high, add 1 tbsp of chili oil, add desired amount of noodles, and toss until heated. This is better than microwaving.

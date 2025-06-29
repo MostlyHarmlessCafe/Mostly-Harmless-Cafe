@@ -15,7 +15,7 @@ tags:
 
 # Ingredients
 - Beef:
-    - &frac13; lb ground beef***- [1]***
+    - &frac13; lb ground beef[^1]
     - 1 slice of cheddar cheese
     - 1 slice of american cheese
         - subst: whatever cheese you want
@@ -44,8 +44,4 @@ tags:
     1. Remove from heat and cover. Let sit for 45 seconds.
     1. Sauce bottom bun, place patty, sauce top of patty, cover with top bun.
 
-<div class="footnotes">
-
-1. Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.
-
-</div>
+[^1]: Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.

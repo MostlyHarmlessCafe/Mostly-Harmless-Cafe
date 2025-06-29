@@ -60,13 +60,9 @@ tags:
 1. Add sugar, msg, chili flakes, and dried chilies. Cook until sugar melts.
 1. Add chinkiang vinegar, mix and simmer for 10 seconds.
 1. Add chicken stock mixture.
-1. Simmer for 2-3 minutes, stirring occasionally.***- [1]***
+1. Simmer for 2-3 minutes, stirring occasionally.[^1]
 1. Stream in cornstarch slurry.
 1. Add chicken. Toss until fully covered.
 1. Serve.
 
-<div class="footnotes">
-
-1. Add in a few leaves of Thai basil here to give it an herby licorice note.
-
-</div>
+[^1]: Add in a few leaves of Thai basil here to give it an herby licorice note.

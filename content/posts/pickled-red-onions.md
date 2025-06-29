@@ -26,6 +26,3 @@ tags:
 1. Fill the rest of the way with rice vinegar.
 1. Let soak for at least an hour. Store leftovers in the fridge. The longer they soak, the stronger the flavor will be.
 
-<div class="footnotes">
-
-</div>

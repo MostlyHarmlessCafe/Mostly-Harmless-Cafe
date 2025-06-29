@@ -35,6 +35,3 @@ tags:
 1. Flip chicken, cover, and simmer for another 25 minutes.
 1. Serve on rice.
 
-<div class="footnotes">
-
-</div>

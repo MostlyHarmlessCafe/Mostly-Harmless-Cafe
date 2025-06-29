@@ -55,12 +55,12 @@ tags:
     1. Flip chicken, cook until other side is brown.
     1. Optional: toss the chicken to get a bit of browning around the rest of the chicken.
     1. Cook rice using chicken stock.
-    1. Use the rice for something and come back to it the next day. ***- [1]***
+    1. Use the rice for something and come back to it the next day.[^1]
     1. Add soy sauce and garlic to a bowl, mix together.
     1. Add vegetable oil with ginger to seasoned wok on medium heat, cook until ginger slightly browns.
     1. Add onion, cook until onion is slightly transleucent. 
     1. Increase heat to medium-high, and add rice.
-    1. Flatten rice with spatula, toss. Repeat several times until rice is hot and the rice is mostly broken up. ***- [2]***
+    1. Flatten rice with spatula, toss. Repeat several times until rice is hot and the rice is mostly broken up.[^2]
     1. Add chicken. Toss until combined.
     1. Add soy sauce and garlic mix to rice by streaming it down the side of the wok.
     1. Toss until rice is completely coated with soy sauce mix.
@@ -69,9 +69,5 @@ tags:
     1. Add chilies and green onion. Toss until combined.
     1. Serve.
 
-<div class="footnotes">
-
-1. Alternatively, you can set it on a plate and set it in the fridge for around 45 minutes.
-1. If added the rice fresh or hot, don't do this as you'll squash the rice. Also, avoid chopping the rice, just rely on pressing it down with the spatula.
-
-</div>
+[^1]: Alternatively, you can set it on a plate and set it in the fridge for around 45 minutes.
+[^2]: If added the rice fresh or hot, don't do this as you'll squash the rice. Also, avoid chopping the rice, just rely on pressing it down with the spatula.

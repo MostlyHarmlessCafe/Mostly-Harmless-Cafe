@@ -14,6 +14,7 @@ tags:
 - spicy
 ---
 
+The portions in this recipe are mostly from the hip so it's really important to taste as you go.
 
 # Ingredients
 - 1 bunch of parsley (finely chopped)
@@ -33,16 +34,11 @@ tags:
 1. Add all the solid ingredients to a container.
 1. Using an immersion blender, blend them all together until they're something of a paste.
 1. Add olive oil, periodically blending, until it reaches the desired consistency.
-1. Add the red and white wine vinegar to taste.<sup>[1]</sup>
+1. Add the red and white wine vinegar to taste.[^1]
 1. Add the lime juice.
 1. Salt to taste.
 1. Lightly blend one more time.
 
-<div class="footnotes">
+**Note**: This will get stronger the longer it's stored. Also, while sitting, it will likely thicken. If this happens, you can add one or more of the wet ingredients to wake it up.
 
-1. I usually add to taste with the red wine vinegar and then move on to the white wine vinegar to get it up to the acidity that I want.
-
-- The portions in this recipe are mostly from the hip.
-- This will get stronger the longer it's stored. While sitting, it will likely thicken. If this happens you can add one or more of the wet ingredients until it wakes up.
-
-</div>
+[^1]: I usually add to taste with the red wine vinegar and then move on to the white wine vinegar to get it up to the acidity that I want.

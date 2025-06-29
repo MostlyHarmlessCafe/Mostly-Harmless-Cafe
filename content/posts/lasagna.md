@@ -19,7 +19,7 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
 ## Materials:
 - Dutch oven
 - 9&frac12;" lasagna pan
-- Immersion blender (see note 4)
+- Immersion blender (see note 3)
 
 # Ingredients
 - 9 lasagna noodles
@@ -42,7 +42,7 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
     - 15 oz ricotta
     - 1 egg
     - &frac14; cup of pecorino romano
-    - 8 oz low-moisture mozzarella cheese (shredded)<sup>[1]</sup>
+    - 8 oz low-moisture mozzarella cheese (shredded)[^1]
         - opt: additional for topping
     - salt & pepper
 
@@ -50,7 +50,7 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
 - Sauce:
     1. Preheat oven to 375&deg;F
     1. Cook noodles per box instructions (don't forget to salt water). Cool with cold water and set aside when done.
-    1. In a large pot on medium-high heat, add he butter and place ground beef and sausage. Mash the meat in and cook until there is a decent sear on the bottom. Stir and repeat until meat is browned.<sup>[2]</sup>
+    1. In a large pot on medium-high heat, add he butter and place ground beef and sausage. Mash the meat in and cook until there is a decent sear on the bottom. Stir and repeat until meat is browned.[^2]
     1. Stir in the ground pepper and fennel seed.
     1. Remove meat from the pot and set aside.
     1. Add onions, celery, and carrot to the pot and cook until onions are translucent.
@@ -58,7 +58,7 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
     1. Add the garlic and cook until fragrant.
     1. Add in the tomato paste and stir in. Cook until the paste has slightly caramelized.
     1. Add in the crushed tomatoes.
-    1. Remove the pot from heat and, using an immersion blender, puree the sauce until desired texture is reached.<sup>[3]</sup>
+    1. Remove the pot from heat and, using an immersion blender, puree the sauce until desired texture is reached.[^3]
     1. Add in red pepper flakes.
     1. Return the pot to heat, reduce the heat to medium-low, add back in the ground beef, and simmer for 15-20 minutes.
 - Cheese Mixture:
@@ -71,14 +71,10 @@ Similar to the spaghetti and meatballs dish, this started as a "But Cheaper" ite
         - optional: top with additional mozzarella
     1. Add additional salt and pepper on top.
     1. Cover and place in oven for 25 minutes.
-    1. Uncover and place in oven for another 25 minutes.<sup>[4]</sup>
+    1. Uncover and place in oven for another 25 minutes.[^4]
     1. Remove from oven and let sit for 15 minutes.
 
-<div class="footnotes">
-
-1. No pre-shredded cheese. It's also recommended that you use low-moisture mozzarella. If you use something like buffalo mozzarella it will make the layer flat and soggy rather than stringy.
-1. Ideally, this should create a *fond* on the bottom of the pan. This is a caramelized layer of grease that will be deglazed by the wine and mixed into the sauce to give it additional rich flavor.
-1. If you don't have an immersion blender or simply don't want to be bothered with this step, it's completely fine to skip this. It will give your sauce a slightly less smooth texture which plenty of people actually prefer. I prefer it to be smooth but you can make it however you like.
-1. Feel free to broil on high for a minute or two to get that browning on the top. Be careful not to brown it too much because it might make the top layer of cheese a bit chewy and difficult to work with.
-
-</div>
+[^1]: No pre-shredded cheese. It's also recommended that you use low-moisture mozzarella. If you use something like buffalo mozzarella it will make the layer flat and soggy rather than stringy.
+[^2]: Ideally, this should create a *fond* on the bottom of the pan. This is a caramelized layer of grease that will be deglazed by the wine and mixed into the sauce to give it additional rich flavor.
+[^3]: If you don't have an immersion blender or simply don't want to be bothered with this step, it's completely fine to skip this. It will give your sauce a slightly less smooth texture which plenty of people actually prefer. I prefer it to be smooth but you can make it however you like.
+[^4]: Feel free to broil on high for a minute or two to get that browning on the top. Be careful not to brown it too much because it might make the top layer of cheese a bit chewy and difficult to work with.

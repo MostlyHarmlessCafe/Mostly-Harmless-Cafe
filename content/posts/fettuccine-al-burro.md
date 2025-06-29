@@ -21,7 +21,7 @@ tags:
 - 2 tbsp of butter
 - &frac12; cup of pecorino romano (fine grated + additional for garnish)
     - subst: parmigiano reggiano
-- salt and pepper to taste ***- [1]***
+- pepper to taste[^1]
 
 # Instructions
 1. Slice butter into smaller pieces and place in medium sized bowl.
@@ -32,8 +32,4 @@ tags:
 1. Add ground pepper to taste, toss.
 1. Serve in bowl or on plate and garnish with additional cheese and pepper.
 
-<div class="footnotes">
-
-1. Traditionally the recipe doesn't call for black pepper but I add it as a personal touch at the very end.
-
-</div>
+[^1]: Traditionally the recipe doesn't call for black pepper but I add it as a personal touch at the very end.

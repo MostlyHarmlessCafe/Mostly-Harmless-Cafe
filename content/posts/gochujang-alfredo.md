@@ -47,11 +47,7 @@ This was taken from someone in r/food. It's a pretty generic alfredo pasta with 
 1. Add gochujang. Stir in and let simmer for 2 minutes.
 1. Add heavy cream. Stir to combine. Add salt, pepper, and gochujaru to taste and let simmer for 2 minutes.
 1. Add parmesan and basil. Stir to combine.
-1. Add pasta and pasta water.***- [1]***
+1. Add pasta and pasta water.[^1]
 1. After sauce thickens, serve and top with additional parmesan and basil.
 
-<div class="footnotes">
-
-1. Just add enough pasta water that everything gets combined.
-
-</div>
+[^1]: Just add enough pasta water that everything gets combined.

@@ -25,7 +25,7 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - 1 tsp of fennel seeds
     - 2 cloves of garlic (minced)
 - Beef Stroganoff
-    - 1&frac12; lbs thin sliced chuck (~&frac14;inch) ***- [1]***
+    - 1&frac12; lbs thin sliced chuck (~&frac14; inch)[^1]
     - &frac14; cup butter (div. 2)
     - 1 medium yellow onion (sliced)
     - 1 lb bella mushrooms (sliced)
@@ -38,7 +38,7 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - &frac12; tbsp of black pepper (ground)
     - &frac12; tbsp of whole allspice (ground)
     - &frac12; cup sour cream (plus additional for topping)
-    - 1 tbsp mustard ***- [2]***
+    - 1 tbsp mustard[^2]
 
 # Instructions
 - Beef
@@ -55,9 +55,5 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     1. Add in the sour cream and optional mustard and stir to combine.
     1. Serve with pasta, mashed potatoes, rice, or whatever else you'd like.
 
-<div class="footnotes">
-
-1. The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it. Careful not to boil because that will have the opposite effect.
-1. The mustard adds a bit of brightness and acidity which complements the dish's richness. Any type of mustard works but I like using classic yellow mustard; furthermore, what I usually do is omit the mustard altogether and add it per serving since how much mustard I want usually varies.
-
-</div>
+[^1]: The reason for using chuck is mainly because it's cheap and for me that makes the dish more down to earth. I also like that you'll come across a chunk of fat every so often. You can use sirloin, ribeye, ground beef, or whatever cut of beef you want. Whatever you use, the meat will tenderize the longer you simmer it. Careful not to boil because that will have the opposite effect.
+[^2]: The mustard adds a bit of brightness and acidity which complements the dish's richness. Any type of mustard works but I like using classic yellow mustard; furthermore, what I usually do is omit the mustard altogether and add it per serving since how much mustard I want usually varies.
