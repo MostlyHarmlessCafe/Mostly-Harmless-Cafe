@@ -22,12 +22,12 @@ tags:
     - 1 jalapeno (sliced thickness)
     - &frac14; small onion (thinly sliced)
 - Sauce:
-    - &frac12; Tbsp mayonnaise
-    - &frac14; Tbsp ketchup
-    - &frac14; Tbsp mustard
+    - &frac12; tbsp mayonnaise
+    - &frac14; tbsp ketchup
+    - &frac14; tbsp mustard
     - &frac14; tsp salt
     - &frac14; tsp pepper
-    - &frac14; pickle (finely diced)
+    - &frac12; tbsp dill relish
     - &frac14; onion (diced and browned)
 
 # Instructions
