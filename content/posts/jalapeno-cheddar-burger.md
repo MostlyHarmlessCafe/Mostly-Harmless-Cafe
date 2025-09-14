@@ -15,33 +15,32 @@ tags:
 
 # Ingredients
 - Beef:
-    - &frac13; lb ground beef[^1]
+    - &frac13; lb ground beef (80/20% fat, div. 2)
     - 1 slice of cheddar cheese
     - 1 slice of american cheese
         - subst: whatever cheese you want
-    - 1 jalapeno (sliced thickness)
-    - &frac14; small onion (thinly sliced)
+    - 1 jalapeno (sliced)
+    - 3 cloves of garlic (minced)
+    - 1 tbsp butter (melted)
+    - salt & pepper (to taste)
 - Sauce:
     - &frac12; tbsp mayonnaise
     - &frac14; tbsp ketchup
     - &frac14; tbsp mustard
-    - &frac14; tsp salt
-    - &frac14; tsp pepper
     - &frac12; tbsp dill relish
     - &frac14; onion (diced and browned)
+    - salt & pepper (to taste)
 
 # Instructions
 - Sauce:
     1. Mix it all together.
     1. Put as much as you want on the inside of both buns.
 - Burger:
-    1. Toast both buns using olive oil on medium heat skillet.
+    1. Toast both buns on the inside, apply butter to the outside of the buns and toaste the outside.
+    1. Evenly distribute the garlic between the two patties and mix well until evenly incorporated.
     1. Apply generous amounts of salt and pepper to both sides of patty.
-    1. Place patty on skillet set to medium-high. Set onions on top of patty and firmly press patty flat onto the skillet.
-    1. Cook for 1m30s minutes or to desired doneness.
-    1. Flip. Place layer of jalapenos, followed by American cheese, followed by cheddar cheese.
+    1. Heat skillet to medium-high heat and onto it firmly press the first patty. Cook until thoroughly seared.
+    1. Flip. Place layer of jalapenos, followed by American cheese.
     1. Cook for 1 minute.
-    1. Remove from heat and cover. Let sit for 45 seconds.
+    1. Set the patty to the side and repeat the process with the second patty but with the cheddar cheese instead.
     1. Sauce bottom bun, place patty, sauce top of patty, cover with top bun.
-
-[^1]: Use &frac12; lb of ground beef and divide into 2 patties. Top first patty with jalapenos and American cheese. Top second patty with cheddar. Apply onion method to first patty.
