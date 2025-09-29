@@ -28,7 +28,7 @@ This recipe is pretty close to traditional but there are a couple of other thing
 - 1&frac12; lbs ground beef (70-80% lean)
 - 1&frac12; lbs ground pork[^2]
 - &frac14; pound chicken liver (ground or minced)
-- 2 cups white whine[^3]
+- 2 cups white wine[^3]
 - 15 oz tomato paste
 - 2 cups vegetable stock
 - 1 cup whole milk
