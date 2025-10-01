@@ -4,8 +4,8 @@ date: 2025-09-28T20:49:04-04:00
 draft: false
 
 image: /images/food-images/ragu-alla-bolognese_deadbody13.webp
-caption: Ragu alla bolognese served on linguine.
-alt : Ragu alla bolognese served on linguine.
+caption: Ragu alla bolognese served on fettuccine with pecorino romano.
+alt : Ragu alla bolognese served on fettuccine with pecorino romano.
 
 description: Meat sauce used in lasagna or served with pasta.
 
