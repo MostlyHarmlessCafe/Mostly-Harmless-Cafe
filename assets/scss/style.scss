@@ -30,14 +30,18 @@
   font-family: "Go Bold";
   src: url("/fonts/Go-Bold.ttf")
 }
+@font-face {
+  font-family: "Vollkorn";
+  src: url("/fonts/Vollkorn-VariableFont_wght.ttf")
+}
 // recursive
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
 // quicksand
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Quicksand:wght@300..700&display=swap');
 
 :root {
-  --font-primary: "Go", "Go Mono", "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
-  --font-secondary: "Go Medium";
+  --font-primary: "Vollkorn", "Go", "Go Mono", "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
+  --font-secondary: "Vollkorn";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
   --background: #fcf5e5;
