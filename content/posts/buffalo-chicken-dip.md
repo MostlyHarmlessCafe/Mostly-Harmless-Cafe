@@ -12,26 +12,32 @@ tags:
 ---
 
 # Ingredients
+- 2 tbsp olive oil
 - 2 cups shredded chicken breast (bones and skin removed)
+- salt
 - 1 tsp parsley
 - 1 tsp rosemary
 - 1 tsp thyme
 - 8 oz cream cheese (softened)
 - &frac12; cup Frank's Red Hot
 - &frac12; cup ranch
-- 1 block (roughly 6 oz) cheddar cheese (freshly grated)
+- 6 oz of sharp cheddar cheese (grated)
+- 1 jalapeno (quartered and thinly sliced)
+- 1 green onion (thinly sliced, sort into stem and bulb)
 - Optional:
     - &frac12; cup blue cheese crumbles
 
 # Instructions
-1. To a medium pot, add the parsley, rosemary, and thyme and bring to a simmer.
-1. Place chicken in water, cover with lid, and leave for 45-60 minutes.[^1]
+1. Salt the chicken on both sides.
+1. To a medium pot on medium-high heat, add the olive oil and sear the chicken on both sides.
+1. Add the parsley, rosemary, and thyme. Add enough water to cover the chicken and bring to a simmer.
+1. Cook on medium-low until the chicken is pull-apart tender (~1-2 hours).
 1. Remove chicken from the pot and shred it using whatever works.[^2]
-1. Mix together cream cheese, hot sauce, and ranch.
+1. Mix together cream cheese, hot sauce, jalapeno, the bulb of the green onion, and ranch.
 1. Mix in chicken.
 1. Mix in half of the grated cheddar cheese and the blue cheese crumbles if you opted for using them.
 1. Add the mixture to a small oven-safe dish and bake at 325&deg;F for 8 minutes.
-1. Remove from the oven, top with the remaining half of the grated cheddar cheese, and cook in the oven for another 5 minutes.[^3]
+1. Remove from the oven, top with the remaining half of the grated cheddar cheese and the stem of the green onion and cook in the oven for another 5 minutes.[^3]
 1. Serve.
 
 [^1]: A convenient method for this is just preheating the oven to 325&deg;F and after the water comes to a boil, put it in said oven. This will maintain the slow cooking temperature more consistently than the stove will.
