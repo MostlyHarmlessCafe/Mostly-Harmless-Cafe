@@ -23,7 +23,6 @@ tags:
 - &frac12; cup ranch
 - 6 oz of sharp cheddar cheese (grated)
 - 1 jalapeno (quartered and thinly sliced)
-- 1 green onion (thinly sliced, sort into stem and bulb)
 - Optional:
     - &frac12; cup blue cheese crumbles
 
