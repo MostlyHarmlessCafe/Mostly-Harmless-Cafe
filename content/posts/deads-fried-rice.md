@@ -13,61 +13,38 @@ tags:
 - food
 - chicken
 - asian
-- spicy
 - rice
 ---
 
 # Ingredients
-- Chicken:
-    - 1 chicken thigh
-    - 1 tbsp shaoxing wine
-        - subst: 1 tbsp chicken stock and 1 tsp of lemon juice
-    - 1 tbsp soy sauce
-    - 1 tbsp gochujang 
-    - 1 tsp ground ginger 
-    - 1 tsp garlic powder
-    - 1 tsp salt
 - Rice:
-    - 1 cup rice (uncooked)
-    - chicken stock
-        - subst: water
-    - &frac12; onion (diced)
-    - 2 eggs (scrambled)
+    - 100g of jasmine rice (uncooked)
+    - 100g of water[^1]
+    - vegetable oil
+    - 3 eggs (scrambled)
+    - 1 medium red onion (finely diced)
     - 1 inch knob of ginger (minced)
-    - 1 clove of garlic (grated)
-    - 1 tbsp soy sauce
-    - 1 tbsp sambal oelek
-    - 2 birdseye chilies (thinly sliced)
+    - 2 cloves of garlic (minced)
+    - 1 tbsp sesame oil
+    - 1 tbsp chili oil
+    - 1 tbsp cilantro (minced)
     - 1 green onion (thinly sliced)
+- Sauce:
+    - 2 tbsp soy sauce
+    - 1 tbsp oyster sauce
+    - &frac12; tbsp lime juice
 
 # Instructions
-- Chicken:
-    1. Carve chicken thigh (if necessary), removing bone and skin, and cut into bite size pieces.
-    1. Mix all other ingredients into a bowl and add chicken. Mix until chicken is covered.
-    1. Set aside and let marinade for at least 45 minutes or overnight.
-- Rice:
-    1. Add vegetable oil to seasoned wok on medium-high heat.
-    1. Once wok is smoking, add egg, cook until bubbles are seen from the side.
-    1. Flip eggs, cook for 10 more seconds.
-    1. Cut the now solid disk of egg into manageable pieces small enough to mix into the rice.
-    1. Set eggs aside, wipe out remaining bits from wok, and add more oil.
-    1. Once wok is smoking a bit, add marinated chicken, cook until brown.
-    1. Flip chicken, cook until other side is brown.
-    1. Optional: toss the chicken to get a bit of browning around the rest of the chicken.
-    1. Cook rice using chicken stock.
-    1. Use the rice for something and come back to it the next day.[^1]
-    1. Add soy sauce and garlic to a bowl, mix together.
-    1. Add vegetable oil with ginger to seasoned wok on medium heat, cook until ginger slightly browns.
-    1. Add onion, cook until onion is slightly transleucent. 
-    1. Increase heat to medium-high, and add rice.
-    1. Flatten rice with spatula, toss. Repeat several times until rice is hot and the rice is mostly broken up.[^2]
-    1. Add chicken. Toss until combined.
-    1. Add soy sauce and garlic mix to rice by streaming it down the side of the wok.
-    1. Toss until rice is completely coated with soy sauce mix.
-    1. Add sambal oelek. Toss until combined.
-    1. Add eggs. Toss until combined.
-    1. Add chilies and green onion. Toss until combined.
-    1. Serve.
+1. Add rice and water to rice cooker. Cook to completion and spread over a plate before putting it in the fridge to be chilled.
+1. To a small bowl, add all of the sauce ingredients and stir to combine. Set aside.
+1. To a wok on medium-high heat, add the vegetable. When the oil starts smoking, add the egg.
+1. Cook until the egg is done, chop it up with the spatula, add it to a bowl and set it to the side.
+1. Add oil to wok and reduce to medium-low heat.
+1. Add the onion. Cook until translucent.
+1. Add garlic and ginger. Cook until fragrent.
+1. Increase heat to medium-high and add cooked rice. Stir and toss throughout the cooking process.
+1. Cook for about 30 seconds and then add the sesame oil and chili oil. Continue tossing and stiring.
+1. Add the sauce by streaming it down the sides of the wok. Immediately resume mixing the rice.
+1. Add the cilantro and green onion. Mix for another minute and then pour into a bowl for serving.
 
-[^1]: Alternatively, you can set it on a plate and set it in the fridge for around 45 minutes.
-[^2]: If added the rice fresh or hot, don't do this as you'll squash the rice. Also, avoid chopping the rice, just rely on pressing it down with the spatula.
+[^1]: I know it probably seems weird to measure water out for rice like this but a 1:1 ratio of dry rice to water gives the best result when the rice is going to be fried soon thereafter.
