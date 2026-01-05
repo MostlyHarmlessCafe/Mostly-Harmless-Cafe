@@ -28,6 +28,7 @@ tags:
     - 1 tbsp sesame oil
     - 1 tbsp chili oil
     - 1 tbsp cilantro (minced)
+    - 1 jalapeno (sliced)
     - 1 green onion (thinly sliced)
 - Sauce:
     - 2 tbsp soy sauce
@@ -45,6 +46,6 @@ tags:
 1. Increase heat to medium-high and add cooked rice. Stir and toss throughout the cooking process.
 1. Cook for about 30 seconds and then add the sesame oil and chili oil. Continue tossing and stiring.
 1. Add the sauce by streaming it down the sides of the wok. Immediately resume mixing the rice.
-1. Add the cilantro and green onion. Mix for another minute and then pour into a bowl for serving.
+1. Add the jalapeno, cilantro, and green onion. Mix for another minute and then pour into a bowl for serving.
 
 [^1]: I know it probably seems weird to measure water out for rice like this but a 1:1 ratio of dry rice to water gives the best result when the rice is going to be fried soon thereafter.
