@@ -17,7 +17,7 @@ tags:
 
 ## Ingredients:
 - 1 &frac12; cups whole milk
-- 4 oz finely chopped cocoa (usally one square, 100% cocoa)
+- 1 oz finely chopped cocoa (usally one square, 100% cocoa)
 - 1 &frac12; Tbsp sugar
 - &frac14; tsp cayenne pepper
     - optional 
