@@ -1,38 +1,10 @@
 @font-face {
-  font-family: "Jost Light";
-  src: url("/fonts/Jost-300-Light.ttf");
-}
-@font-face {
-  font-family: "No Tears";
-  src: url("/fonts/No Tears.ttf");
-}
-@font-face {
-  font-family: "Inter";
-  src: url("/fonts/Inter-VariableFont_slnt,wght.ttf")
-}
-@font-face {
-  font-family: "Comfortaa";
-  src: url("/fonts/Comfortaa-VariableFont_wght.ttf")
-}
-@font-face {
-  font-family: "Go";
-  src: url("/fonts/Go-Regular.ttf")
-}
-@font-face {
-  font-family: "Go Itallic";
-  src: url("/fonts/Go-Italic.ttf")
-}
-@font-face {
-  font-family: "Go Medium";
-  src: url("/fonts/Go-Medium.ttf")
-}
-@font-face {
-  font-family: "Go Bold";
-  src: url("/fonts/Go-Bold.ttf")
-}
-@font-face {
   font-family: "Vollkorn";
-  src: url("/fonts/Vollkorn-VariableFont_wght.ttf")
+  src: url("/fonts/Vollkorn-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "SUSE";
+  src: url("/fonts/SUSE-VariableFont_wght.ttf");
 }
 // recursive
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
@@ -40,8 +12,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Quicksand:wght@300..700&display=swap');
 
 :root {
-  --font-primary: "Vollkorn", "Go", "Go Mono", "Quicksand", "Comfortaa", "Recursive", "Inter", "No Tears", "Jost Light";
-  --font-secondary: "Vollkorn";
+  --font-primary: "SUSE";
+  --font-secondary: "SUSE";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
   --background: #fcf5e5;
