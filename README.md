@@ -1,6 +1,5 @@
 # Mostly Harmless Cafe
-[https://cookbook.mostlyharmless.cafe/
-](https://mostlyharmlesscafe.github.io/Mostly-Harmless-Cafe/)
+https://mostlyharmlesscafe.github.io/Mostly-Harmless-Cafe/
 
 ## Contributing recipes
 
