@@ -3,7 +3,7 @@ title: "Street Tacos"
 date: 2025-05-27T17:36:12-04:00
 draft: true
 
-image: /images/food-images/street-tacos_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/street-tacos_deadbody13.webp
 caption: Soft shell street tacos served with fries
 alt: Soft shell street tacos served with fries
 

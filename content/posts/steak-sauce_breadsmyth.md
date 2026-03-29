@@ -3,7 +3,7 @@ title: "Steak Sauce (breadsmyth)"
 date: 2023-11-10T13:17:50-05:00
 draft: false
 
-image: /images/food-images/steak-sauce_breadsmyth.webp
+image: /Mostly-Harmless-Cafe/images/food-images/steak-sauce_breadsmyth.webp
 caption: Steak topped with steak sauce; image by breadsmyth
 alt: Steak served with sauce on top
 

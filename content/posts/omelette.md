@@ -3,7 +3,7 @@ title: "Omelette"
 date: 2024-07-24T16:08:06-04:00
 draft: false
 
-image: /images/food-images/omelette_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/omelette_deadbody13.webp
 caption: Omelette with sausage, jalapeno, onion, asiago, and cheddar
 alt : Omelette with sausage, jalapeno, onion, asiago, and cheddar
 

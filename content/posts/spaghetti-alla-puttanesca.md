@@ -3,7 +3,7 @@ title: "Spaghetti Alla Puttanesca"
 date: 2024-01-15T13:11:16-05:00
 draft: false
 
-image: /images/food-images/spaghetti-alla-puttanesca_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/spaghetti-alla-puttanesca_deadbody13.webp
 caption: Bowl of spaghetti alla puttanesca garnished with pecorino romano
 alt: Bowl of spaghetti alla puttanesca garnished with pecorino romano
 

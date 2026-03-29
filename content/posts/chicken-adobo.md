@@ -3,7 +3,7 @@ title: "Chicken Adobo"
 date: 2023-06-17T16:39:03-04:00
 draft: false
 
-image: /images/food-images/chicken-adobo_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/chicken-adobo_deadbody13.webp
 caption: Chicken adobo made from chicken thighs
 alt: Plate with chicken adobo made from chicken thighs
 

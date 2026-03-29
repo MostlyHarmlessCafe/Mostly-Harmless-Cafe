@@ -3,7 +3,7 @@ title: "Chimichurri"
 date: 2025-05-28T20:05:42-04:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 description: Fresh and citrussy sauce with lots of acidity and a good bit of spiciness.
 

@@ -5,7 +5,7 @@ draft: false
 type: "tags"
 layout: "tags"
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 description: General purpose sauces, some used in other recipes in the cookbook.
 

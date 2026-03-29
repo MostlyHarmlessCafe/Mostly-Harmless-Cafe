@@ -3,7 +3,7 @@ title: "Pasta Alla Norma"
 date: 2023-07-08T12:05:26-04:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 credits:
 - virp24

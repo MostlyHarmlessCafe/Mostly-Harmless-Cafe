@@ -3,7 +3,7 @@ title: "Hollandaise Sauce"
 date: 2024-06-16T16:13:08-04:00
 draft: false
 
-image: /images/food-images/avocado-toast_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/avocado-toast_deadbody13.webp
 caption: Avocado toast topped with eggs and hollandaise sauce
 alt : Avocado toast topped with eggs and hollandaise sauce
 

@@ -3,7 +3,7 @@ title: "Pickled Red Onions"
 date: 2025-05-28T20:15:48-04:00
 draft: true
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 tags:
 - food

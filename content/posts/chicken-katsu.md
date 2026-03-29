@@ -3,7 +3,7 @@ title: "Chicken Katsu"
 date: 2023-10-01T12:38:31-04:00
 draft: false
 
-image: /images/food-images/chicken-katsu_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/chicken-katsu_deadbody13.webp
 caption: Chicken katsu served with veggies.
 alt: Chicken katsu served with veggies.
 

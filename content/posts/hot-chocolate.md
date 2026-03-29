@@ -3,7 +3,7 @@ title: "Hot Chocolate"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/food-images/hot-chocolate_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/hot-chocolate_deadbody13.webp
 caption: Hot Chocolate
 alt: Cup of Hot Chocolate with 3 marshmallows
 

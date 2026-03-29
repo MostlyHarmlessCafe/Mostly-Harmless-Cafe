@@ -4,12 +4,12 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
 		<meta property="og:site_name" content="MostlyHarmless Cookbook" />
-		<meta property="og:title" content="{{ .Params.title }}" />
-		<meta property="og:image" content="{{ .Params.image }}" />
+		<meta property="og:title" content=".Params.title }}" />
+		<meta property="og:image" content=".Params.image }}" />
 		<meta property="og:description" content="{{ .Params.description }}" />
 		<title>{{ .Title }}</title>
-		<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bootstrap.min.css">
-		<link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}/images/favicon.png">
+		<link rel="stylesheet" href="/Mostly-Harmless-Cafe/css/bootstrap.min.css">
+		<link rel="icon" type="image/x-icon" href="/Mostly-Harmless-Cafe/images/favicon.png">
 		{{ with resources.Get "scss/style.scss" }}
 			{{ $opts := dict
 			"enableSourceMap" hugo.IsDevelopment

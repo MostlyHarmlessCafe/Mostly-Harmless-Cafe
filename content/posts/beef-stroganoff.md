@@ -3,7 +3,7 @@ title: "Beef Stroganoff"
 date: 2023-06-17T16:39:03-04:00
 draft: false
 
-image: /images/food-images/beef-stroganoff_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/beef-stroganoff_deadbody13.webp
 caption: Beef Stroganoff served on noodles, garnished with parsley and sour cream, served with brussels sprouts
 alt : Beef Stroganoff served on noodles, garnished with parsley and sour cream, served with brussels sprouts
 

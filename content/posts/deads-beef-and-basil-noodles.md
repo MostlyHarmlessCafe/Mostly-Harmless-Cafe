@@ -3,7 +3,7 @@ title: "Dead's Beef and Basil Noodles"
 date: 2023-07-16T15:28:50-04:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 tags:
 - food

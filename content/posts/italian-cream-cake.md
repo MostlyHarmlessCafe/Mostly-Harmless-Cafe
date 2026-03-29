@@ -5,7 +5,7 @@ draft: false
 
 description: Sweet and savory cake filled with coconut and garnished with nuts and chocolate.
 
-image: /images/food-images/italian-cream-cake_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/italian-cream-cake_deadbody13.webp
 caption: Italian cream cake garnished with chocolate and chopped pecans.
 alt: Italian cream cake garnished with chocolate and chopped pecans.
 

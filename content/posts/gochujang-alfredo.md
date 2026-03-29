@@ -3,7 +3,7 @@ title: "Gochujang Alfredo"
 date: 2023-10-23T07:50:27-04:00
 draft: false
 
-image: /images/food-images/gochujang-alfredo_anon001.webp
+image: /Mostly-Harmless-Cafe/images/food-images/gochujang-alfredo_anon001.webp
 caption: Bowl of Gochujang Alfredo
 alt: Bowl of Gochujang Alfredo garnished with Pecorino Romano
 

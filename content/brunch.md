@@ -6,7 +6,7 @@ draft: false
 type: "tags"
 layout: "tags"
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 description: Food for the late morning. Also includes the breakfast menu items.
 

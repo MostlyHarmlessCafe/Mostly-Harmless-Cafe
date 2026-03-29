@@ -3,7 +3,7 @@ title: "Penne Alla Vodka"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/food-images/penne-alla-vodka_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/penne-alla-vodka_deadbody13.webp
 caption: Penne Alla Vodka
 alt: Bowl of Penne Alla Vodka
 

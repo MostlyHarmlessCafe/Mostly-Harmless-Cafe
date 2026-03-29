@@ -5,7 +5,7 @@ draft: false
 type: "tags"
 layout: "tags"
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 description: The cafe's curated collection of carb salads.
 

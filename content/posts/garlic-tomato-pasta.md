@@ -3,7 +3,7 @@ title: "Garlic Tomato Pasta"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 tags:
 - food

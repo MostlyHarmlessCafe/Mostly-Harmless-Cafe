@@ -3,7 +3,7 @@ title: "Wassail"
 date: 2024-12-26T16:26:46-05:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 description: A hot an spicy beverage, best served around winter time for any occasion.
 

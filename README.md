@@ -22,7 +22,7 @@ Click the `Issues` tab and select `New issue`. Add the title of your dish, all t
 
 Clone the repo:
 
-`git clone https://github.com/MostlyHarmlessCafe/Mostly-Harmless-Cafe.git`
+`git clone https://github.com/Mostly-Harmless-Cafe//Mostly-Harmless-Cafe.git`
 
 Create your entry with `hugo new content/post/recipe-title.md` (if you don't have Hugo, install it, it should be in most mainstream repos).
 

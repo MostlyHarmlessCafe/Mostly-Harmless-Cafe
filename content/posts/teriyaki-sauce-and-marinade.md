@@ -3,7 +3,7 @@ title: "Teriyaki Sauce"
 date: 2023-12-13T15:50:52-05:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 tags:
 - food

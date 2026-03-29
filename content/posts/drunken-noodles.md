@@ -3,7 +3,7 @@ title: "Drunken Noodles (Pad Kee Mao)"
 date: 2023-08-01T14:32:25-04:00
 draft: false
 
-image: /images/food-images/pad-kee-mao_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/pad-kee-mao_deadbody13.webp
 caption: drunken noodles
 alt: bowl of Drunken Noodles
 

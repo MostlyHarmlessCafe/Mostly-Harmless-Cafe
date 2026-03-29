@@ -3,7 +3,7 @@ title: "Spaghetti and Meatballs"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/food-images/spaghetti-and-meatballs_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/spaghetti-and-meatballs_deadbody13.webp
 caption: Spaghetti and Meatballs
 alt: Bowl of Spaghetti and Meatballs
 

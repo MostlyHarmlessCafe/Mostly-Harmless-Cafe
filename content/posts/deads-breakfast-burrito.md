@@ -3,7 +3,7 @@ title: "Dead's Breakfast Burrito"
 date: 2023-07-06T20:39:50-04:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 tags:
 - food

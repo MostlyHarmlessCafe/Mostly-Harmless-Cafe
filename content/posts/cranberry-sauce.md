@@ -3,7 +3,7 @@ title: "Cranberry Sauce"
 date: 2025-11-26T19:38:05-05:00
 draft: false
 
-image: /images/logo.png
+image: /Mostly-Harmless-Cafe/images/logo.png
 
 description: Warm and basic cranberry sauce.
 

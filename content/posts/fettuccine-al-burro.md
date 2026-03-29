@@ -3,7 +3,7 @@ title: "Fettuccine al Burro"
 date: 2023-11-25T19:25:14-05:00
 draft: false
 
-image: /images/food-images/fettuccine-al-burro_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/fettuccine-al-burro_deadbody13.webp
 caption: Bowl of fettuccine al burro garnished with additional pecorino romano and black pepper
 alt: Bowl of fettuccine al burro garnished with additional pecorino romano and black pepper
 

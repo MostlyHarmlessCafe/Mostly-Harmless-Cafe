@@ -3,7 +3,7 @@ title: "Ragu Alla Bolognese"
 date: 2025-09-28T20:49:04-04:00
 draft: false
 
-image: /images/food-images/ragu-alla-bolognese_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/ragu-alla-bolognese_deadbody13.webp
 caption: Ragu alla bolognese served on fettuccine with pecorino romano.
 alt : Ragu alla bolognese served on fettuccine with pecorino romano.
 

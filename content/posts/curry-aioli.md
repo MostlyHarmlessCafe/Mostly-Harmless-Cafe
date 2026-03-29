@@ -3,7 +3,7 @@ title: "Curry Aioli"
 date: 2023-06-17T16:39:04-04:00
 draft: false
 
-image: /images/food-images/curry-aioli_deadbody13.webp
+image: /Mostly-Harmless-Cafe/images/food-images/curry-aioli_deadbody13.webp
 caption: Burger with side of fries topped with curry aioli
 alt: Burger with side of fries topped with curry aioli
 
