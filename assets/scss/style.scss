@@ -6,14 +6,38 @@
   font-family: "SUSE";
   src: url("/fonts/SUSE-VariableFont_wght.ttf");
 }
+@font-face {
+  font-family: "Apple Garamond";
+  src: url("/fonts/AppleGaramond.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Apple Garamond";
+  src: url("/fonts/AppleGaramond-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Apple Garamond";
+  src: url("/fonts/AppleGaramond-Italic.ttf");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Apple Garamond";
+  src: url("/fonts/AppleGaramond-BoldItalic.ttf");
+  font-weight: bold;
+  font-style: italic;
+}
 // recursive
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
 // quicksand
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Quicksand:wght@300..700&display=swap');
 
 :root {
-  --font-primary: "SUSE";
-  --font-secondary: "SUSE";
+  --font-primary: "Apple Garamond";
+  --font-secondary: "Apple Garamond";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
   --background: #fcf5e5;
