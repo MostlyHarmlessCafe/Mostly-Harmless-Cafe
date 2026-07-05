@@ -32,9 +32,13 @@
   --border-color: #ccc8c2;
 }
 
+html {
+  font-size: 16px;
+}
+
 body {
   font-family: var(--font-primary);
-  font-size: 18px;
+  font-size: 1.0rem;
   color: var(--foreground);
   background-color: var(--background);
 }
@@ -53,12 +57,13 @@ a:hover {
   padding-bottom: 15px;
   h1 {
     border-bottom: 0px;
-    font-size: 28px;
+    font-size: 2.0rem;
     padding-bottom: 0px;
     margin-bottom: 5px;
   }
   h3 {
-    font-size: 18px;
+    font-size: 1.0rem;
+    line-height: 1.0rem;
   }
   a:link, a:visited {
     text-decoration: none;
@@ -83,12 +88,13 @@ a:hover {
   h1 {
     padding: 15px 0px 0px 0px;
     text-align: center;
-    font-size: 42px;
+    font-size: 2.0rem;
   }
   h2 {
     padding: 2px 0px;
     text-align: center;
-    font-size: 30px;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
     a {
       text-decoration: none;
     }
@@ -134,11 +140,11 @@ a:hover {
     padding-left: 0px;
   }
   h1 {
-    font-size: 32px;
+    font-size: 2.0rem;
     margin-bottom: 0px;
   }
   h2 {
-    font-size: 18px;
+    font-size: 1.5rem;
   }
   .recipe-header {
     font-family: var(--font-secondary);
@@ -159,7 +165,7 @@ a:hover {
     list-style: circle;
   }
   .footnotes {
-    font-size: 12px;
+    font-size: 0.8rem;
     p {
       line-height: 1.0rem;
       margin-bottom: 0.25rem;
@@ -175,14 +181,14 @@ a:hover {
   }
   figcaption {
     font-style: italic;
-    font-size: 16px;
+    font-size: 1.0rem;
   }
   ul {
-    font-size: 16px;
+    font-size: 1.0rem;
   }
 }
 .recipe-credits {
-  font-size: 14px;
+  font-size: 1.0rempx;
   border-left: 1px double #ccc8c2;
   border-width: 5px;
   padding: 5px 5px 0px 5px;
