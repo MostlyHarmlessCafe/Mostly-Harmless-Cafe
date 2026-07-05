@@ -12,6 +12,8 @@ description: Salty, savory, and slightly spicy wing sauce recipe.
 tags:
 - food
 - chicken
+- sauce
+- asian
 ---
 
 This is more about the sauce than the wings. This recipe is enough for around 10-12 wings and can make anything from a wet and saucy to sticky and candy-like, depending on how long you cook it.
