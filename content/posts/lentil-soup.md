@@ -32,7 +32,9 @@ Lentil soup isn't exactly culinary greatness, but it is incredibly hearty, easy 
 - &frac12; tsp of ground cayenne pepper
 - 15 oz. can of crushed tomatoes
 - 1 lb (&approx;450g) of dried navy lentils
+- water
 - 40g fresh parsley (rinsed and chopped)
+- red wine vinegar
 - *Optional: Hot sauce*
 
 # Instructions
@@ -48,4 +50,7 @@ Lentil soup isn't exactly culinary greatness, but it is incredibly hearty, easy 
 1. Add the lentils and stir in.
 1. Add water to cover the lentils.
 1. Bring to a simmer and put in the oven, covered. Cook for &approx;40 minutes.
+1. When you pull it out of the oven, it will likely look a bit dry. Add water until it reaches your preferred consistency.
+1. Add to taste red wine vinegar.
+1. Season to taste with salt and pepper.
 1. Serve by itself, on rice, with bread, or whatever you want.
