@@ -25,20 +25,21 @@ This recipe calls for noodles but the sauce can be put on pretty much everything
     - 1 tsp of fennel seeds
     - 2 cloves of garlic (minced)
 - Beef Stroganoff
-    - 1&frac12; lbs thin sliced chuck (~&frac14; inch)[^1]
-    - &frac14; cup butter (div. 2)
+    - 1&frac12; lbs of thin sliced chuck (~&frac14; inch)[^1]
+    - &frac14; cup of butter (div. 2)
     - 1 medium yellow onion (sliced)
-    - 1 lb bella mushrooms (sliced)
-    - 4 cloves garlic (minced)
-    - &frac12; cup vegetable stock and 1 tbsp white vinegar (mixed together)
+    - 1 lb (&approx;450g) of bella mushrooms (sliced)
+    - 4 cloves of garlic (minced)
+    - &frac12; cup white wine
+      - substitution: &frac12; cup vegetable stock and 1 tbsp white vinegar (mixed together)
     - 2 cups beef stock
-    - 1 tbsp worcestershire sauce
-    - 3&frac12; tbsp all-purpose flour
+    - 1 tbsp of worcestershire sauce
+    - 3&frac12; tbsp of all-purpose flour
     - &frac12; tbsp of fine salt
     - &frac12; tbsp of black pepper (ground)
-    - &frac12; tbsp of whole allspice (ground)
-    - &frac12; cup sour cream (plus additional for topping)
-    - 1 tbsp mustard[^2]
+    - &frac12; tbsp of whole allspice
+    - &frac12; cup of sour cream (plus additional for topping)
+    - 1 tbsp of mustard[^2]
 
 # Instructions
 - Beef
