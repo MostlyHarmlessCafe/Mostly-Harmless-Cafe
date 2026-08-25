@@ -1,31 +1,31 @@
 @font-face {
-  font-family: "Apple Garamond";
-  src: url("/Mostly-Harmless-Cafe/fonts/AppleGaramond.ttf");
+  font-family: "Liberation Serif";
+  src: url("/Mostly-Harmless-Cafe/fonts/Liberation Serif/LiberationSerif-Regular.ttf");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: "Apple Garamond";
-  src: url("/Mostly-Harmless-Cafe/fonts/AppleGaramond-Bold.ttf");
+  font-family: "Liberation Serif";
+  src: url("/Mostly-Harmless-Cafe/fonts/Liberation Serif/LiberationSerif-Bold.ttf");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
-  font-family: "Apple Garamond";
-  src: url("/Mostly-Harmless-Cafe/fonts/AppleGaramond-Italic.ttf");
+  font-family: "Liberation Serif";
+  src: url("/Mostly-Harmless-Cafe/fonts/Liberation Serif/LiberationSerif-Italic.ttf");
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
-  font-family: "Apple Garamond";
-  src: url("/Mostly-Harmless-Cafe/fonts/AppleGaramond-BoldItalic.ttf");
+  font-family: "Liberation Serif";
+  src: url("/Mostly-Harmless-Cafe/fonts/Liberation Serif/LiberationSerif-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
 }
 
 :root {
-  --font-primary: "Apple Garamond";
-  --font-secondary: "Apple Garamond";
+  --font-primary: "Liberation Serif";
+  --font-secondary: "Liberation Serif";
   --foreground: #5c5852;
   --foreground-accent: #a6752e;
   --background: #fcf5e5;
