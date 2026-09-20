@@ -3,9 +3,9 @@ title: "Lentil Soup"
 date: 2026-07-04T17:31:10-04:00
 draft: false
 
-image: /Mostly-Harmless-Cafe/images/food-images/lentil-soup.webp
-caption: Lentil soup served with rice.
-alt: Lentil soup served with rice.
+image: /Mostly-Harmless-Cafe/images/food-images/lentil-soup_deadbody13.webp
+caption: Lentil soup served with toasted sourdough.
+alt: Lentil soup served with toasted sourdough.
 
 description: Simple, healthy, and hearty lentil dish that can be served on its own, with bread, or on rice.
 
